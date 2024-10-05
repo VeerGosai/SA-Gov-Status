@@ -27,15 +27,44 @@
 </head>
 <body>
     <h1>Website Status Check</h1>
-    <p><span id="status-dot" class="status-dot"></span>education.gov.za</p>
+    <ul>
+        <li><span id="status-dot1" class="status-dot"></span>Agriculture, Land Reform and Rural Development</li>
+        <li><span id="status-dot2" class="status-dot"></span>Basic Education</li>
+        <li><span id="status-dot3" class="status-dot"></span>Civilian Secretariat for Police</li>
+        <li><span id="status-dot4" class="status-dot"></span>Communications and Digital Technologies</li>
+        <li><span id="status-dot5" class="status-dot"></span>Cooperative Governance and Traditional Affairs</li>
+        <li><span id="status-dot6" class="status-dot"></span>Correctional Services</li>
+        <li><span id="status-dot7" class="status-dot"></span>Defence</li>
+        <li><span id="status-dot8" class="status-dot"></span>Employment and Labour</li>
+        <li><span id="status-dot9" class="status-dot"></span>Forestry, Fisheries and the Environment</li>
+        <li><span id="status-dot10" class="status-dot"></span>Government Communication and Information System</li>
+        <li><span id="status-dot11" class="status-dot"></span>Health</li>
+        <li><span id="status-dot12" class="status-dot"></span>Higher Education and Training</li>
+        <li><span id="status-dot13" class="status-dot"></span>Home Affairs</li>
+        <li><span id="status-dot14" class="status-dot"></span>Human Settlements</li>
+        <li><span id="status-dot15" class="status-dot"></span>Independent Police Investigative Directorate</li>
+        <li><span id="status-dot16" class="status-dot"></span>International Relations and Cooperation</li>
+        <li><span id="status-dot17" class="status-dot"></span>Justice and Constitutional Development</li>
+        <li><span id="status-dot18" class="status-dot"></span>Military Veterans</li>
+        <li><span id="status-dot19" class="status-dot"></span>Mineral Resources and Energy</li>
+        <li><span id="status-dot20" class="status-dot"></span>National School of Government</li>
+        <li><span id="status-dot21" class="status-dot"></span>National Treasury</li>
+        <li><span id="status-dot22" class="status-dot"></span>Office of the Chief Justice</li>
+        <li><span id="status-dot23" class="status-dot"></span>Planning Monitoring and Evaluation</li>
+        <li><span id="status-dot24" class="status-dot"></span>Public Enterprises</li>
+        <li><span id="status-dot25" class="status-dot"></span>Public Service and Administration</li>
+        <li><span id="status-dot26" class="status-dot"></span>Public Service Commission</li>
+        <li><span id="status-dot27" class="status-dot"></span>Public Works and Infrastructure</li>
+        <li><span id="status-dot28" class="status-dot"></span>Science and Innovation</li>
+    </ul>
 
     <script>
-        async function checkWebsiteStatus() {
-            const url = "https://www.education.gov.za/Home.aspx";
-            const statusDot = document.getElementById("status-dot");
+        async function checkWebsiteStatus(id, url) {
+            const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+            const statusDot = document.getElementById(id);
 
             try {
-                const response = await fetch(url, { method: 'HEAD' });
+                const response = await fetch(proxyUrl + url);
                 if (response.ok) {
                     statusDot.classList.add("green");
                     statusDot.classList.remove("red");
@@ -49,7 +78,34 @@
             }
         }
 
-        checkWebsiteStatus();
+        checkWebsiteStatus('status-dot1', 'http://www.dalrrd.gov.za/');
+        checkWebsiteStatus('status-dot2', 'https://www.education.gov.za/');
+        checkWebsiteStatus('status-dot3', 'http://www.policesecretariat.gov.za/');
+        checkWebsiteStatus('status-dot4', 'https://www.dcdt.gov.za/');
+        checkWebsiteStatus('status-dot5', 'https://www.cogta.gov.za');
+        checkWebsiteStatus('status-dot6', 'http://www.dcs.gov.za/');
+        checkWebsiteStatus('status-dot7', 'http://www.dod.mil.za');
+        checkWebsiteStatus('status-dot8', 'http://www.labour.gov.za/');
+        checkWebsiteStatus('status-dot9', 'https://www.dffe.gov.za/');
+        checkWebsiteStatus('status-dot10', 'https://www.gcis.gov.za');
+        checkWebsiteStatus('status-dot11', 'https://www.health.gov.za/');
+        checkWebsiteStatus('status-dot12', 'https://www.dhet.gov.za/');
+        checkWebsiteStatus('status-dot13', 'http://www.dha.gov.za/');
+        checkWebsiteStatus('status-dot14', 'https://www.dhs.gov.za/');
+        checkWebsiteStatus('status-dot15', 'https://www.ipid.gov.za/');
+        checkWebsiteStatus('status-dot16', 'https://www.dirco.gov.za/');
+        checkWebsiteStatus('status-dot17', 'https://www.justice.gov.za/');
+        checkWebsiteStatus('status-dot18', 'http://www.dmv.gov.za/');
+        checkWebsiteStatus('status-dot19', 'http://www.dmre.gov.za/');
+        checkWebsiteStatus('status-dot20', 'https://www.thensg.gov.za/');
+        checkWebsiteStatus('status-dot21', 'https://www.treasury.gov.za/');
+        checkWebsiteStatus('status-dot22', 'https://www.judiciary.org.za');
+        checkWebsiteStatus('status-dot23', 'https://www.dpme.gov.za/Pages/default.aspx');
+        checkWebsiteStatus('status-dot24', 'https://dpe.gov.za/');
+        checkWebsiteStatus('status-dot25', 'https://www.dpsa.gov.za');
+        checkWebsiteStatus('status-dot26', 'https://www.psc.gov.za/');
+        checkWebsiteStatus('status-dot27', 'http://www.publicworks.gov.za/');
+        checkWebsiteStatus('status-dot28', 'https://www.dst.gov.za/');
     </script>
 </body>
 </html>
