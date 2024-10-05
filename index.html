@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Status Check</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .status-dot {
+            height: 15px;
+            width: 15px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .green {
+            background-color: green;
+        }
+        .red {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Website Status Check</h1>
+    <p><span id="status-dot" class="status-dot"></span>education.gov.za</p>
+
+    <script>
+        async function checkWebsiteStatus() {
+            const url = "https://www.education.gov.za/Home.aspx";
+            const statusDot = document.getElementById("status-dot");
+
+            try {
+                const response = await fetch(url, { method: 'HEAD' });
+                if (response.ok) {
+                    statusDot.classList.add("green");
+                    statusDot.classList.remove("red");
+                } else {
+                    statusDot.classList.add("red");
+                    statusDot.classList.remove("green");
+                }
+            } catch (error) {
+                statusDot.classList.add("red");
+                statusDot.classList.remove("green");
+            }
+        }
+
+        checkWebsiteStatus();
+    </script>
+</body>
+</html>
