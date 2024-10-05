@@ -37,3 +37,103 @@ http://www.ncpg.gov.za/,Northern Cape
 http://www.westerncape.gov.za/,Western Cape
 https://www.sassa.gov.za/,SASSA
 https://www.sapapers.co.za/SA Papers
+https://www.gov.za,Government of South Africa
+https://www.southafrica.info, South Africa Online
+https://www.dsd.gov.za,Department of Social Development
+https://www.dha.gov.za,Department of Home Affairs
+https://www.policestatistics.gov.za,South African Police Service Statistics
+https://www.westerncape.gov.za,Western Cape Government
+https://www.tshwane.gov.za,City of Tshwane
+https://www.joburg.org.za,City of Johannesburg
+https://www.capetown.gov.za,City of Cape Town
+https://www.easterncape.gov.za,Eastern Cape Government
+https://www.kzn.gov.za,KwaZulu-Natal Government
+https://www.limpopo.gov.za,Limpopo Provincial Government
+https://www.mpumalanga.gov.za,Mpumalanga Provincial Government
+https://www.northwest.gov.za,North West Provincial Government
+https://www.freetystate.gov.za,Free State Provincial Government
+https://www.gauteng.gov.za,Gauteng Provincial Government
+https://www.dmr.gov.za,Department of Mineral Resources
+https://www.environment.gov.za,Department of Environment, Forestry and Fisheries
+https://www.transport.gov.za,Department of Transport
+https://www.sars.gov.za,South African Revenue Service
+https://www.health.gov.za,Department of Health
+https://www.education.gov.za,Department of Basic Education
+https://www.dhET.gov.za,Department of Higher Education and Training
+https://www.sasa.org.za,South African Social Security Agency
+https://www.investment.gov.za,Department of Trade, Industry and Competition
+https://www.nationaldepartmentofhealth.gov.za,National Department of Health
+https://www.dhcs.gov.za,Department of Human Settlements
+https://www.gautrain.co.za,Gautrain Management Agency
+https://www.nhls.ac.za,National Health Laboratory Service
+https://www.sahrc.org.za,South African Human Rights Commission
+https://www.arts.gov.za,Department of Sports, Arts and Culture
+https://www.npa.gov.za,National Prosecuting Authority
+https://www.csa.gov.za,Civilian Secretariat for the Police Service
+https://www.sadc.int, Southern African Development Community
+https://www.national treasury.gov.za,National Treasury
+https://www.cogta.gov.za,Department of Cooperative Governance and Traditional Affairs
+https://www.dhs.gov.za,Department of Housing
+https://www.saldru.uct.ac.za,Southern Africa Labour and Development Research Unit
+https://www.csir.co.za,Council for Scientific and Industrial Research
+https://www.uj.ac.za,University of Johannesburg
+https://www.ru.ac.za,Rhodes University
+https://www.wits.ac.za,University of the Witwatersrand
+https://www.unisa.ac.za,University of South Africa
+https://www.nwu.ac.za,North-West University
+https://www.mysociety.org.za,My Society South Africa
+https://www.nda.org.za,National Development Agency
+https://www.bosch.com, Bosch South Africa
+https://www.elections.org.za,Electoral Commission of South Africa
+https://www.pmg.org.za,Parliamentary Monitoring Group
+https://www.westerncape.gov.za/departments/education, Western Cape Department of Education
+https://www.eceducation.gov.za,Eastern Cape Department of Education
+https://www.kzneducation.gov.za,KwaZulu-Natal Department of Education
+https://www.dhet.gov.za,Department of Higher Education and Training
+https://www.labour.gov.za,Department of Employment and Labour
+https://www.business.gov.za,Business.gov.za
+https://www.dbsa.org, Development Bank of Southern Africa
+https://www.hsrc.ac.za,Human Sciences Research Council
+https://www.sahra.org.za,South African Heritage Resources Agency
+https://www.statssa.gov.za,Statistics South Africa
+https://www.sadpo.org, South African Development Policy Observatory
+https://www.politicsweb.co.za,Politicsweb
+https://www.ics.gov.za,Information and Communication Technology
+https://www.saal.gov.za,South African Audit and Accounting
+https://www.mil.gov.za,South African National Defence Force
+https://www.saps.gov.za,South African Police Service
+https://www.defenceweb.co.za,DefenceWeb
+https://www.ujuh.co.za,UJuh
+https://www.treasury.gov.za,National Treasury of South Africa
+https://www.fsb.co.za,Financial Services Board
+https://www.acts.co.za,South African Acts
+https://www.icc.org.za,International Criminal Court South Africa
+https://www.ustr.gov.za,United States Trade Representative South Africa
+https://www.filmsa.org.za,Film South Africa
+https://www.cde.org.za,Centre for Development and Enterprise
+https://www.safm.co.za,South African FM
+https://www.busa.org.za,Business Unity South Africa
+https://www.busa.org.za/gov/safe, Safe South Africa
+https://www.cooperative.gov.za,Cooperative Governance
+https://www.tourism.gov.za,Department of Tourism
+https://www.legacy.gov.za,The Legacy Project
+https://www.csi.gov.za,Corporate Social Investment
+https://www.sabc.co.za,South African Broadcasting Corporation
+https://www.geoscience.org.za,Council for Geoscience
+https://www.saasac.co.za,South African State Archive and Agency Commission
+https://www.nwpg.gov.za,North West Provincial Government
+https://www.madiba.gov.za,Madiba Legacy
+https://www.iafrica.com, iAfrica
+https://www.researchgate.net, ResearchGate South Africa
+https://www.journal.org.za,Journal of South African Studies
+https://www.fightingcancer.org.za,Fighting Cancer South Africa
+https://www.nbp.org.za,National Biodiversity Planning
+https://www.digital.gov.za,Digital Government
+https://www.education.gov.za/educationinfo, Education Information
+https://www.humanrights.gov.za,South African Human Rights
+https://www.ruraldevelopment.gov.za,Department of Rural Development and Land Reform
+https://www.nrcs.org.za,National Regulator for Compulsory Specifications
+https://www.environment.gov.za/initiatives, Environmental Initiatives
+https://www.qualitycouncil.org.za,Quality Council for Trades and Occupations
+https://www.sasa.gov.za,South African Statistical Agency
+https://www.cityofcapetown.gov.za,City of Cape Town
