@@ -26,3 +26,13 @@ Website: Public Service and Administration - Status: 200
 Website: Public Service Commission - Status: 200
 Website: Public Works and Infrastructure - Status: 200
 Website: Science and Innovation - Status: Offline
+Website: Eastern Cape - Status: Offline
+Website: Free State - Status: Offline
+Website: Gauteng - Status: 200
+Website: KwaZulu-Natal - Status: Offline
+Website: Limpopo - Status: 200
+Website: Mpumalanga - Status: 200
+Website: North West - Status: Offline
+Website: Northern Cape - Status: Offline
+Website: Western Cape - Status: 200
+Website: SASSA - Status: Offline
