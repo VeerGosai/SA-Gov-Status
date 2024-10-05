@@ -35,6 +35,7 @@ jobs:
           echo "const statusPromises = [];" >> check-status.js
           echo "" >> check-status.js
           echo "const checkWebsiteStatus = async (url, title) => {" >> check-status.js
+          echo "    console.log(\`Checking status for: \${title} (\${url})\`);" >> check-status.js  # Log the site being checked
           echo "    try {" >> check-status.js
           echo "        const response = await axios.get(url);" >> check-status.js
           echo "        return \`Website: \${title} - Status: \${response.status}\`;" >> check-status.js
