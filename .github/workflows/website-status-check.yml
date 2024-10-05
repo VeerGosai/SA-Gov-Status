@@ -2,38 +2,67 @@ name: Check Website Status
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   check-status:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # Use Node.js version 20
+          node-version: '20'  # Use Node.js 20
 
       - name: Install dependencies
-        run: npm install axios
+        run: |
+          npm install axios
 
-      - name: Run website status check
+      - name: Create and run check-status.js
+        run: |
+          echo "const fs = require('fs');" > check-status.js
+          echo "const axios = require('axios');" >> check-status.js
+          echo "" >> check-status.js
+          echo "const sites = fs.readFileSync('sites.txt', 'utf-8').trim().split('\\n');" >> check-status.js
+          echo "" >> check-status.js
+          echo "const statusPromises = [];" >> check-status.js
+          echo "" >> check-status.js
+          echo "const checkWebsiteStatus = async (url, title) => {" >> check-status.js
+          echo "    try {" >> check-status.js
+          echo "        const response = await axios.get(url);" >> check-status.js
+          echo "        return \`Website: \${title} - Status: \${response.status}\`;" >> check-status.js
+          echo "    } catch (error) {" >> check-status.js
+          echo "        return \`Website: \${title} - Status: Offline\`;" >> check-status.js
+          echo "    }" >> check-status.js
+          echo "};" >> check-status.js
+          echo "" >> check-status.js
+          echo "sites.forEach(line => {" >> check-status.js
+          echo "    const [url, title] = line.split(',');" >> check-status.js
+          echo "    if (url && title) {" >> check-status.js
+          echo "        const trimmedUrl = url.trim();" >> check-status.js
+          echo "        const trimmedTitle = title.trim();" >> check-status.js
+          echo "        statusPromises.push(checkWebsiteStatus(trimmedUrl, trimmedTitle));" >> check-status.js
+          echo "    }" >> check-status.js
+          echo "});" >> check-status.js
+          echo "" >> check-status.js
+          echo "Promise.all(statusPromises)" >> check-status.js
+          echo "    .then(results => {" >> check-status.js
+          echo "        fs.writeFileSync('output.txt', results.join('\\n'), 'utf-8');" >> check-status.js
+          echo "        console.log('Website statuses checked and saved to output.txt');" >> check-status.js
+          echo "    })" >> check-status.js
+          echo "    .catch(error => {" >> check-status.js
+          echo "        console.error('Error checking website statuses:', error);" >> check-status.js
+          echo "    });" >> check-status.js
+
+      - name: Run check-status.js
         run: node check-status.js
 
-      - name: Save results to text file
-        run: |
-          echo "Website Status Results" > results.txt
-          cat output.txt >> results.txt
-        # Make sure output.txt is created in your check-status.js
-
-      - name: Commit and push results
-        run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "actions@github.com"
-          git add results.txt
-          git commit -m "Update website status results"
-          git push
+      - name: Upload output.txt
+        uses: actions/upload-artifact@v3
+        with:
+          name: website-status-results
+          path: output.txt
