@@ -66,3 +66,13 @@ jobs:
         with:
           name: website-status-results
           path: output.txt
+
+      - name: Commit and push output.txt
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.txt
+          git commit -m "Update website status results"
+          git push origin main  # Change 'main' to your default branch if different
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
