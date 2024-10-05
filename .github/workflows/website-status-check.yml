@@ -1,45 +1,50 @@
-name: Website Status Check
+name: Check Website Status
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   check-status:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Read websites from sites.txt
-        id: read_sites
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Use a supported Node.js version
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run website status check
         run: |
-          sites=$(cat sites.txt)
-          echo "::set-output name=sites::$sites"
+          # Create a JavaScript file to check website status
+          echo "
+          const fs = require('fs');
+          const axios = require('axios');
 
-      - name: Check website statuses
-        id: check_status
-        run: |
-          echo "Website Status Log" > status-log.txt
-          IFS=$'\n' # Set newline as delimiter
-          for line in ${{ steps.read_sites.outputs.sites }}; do
-            url=$(echo $line | cut -d',' -f1)
-            title=$(echo $line | cut -d',' -f2)
-            response=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+          async function checkWebsiteStatus() {
+              const sites = fs.readFileSync('sites.txt', 'utf-8').split('\\n');
+              for (const site of sites) {
+                  const [url, title] = site.split(',');
+                  if (url && title) {
+                      try {
+                          const response = await axios.get(url.trim());
+                          console.log(\`Website: \${title.trim()} - Status: \${response.status}\`);
+                      } catch (error) {
+                          console.log(\`Website: \${title.trim()} - Status: Offline\`);
+                      }
+                  }
+              }
+          }
 
-            if [ "$response" -eq 200 ]; then
-              echo "$title is online (HTTP $response)" >> status-log.txt
-            else
-              echo "$title is offline (HTTP $response)" >> status-log.txt
-            fi
-          done
+          checkWebsiteStatus();
+          " > check-status.js
 
-      - name: Commit status log
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add status-log.txt
-          git commit -m "Update website status log"
-          git push
+          # Run the JavaScript file
+          node check-status.js
