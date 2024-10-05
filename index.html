@@ -38,8 +38,8 @@
             const statusDotClass = status === 'Offline' ? 'red' : 'green'; // Adjusted for Offline check
             statusCard.innerHTML = `
                 <span class="status-dot ${statusDotClass}"></span>
-                <span>${title} - Status: ${status}</span>
-                <a href="${url}" target="_blank" style="text-decoration: none; color: #007bff; margin-left: 10px;">Visit</a>
+                <span style="flex-grow: 1; text-align: center;">${title} - Status: ${status}</span>
+                <a href="${url}" target="_blank" class="visit-button">Visit</a>
             `;
             statusList.appendChild(statusCard);
         }
