@@ -19,18 +19,41 @@
             .then(response => response.text())
             .then(data => {
                 const lines = data.trim().split('\n'); // Trim to remove any leading/trailing whitespace
-                lines.forEach(line => {
+                return Promise.all(lines.map(line => {
                     const parts = line.split(' - Status: '); // Split by " - Status: "
                     if (parts.length === 2) {
-                        const title = parts[0].trim(); // Extracting the title
+                        const title = parts[0].trim().replace('Website: ', ''); // Remove "Website: "
                         const status = parts[1].trim(); // Extracting the status
-                        const url = title.includes(':') ? title.split(': ')[1].trim() : ''; // Extract URL if present
-                        createStatusElement(title, status, url);
+                        return fetchSitesData(title).then(url => {
+                            createStatusElement(title, status, url);
+                        });
                     }
-                });
+                }));
+            })
+            .then(() => {
                 attachSearchFunctionality(); // Attach search functionality after creating elements
             })
             .catch(error => console.error('Error loading artifact:', error));
+
+        function fetchSitesData(title) {
+            // Fetch the sites.txt to get the URL associated with each title
+            return fetch('https://raw.githubusercontent.com/VeerGosai/SA-Gov-Status/main/sites.txt') // Adjust the URL if the branch is different
+                .then(response => response.text())
+                .then(data => {
+                    const sites = data.trim().split('\n');
+                    for (const site of sites) {
+                        const [url, siteTitle] = site.split(',');
+                        if (siteTitle.trim() === title) {
+                            return url; // Return the URL if the title matches
+                        }
+                    }
+                    return ''; // Return an empty string if no match found
+                })
+                .catch(error => {
+                    console.error('Error loading sites:', error);
+                    return ''; // Return an empty string in case of error
+                });
+        }
 
         function createStatusElement(title, status, url) {
             const statusList = document.getElementById('status-list');
