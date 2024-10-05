@@ -58,84 +58,39 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
-        #search {
-            margin-bottom: 20px;
-            padding: 10px;
-            width: 100%;
-            max-width: 400px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Website Status Check</h1>
-        <input type="text" id="search" placeholder="Search websites..." oninput="filterWebsites()">
         <div id="status-list"></div>
     </div>
 
     <script>
-        let websites = [];  // Array to hold website data
+        // Fetch the results from the artifacts (this will need to point to your GitHub Pages URL or where your artifact is stored)
+        fetch('path/to/your/artifact.txt') // Update this with the correct path to your artifact
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                lines.forEach(line => {
+                    const [url, status] = line.split(' - ');
+                    if (url && status) {
+                        createStatusElement(url.trim(), status.trim());
+                    }
+                });
+            })
+            .catch(error => console.error('Error loading artifact:', error));
 
-        // Fetch the 'sites.txt' file automatically on page load
-        window.onload = function() {
-            fetch('sites.txt')
-                .then(response => response.text())
-                .then(data => {
-                    const lines = data.split('\n');
-                    lines.forEach((line, index) => {
-                        const [url, title] = line.split(',');
-                        if (url && title) {
-                            websites.push({ id: `status-dot${index}`, title: title.trim(), url: url.trim() });
-                            createStatusElement(`status-dot${index}`, title.trim(), url.trim());
-                            checkWebsiteStatus(`status-dot${index}`, url.trim());
-                        }
-                    });
-                })
-                .catch(error => console.error('Error loading sites.txt:', error));
-        };
-
-        function createStatusElement(id, title, url) {
+        function createStatusElement(url, status) {
             const statusList = document.getElementById('status-list');
             const statusCard = document.createElement('div');
             statusCard.className = 'status-card';
+            const statusDotClass = status === '200' ? 'green' : 'red';
             statusCard.innerHTML = `
-                <span id="${id}" class="status-dot loading"></span>
-                <span>${title}</span>
+                <span class="status-dot ${statusDotClass}"></span>
+                <span>${url} - Status: ${status}</span>
             `;
             statusList.appendChild(statusCard);
-        }
-
-        async function checkWebsiteStatus(id, url) {
-            const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-            const statusDot = document.getElementById(id);
-
-            try {
-                const response = await fetch(proxyUrl + url);
-                if (response.ok) {
-                    statusDot.classList.add("green");
-                } else {
-                    statusDot.classList.add("red");
-                }
-            } catch (error) {
-                statusDot.classList.add("red");
-            } finally {
-                statusDot.classList.remove("loading");
-            }
-        }
-
-        function filterWebsites() {
-            const searchTerm = document.getElementById('search').value.toLowerCase();
-            const statusList = document.getElementById('status-list');
-            statusList.innerHTML = '';  // Clear current list
-
-            websites.forEach(website => {
-                if (website.title.toLowerCase().includes(searchTerm)) {
-                    createStatusElement(website.id, website.title, website.url);
-                    checkWebsiteStatus(website.id, website.url);
-                }
-            });
         }
     </script>
 </body>
