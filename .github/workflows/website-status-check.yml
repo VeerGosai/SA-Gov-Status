@@ -11,15 +11,16 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # This action should work with Node.js 20
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Use a supported Node.js version
+          node-version: '20'  # Ensure you're using Node.js 20
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install axios
 
       - name: Run website status check
         run: |
