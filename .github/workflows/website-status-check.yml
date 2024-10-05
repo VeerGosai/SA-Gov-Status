@@ -3,49 +3,28 @@ name: Check Website Status
 on:
   schedule:
     - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   check-status:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3  # This action should work with Node.js 20
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'  # Ensure you're using Node.js 20
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'  # Specify the Node.js version
 
-      - name: Install dependencies
-        run: |
-          npm install axios
+    - name: Install dependencies
+      run: npm install axios
 
-      - name: Run website status check
-        run: |
-          # Create a JavaScript file to check website status
-          echo "
-          const fs = require('fs');
-          const axios = require('axios');
+    - name: Run status check
+      run: node checkStatus.js  # Run the JavaScript file
 
-          async function checkWebsiteStatus() {
-              const sites = fs.readFileSync('sites.txt', 'utf-8').split('\\n');
-              for (const site of sites) {
-                  const [url, title] = site.split(',');
-                  if (url && title) {
-                      try {
-                          const response = await axios.get(url.trim());
-                          console.log(\`Website: \${title.trim()} - Status: \${response.status}\`);
-                      } catch (error) {
-                          console.log(\`Website: \${title.trim()} - Status: Offline\`);
-                      }
-                  }
-              }
-          }
-
-          checkWebsiteStatus();
-          " > check-status.js
-
-          # Run the JavaScript file
-          node check-status.js
+    - name: Upload results
+      uses: actions/upload-artifact@v3
+      with:
+        name: website-status-results
+        path: results.txt  # Upload the results file
