@@ -40,7 +40,6 @@
             statusCard.innerHTML = `
                 <span class="status-dot ${statusDotClass}"></span>
                 <span style="flex-grow: 1; text-align: center;">${title}</span>
-                <span style="text-align: center;">Status: ${status}</span>
                 <a href="${url}" target="_blank" class="visit-button">Visit</a>
             `;
             statusList.appendChild(statusCard);
@@ -53,8 +52,7 @@
                 const statusCards = document.querySelectorAll('.status-card');
                 statusCards.forEach(card => {
                     const titleText = card.querySelector('span:nth-child(2)').textContent.toLowerCase(); // Title text
-                    const statusText = card.querySelector('span:nth-child(3)').textContent.toLowerCase(); // Status text
-                    card.style.display = titleText.includes(filter) || statusText.includes(filter) ? '' : 'none'; // Filter by title and status
+                    card.style.display = titleText.includes(filter) ? '' : 'none'; // Filter by title
                 });
             });
         }
