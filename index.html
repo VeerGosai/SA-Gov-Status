@@ -18,12 +18,13 @@
         fetch('https://raw.githubusercontent.com/VeerGosai/SA-Gov-Status/main/output.txt') // Adjust the URL if the branch is different
             .then(response => response.text())
             .then(data => {
-                const lines = data.split('\n');
+                const lines = data.trim().split('\n'); // Trim to remove any leading/trailing whitespace
                 lines.forEach(line => {
-                    const [statusString, status] = line.split(' - Status: ');
-                    if (statusString && status) {
-                        const url = statusString.split(': ')[1].trim(); // Extracting the URL
-                        const title = statusString.split(': ')[0].trim(); // Extracting the title
+                    const parts = line.split(' - Status: '); // Split by " - Status: "
+                    if (parts.length === 2) {
+                        const title = parts[0].trim(); // Extracting the title
+                        const status = parts[1].trim(); // Extracting the status
+                        const url = title.includes(':') ? title.split(': ')[1].trim() : ''; // Extract URL if present
                         createStatusElement(title, status, url);
                     }
                 });
@@ -38,7 +39,8 @@
             const statusDotClass = status === 'Offline' ? 'red' : 'green'; // Adjusted for Offline check
             statusCard.innerHTML = `
                 <span class="status-dot ${statusDotClass}"></span>
-                <span style="flex-grow: 1; text-align: center;">${title} - Status: ${status}</span>
+                <span style="flex-grow: 1; text-align: center;">${title}</span>
+                <span style="text-align: center;">Status: ${status}</span>
                 <a href="${url}" target="_blank" class="visit-button">Visit</a>
             `;
             statusList.appendChild(statusCard);
@@ -50,8 +52,9 @@
                 const filter = searchInput.value.toLowerCase();
                 const statusCards = document.querySelectorAll('.status-card');
                 statusCards.forEach(card => {
-                    const text = card.textContent.toLowerCase();
-                    card.style.display = text.includes(filter) ? '' : 'none';
+                    const titleText = card.querySelector('span:nth-child(2)').textContent.toLowerCase(); // Title text
+                    const statusText = card.querySelector('span:nth-child(3)').textContent.toLowerCase(); // Status text
+                    card.style.display = titleText.includes(filter) || statusText.includes(filter) ? '' : 'none'; // Filter by title and status
                 });
             });
         }

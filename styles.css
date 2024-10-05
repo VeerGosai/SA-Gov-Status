@@ -20,9 +20,10 @@ h1 {
 #search {
     margin-bottom: 20px;
     padding: 10px;
-    width: 100%;
+    width: calc(100% - 22px); /* Adjusted to fit the container */
     border: 1px solid #ccc;
     border-radius: 5px;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
 .status-card {
