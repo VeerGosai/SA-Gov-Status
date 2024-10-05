@@ -26,3 +26,14 @@ https://www.dpsa.gov.za,Public Service and Administration
 https://www.psc.gov.za/,Public Service Commission
 http://www.publicworks.gov.za/,Public Works and Infrastructure
 https://www.dst.gov.za/,Science and Innovation
+http://www.ec.gov.za/,Eastern Cape
+http://www.freestateonline.gov.za/,Free State
+http://www.gauteng.gov.za/,Gauteng
+http://www.kzn.gov.za/,KwaZulu-Natal
+http://www.limpopo.gov.za/,Limpopo
+http://www.mpumalanga.gov.za/,Mpumalanga
+http://www.northwest.gov.za/,North West
+http://www.ncpg.gov.za/,Northern Cape
+http://www.westerncape.gov.za/,Western Cape
+https://www.sassa.gov.za/,SASSA
+https://www.sapapers.co.za/SA Papers
