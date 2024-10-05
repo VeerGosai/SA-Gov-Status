@@ -3,6 +3,7 @@ name: Check Website Status
 on:
   schedule:
     - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   check-status:
@@ -12,19 +13,19 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Node.js
+    - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '20'  # Specify the Node.js version
+        node-version: '20'
 
     - name: Install dependencies
       run: npm install axios
 
-    - name: Run status check
-      run: node checkStatus.js  # Run the JavaScript file
+    - name: Check website status
+      run: node check-status.js
 
     - name: Upload results
       uses: actions/upload-artifact@v3
       with:
         name: website-status-results
-        path: results.txt  # Upload the results file
+        path: results.txt

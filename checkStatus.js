@@ -1,28 +1,26 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const websites = [
-    { title: 'Agriculture', url: 'http://example.com/agriculture' },
-    { title: 'Basic Education', url: 'http://example.com/basic-education' },
-    // Add more websites here...
-];
-
-async function checkWebsiteStatus() {
-    let results = [];
-
-    for (const website of websites) {
+async function checkWebsiteStatus(websites) {
+    const results = await Promise.all(websites.map(async (site) => {
+        const [url, title] = site.split(',');
         try {
-            const response = await axios.get(website.url);
-            results.push(`Website: ${website.title} - Status: ${response.status}`);
+            const response = await axios.get(url.trim());
+            return `Website: ${title.trim()} - Status: ${response.status}`;
         } catch (error) {
-            results.push(`Website: ${website.title} - Status: Offline`);
+            return `Website: ${title.trim()} - Status: Offline`;
         }
-    }
+    }));
+    
+    return results;
+}
 
-    // Write results to a text file
+async function main() {
+    const websites = fs.readFileSync('sites.txt', 'utf8').split('\n');
+    const results = await checkWebsiteStatus(websites);
+
+    // Save results to a text file
     fs.writeFileSync('results.txt', results.join('\n'), 'utf8');
 }
 
-checkWebsiteStatus()
-    .then(() => console.log('Website status check complete. Results saved in results.txt.'))
-    .catch(error => console.error('Error checking website status:', error));
+main();
