@@ -2,7 +2,7 @@ name: Website Status Check
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '*/1 * * * *'  # Runs every 30 minutes
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -20,7 +20,9 @@ jobs:
           echo "::set-output name=sites::$sites"
 
       - name: Check website statuses
+        id: check_status
         run: |
+          echo "Website Status Log" > status-log.txt
           IFS=$'\n' # Set newline as delimiter
           for line in ${{ steps.read_sites.outputs.sites }}; do
             url=$(echo $line | cut -d',' -f1)
@@ -28,8 +30,16 @@ jobs:
             response=$(curl -s -o /dev/null -w "%{http_code}" "$url")
 
             if [ "$response" -eq 200 ]; then
-              echo "$title is online (HTTP $response)"
+              echo "$title is online (HTTP $response)" >> status-log.txt
             else
-              echo "$title is offline (HTTP $response)"
+              echo "$title is offline (HTTP $response)" >> status-log.txt
             fi
           done
+
+      - name: Commit status log
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add status-log.txt
+          git commit -m "Update website status log"
+          git push

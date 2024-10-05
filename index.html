@@ -21,103 +21,37 @@
             color: #333;
             margin-bottom: 20px;
         }
-        .status-card {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+        .status-log {
+            text-align: left;
             background-color: #fff;
             border-radius: 8px;
             padding: 15px;
-            margin-bottom: 10px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .status-dot {
-            height: 15px;
-            width: 15px;
-            border-radius: 50%;
-            display: inline-block;
-            margin-right: 10px;
-        }
-        .green {
-            background-color: lightgreen;
-        }
-        .red {
-            background-color: red;
-        }
-        .loading {
-            border: 4px solid #f3f3f3;
-            border-radius: 50%;
-            border-top: 4px solid #3498db;
-            width: 14px;
-            height: 14px;
-            animation: spin 2s linear infinite;
-            display: inline-block;
-            margin-right: 10px;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Website Status Check</h1>
-        <div id="status-list"></div>
+        <div id="status-log" class="status-log"></div>
     </div>
 
     <script>
-        // Fetch the 'sites.txt' file automatically on page load
-        window.onload = function() {
-            fetch('sites.txt')
-                .then(response => response.text())
-                .then(data => {
-                    const lines = data.split('\n');
-                    lines.forEach((line, index) => {
-                        const [url, title] = line.split(',');
-                        if (url && title) {
-                            createStatusElement(`status-dot${index}`, title.trim(), url.trim());
-                            checkWebsiteStatus(`status-dot${index}`, url.trim());
-                        }
-                    });
-                })
-                .catch(error => console.error('Error loading sites.txt:', error));
-        };
-
-        function createStatusElement(id, title, url) {
-            const statusList = document.getElementById('status-list');
-            const statusCard = document.createElement('div');
-            statusCard.className = 'status-card';
-            statusCard.innerHTML = `
-                <span id="${id}" class="status-dot loading"></span>
-                <span>${title}</span>
-            `;
-            statusList.appendChild(statusCard);
-        }
-
-        async function checkWebsiteStatus(id, url) {
-            const proxyUrl = 'https://api.allorigins.win/get?url=';
-            const statusDot = document.getElementById(id);
-
-            try {
-                const response = await fetch(proxyUrl + encodeURIComponent(url));
-                if (response.ok) {
-                    const data = await response.json();
-                    if (data.contents) {
-                        statusDot.classList.add("green");
-                    } else {
-                        statusDot.classList.add("red");
-                    }
-                } else {
-                    statusDot.classList.add("red");
+        // Fetch the status log
+        fetch('status-log.txt')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
                 }
-            } catch (error) {
-                statusDot.classList.add("red");
-            } finally {
-                statusDot.classList.remove("loading");
-            }
-        }
-
+                return response.text();
+            })
+            .then(data => {
+                document.getElementById('status-log').innerText = data;
+            })
+            .catch(error => {
+                console.error('Error fetching status log:', error);
+            });
     </script>
 </body>
 </html>
