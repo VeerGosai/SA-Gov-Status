@@ -5,6 +5,9 @@ on:
     - cron: '*/30 * * * *'  # Runs every 30 minutes
   workflow_dispatch:  # Allows manual triggering of the workflow
 
+permissions:
+  contents: write  # This grants permission to write to the repository contents
+
 jobs:
   check-status:
     runs-on: ubuntu-latest
@@ -67,12 +70,10 @@ jobs:
           name: website-status-results
           path: output.txt
 
-      - name: Commit and push output.txt
+      - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add output.txt
-          git commit -m "Update website status results"
-          git push origin main  # Change 'main' to your default branch if different
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push output.txt
+        run: git add output.txt && git commit -m "Update website status results" && git push
