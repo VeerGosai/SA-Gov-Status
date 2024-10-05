@@ -1,26 +1,40 @@
 const fs = require('fs');
 const axios = require('axios');
 
-async function checkWebsiteStatus(websites) {
-    const results = await Promise.all(websites.map(async (site) => {
-        const [url, title] = site.split(',');
-        try {
-            const response = await axios.get(url.trim());
-            return `Website: ${title.trim()} - Status: ${response.status}`;
-        } catch (error) {
-            return `Website: ${title.trim()} - Status: Offline`;
-        }
-    }));
-    
-    return results;
-}
+// Read the sites.txt file
+const sites = fs.readFileSync('sites.txt', 'utf-8').trim().split('\n');
 
-async function main() {
-    const websites = fs.readFileSync('sites.txt', 'utf8').split('\n');
-    const results = await checkWebsiteStatus(websites);
+// Create an array to store promises
+const statusPromises = [];
 
-    // Save results to a text file
-    fs.writeFileSync('results.txt', results.join('\n'), 'utf8');
-}
+// Check website status function
+const checkWebsiteStatus = async (url, title) => {
+    try {
+        const response = await axios.get(url);
+        return `Website: ${title} - Status: ${response.status}`;
+    } catch (error) {
+        return `Website: ${title} - Status: Offline`;
+    }
+};
 
-main();
+// Iterate through the sites and create status promises
+sites.forEach(line => {
+    const [url, title] = line.split(',');
+    if (url && title) {
+        const trimmedUrl = url.trim();
+        const trimmedTitle = title.trim();
+        // Push the promise to the array
+        statusPromises.push(checkWebsiteStatus(trimmedUrl, trimmedTitle));
+    }
+});
+
+// Execute all promises concurrently
+Promise.all(statusPromises)
+    .then(results => {
+        // Write the results to output.txt
+        fs.writeFileSync('output.txt', results.join('\n'), 'utf-8');
+        console.log('Website statuses checked and saved to output.txt');
+    })
+    .catch(error => {
+        console.error('Error checking website statuses:', error);
+    });

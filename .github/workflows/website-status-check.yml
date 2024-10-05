@@ -2,30 +2,38 @@ name: Check Website Status
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggering of the workflow
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   check-status:
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3  # Ensure this is up-to-date
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'  # Ensure you are specifying the latest version
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20' # Use Node.js version 20
 
-    - name: Install dependencies
-      run: npm install axios
+      - name: Install dependencies
+        run: npm install axios
 
-    - name: Check website status
-      run: node check-status.js
+      - name: Run website status check
+        run: node check-status.js
 
-    - name: Upload results
-      uses: actions/upload-artifact@v3
-      with:
-        name: website-status-results
-        path: results.txt
+      - name: Save results to text file
+        run: |
+          echo "Website Status Results" > results.txt
+          cat output.txt >> results.txt
+        # Make sure output.txt is created in your check-status.js
+
+      - name: Commit and push results
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add results.txt
+          git commit -m "Update website status results"
+          git push
