@@ -1,0 +1,28 @@
+http://www.dalrrd.gov.za/,Agriculture, Land Reform and Rural Development
+https://www.education.gov.za/,Basic Education
+http://www.policesecretariat.gov.za/,Civilian Secretariat for Police
+https://www.dcdt.gov.za/,Communications and Digital Technologies
+https://www.cogta.gov.za,Cooperative Governance and Traditional Affairs
+http://www.dcs.gov.za/,Correctional Services
+http://www.dod.mil.za,Defence
+http://www.labour.gov.za/,Employment and Labour
+https://www.dffe.gov.za/,Forestry, Fisheries and the Environment
+https://www.gcis.gov.za,Government Communication and Information System
+https://www.health.gov.za/,Health
+https://www.dhet.gov.za/,Higher Education and Training
+http://www.dha.gov.za/,Home Affairs
+https://www.dhs.gov.za/,Human Settlements
+https://www.ipid.gov.za/,Independent Police Investigative Directorate
+https://www.dirco.gov.za/,International Relations and Cooperation
+https://www.justice.gov.za/,Justice and Constitutional Development
+http://www.dmv.gov.za/,Military Veterans
+http://www.dmre.gov.za/,Mineral Resources and Energy
+https://www.thensg.gov.za/,National School of Government
+https://www.treasury.gov.za/,National Treasury
+https://www.judiciary.org.za,Office of the Chief Justice
+https://www.dpme.gov.za/Pages/default.aspx,Planning Monitoring and Evaluation
+https://dpe.gov.za/,Public Enterprises
+https://www.dpsa.gov.za,Public Service and Administration
+https://www.psc.gov.za/,Public Service Commission
+http://www.publicworks.gov.za/,Public Works and Infrastructure
+https://www.dst.gov.za/,Science and Innovation
