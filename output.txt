@@ -36,3 +36,103 @@ Website: North West - Status: Offline
 Website: Northern Cape - Status: Offline
 Website: Western Cape - Status: 200
 Website: SASSA - Status: Offline
+Website: Government of South Africa - Status: 200
+Website: South Africa Online - Status: Offline
+Website: Department of Social Development - Status: 200
+Website: Department of Home Affairs - Status: 200
+Website: South African Police Service Statistics - Status: Offline
+Website: Western Cape Government - Status: 200
+Website: City of Tshwane - Status: 200
+Website: City of Johannesburg - Status: Offline
+Website: City of Cape Town - Status: 200
+Website: Eastern Cape Government - Status: Offline
+Website: KwaZulu-Natal Government - Status: Offline
+Website: Limpopo Provincial Government - Status: 200
+Website: Mpumalanga Provincial Government - Status: Offline
+Website: North West Provincial Government - Status: Offline
+Website: Free State Provincial Government - Status: Offline
+Website: Gauteng Provincial Government - Status: 200
+Website: Department of Mineral Resources - Status: Offline
+Website: Department of Environment - Status: Offline
+Website: Department of Transport - Status: 200
+Website: South African Revenue Service - Status: 200
+Website: Department of Health - Status: 200
+Website: Department of Basic Education - Status: 200
+Website: Department of Higher Education and Training - Status: 200
+Website: South African Social Security Agency - Status: 200
+Website: Department of Trade - Status: Offline
+Website: National Department of Health - Status: Offline
+Website: Department of Human Settlements - Status: Offline
+Website: Gautrain Management Agency - Status: 200
+Website: National Health Laboratory Service - Status: Offline
+Website: South African Human Rights Commission - Status: 200
+Website: Department of Sports - Status: Offline
+Website: National Prosecuting Authority - Status: 200
+Website: Civilian Secretariat for the Police Service - Status: Offline
+Website: Southern African Development Community - Status: 200
+Website: National Treasury - Status: Offline
+Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
+Website: Department of Housing - Status: Offline
+Website: Southern Africa Labour and Development Research Unit - Status: 200
+Website: Council for Scientific and Industrial Research - Status: Offline
+Website: University of Johannesburg - Status: 200
+Website: Rhodes University - Status: Offline
+Website: University of the Witwatersrand - Status: 200
+Website: University of South Africa - Status: 200
+Website: North-West University - Status: 200
+Website: My Society South Africa - Status: Offline
+Website: National Development Agency - Status: 200
+Website: Bosch South Africa - Status: 200
+Website: Electoral Commission of South Africa - Status: 200
+Website: Parliamentary Monitoring Group - Status: 200
+Website: Western Cape Department of Education - Status: Offline
+Website: Eastern Cape Department of Education - Status: 200
+Website: KwaZulu-Natal Department of Education - Status: 200
+Website: Department of Higher Education and Training - Status: 200
+Website: Department of Employment and Labour - Status: 200
+Website: Business.gov.za - Status: Offline
+Website: Development Bank of Southern Africa - Status: 200
+Website: Human Sciences Research Council - Status: Offline
+Website: South African Heritage Resources Agency - Status: 200
+Website: Statistics South Africa - Status: 200
+Website: South African Development Policy Observatory - Status: Offline
+Website: Politicsweb - Status: 200
+Website: Information and Communication Technology - Status: Offline
+Website: South African Audit and Accounting - Status: Offline
+Website: South African National Defence Force - Status: Offline
+Website: South African Police Service - Status: 200
+Website: DefenceWeb - Status: 200
+Website: UJuh - Status: 200
+Website: National Treasury of South Africa - Status: 200
+Website: Financial Services Board - Status: Offline
+Website: South African Acts - Status: 200
+Website: International Criminal Court South Africa - Status: 200
+Website: United States Trade Representative South Africa - Status: Offline
+Website: Film South Africa - Status: Offline
+Website: Centre for Development and Enterprise - Status: 200
+Website: South African FM - Status: Offline
+Website: Business Unity South Africa - Status: 200
+Website: Safe South Africa - Status: Offline
+Website: Cooperative Governance - Status: Offline
+Website: Department of Tourism - Status: 200
+Website: The Legacy Project - Status: Offline
+Website: Corporate Social Investment - Status: Offline
+Website: South African Broadcasting Corporation - Status: Offline
+Website: Council for Geoscience - Status: 200
+Website: South African State Archive and Agency Commission - Status: Offline
+Website: North West Provincial Government - Status: 200
+Website: Madiba Legacy - Status: Offline
+Website: iAfrica - Status: 200
+Website: ResearchGate South Africa - Status: Offline
+Website: Journal of South African Studies - Status: Offline
+Website: Fighting Cancer South Africa - Status: Offline
+Website: National Biodiversity Planning - Status: Offline
+Website: Digital Government - Status: Offline
+Website: Education Information - Status: Offline
+Website: South African Human Rights - Status: Offline
+Website: Department of Rural Development and Land Reform - Status: Offline
+Website: National Regulator for Compulsory Specifications - Status: 200
+Website: Environmental Initiatives - Status: Offline
+Website: Quality Council for Trades and Occupations - Status: Offline
+Website: South African Statistical Agency - Status: Offline
+Website: City of Cape Town - Status: Offline
