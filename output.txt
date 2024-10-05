@@ -1,0 +1,28 @@
+Website: Agriculture - Status: Offline
+Website: Basic Education - Status: 200
+Website: Civilian Secretariat for Police - Status: 200
+Website: Communications and Digital Technologies - Status: 200
+Website: Cooperative Governance and Traditional Affairs - Status: Offline
+Website: Correctional Services - Status: 200
+Website: Defence - Status: Offline
+Website: Employment and Labour - Status: 200
+Website: Forestry - Status: 200
+Website: Government Communication and Information System - Status: 200
+Website: Health - Status: 200
+Website: Higher Education and Training - Status: 200
+Website: Home Affairs - Status: 200
+Website: Human Settlements - Status: Offline
+Website: Independent Police Investigative Directorate - Status: 200
+Website: International Relations and Cooperation - Status: 200
+Website: Justice and Constitutional Development - Status: 200
+Website: Military Veterans - Status: 200
+Website: Mineral Resources and Energy - Status: Offline
+Website: National School of Government - Status: 200
+Website: National Treasury - Status: 200
+Website: Office of the Chief Justice - Status: 200
+Website: Planning Monitoring and Evaluation - Status: 200
+Website: Public Enterprises - Status: Offline
+Website: Public Service and Administration - Status: 200
+Website: Public Service Commission - Status: 200
+Website: Public Works and Infrastructure - Status: 200
+Website: Science and Innovation - Status: Offline
