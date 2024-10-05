@@ -1,0 +1,35 @@
+name: Website Status Check
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Read websites from sites.txt
+        id: read_sites
+        run: |
+          sites=$(cat sites.txt)
+          echo "::set-output name=sites::$sites"
+
+      - name: Check website statuses
+        run: |
+          IFS=$'\n' # Set newline as delimiter
+          for line in ${{ steps.read_sites.outputs.sites }}; do
+            url=$(echo $line | cut -d',' -f1)
+            title=$(echo $line | cut -d',' -f2)
+            response=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+
+            if [ "$response" -eq 200 ]; then
+              echo "$title is online (HTTP $response)"
+            else
+              echo "$title is offline (HTTP $response)"
+            fi
+          done

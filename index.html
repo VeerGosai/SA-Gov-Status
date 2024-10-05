@@ -7,8 +7,29 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
             text-align: center;
-            margin-top: 50px;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .status-card {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         }
         .status-dot {
             height: 15px;
@@ -18,94 +39,85 @@
             margin-right: 10px;
         }
         .green {
-            background-color: green;
+            background-color: lightgreen;
         }
         .red {
             background-color: red;
         }
+        .loading {
+            border: 4px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 4px solid #3498db;
+            width: 14px;
+            height: 14px;
+            animation: spin 2s linear infinite;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
-    <h1>Website Status Check</h1>
-    <ul>
-        <li><span id="status-dot1" class="status-dot"></span>Agriculture, Land Reform and Rural Development</li>
-        <li><span id="status-dot2" class="status-dot"></span>Basic Education</li>
-        <li><span id="status-dot3" class="status-dot"></span>Civilian Secretariat for Police</li>
-        <li><span id="status-dot4" class="status-dot"></span>Communications and Digital Technologies</li>
-        <li><span id="status-dot5" class="status-dot"></span>Cooperative Governance and Traditional Affairs</li>
-        <li><span id="status-dot6" class="status-dot"></span>Correctional Services</li>
-        <li><span id="status-dot7" class="status-dot"></span>Defence</li>
-        <li><span id="status-dot8" class="status-dot"></span>Employment and Labour</li>
-        <li><span id="status-dot9" class="status-dot"></span>Forestry, Fisheries and the Environment</li>
-        <li><span id="status-dot10" class="status-dot"></span>Government Communication and Information System</li>
-        <li><span id="status-dot11" class="status-dot"></span>Health</li>
-        <li><span id="status-dot12" class="status-dot"></span>Higher Education and Training</li>
-        <li><span id="status-dot13" class="status-dot"></span>Home Affairs</li>
-        <li><span id="status-dot14" class="status-dot"></span>Human Settlements</li>
-        <li><span id="status-dot15" class="status-dot"></span>Independent Police Investigative Directorate</li>
-        <li><span id="status-dot16" class="status-dot"></span>International Relations and Cooperation</li>
-        <li><span id="status-dot17" class="status-dot"></span>Justice and Constitutional Development</li>
-        <li><span id="status-dot18" class="status-dot"></span>Military Veterans</li>
-        <li><span id="status-dot19" class="status-dot"></span>Mineral Resources and Energy</li>
-        <li><span id="status-dot20" class="status-dot"></span>National School of Government</li>
-        <li><span id="status-dot21" class="status-dot"></span>National Treasury</li>
-        <li><span id="status-dot22" class="status-dot"></span>Office of the Chief Justice</li>
-        <li><span id="status-dot23" class="status-dot"></span>Planning Monitoring and Evaluation</li>
-        <li><span id="status-dot24" class="status-dot"></span>Public Enterprises</li>
-        <li><span id="status-dot25" class="status-dot"></span>Public Service and Administration</li>
-        <li><span id="status-dot26" class="status-dot"></span>Public Service Commission</li>
-        <li><span id="status-dot27" class="status-dot"></span>Public Works and Infrastructure</li>
-        <li><span id="status-dot28" class="status-dot"></span>Science and Innovation</li>
-    </ul>
+    <div class="container">
+        <h1>Website Status Check</h1>
+        <div id="status-list"></div>
+    </div>
 
     <script>
+        // Fetch the 'sites.txt' file automatically on page load
+        window.onload = function() {
+            fetch('sites.txt')
+                .then(response => response.text())
+                .then(data => {
+                    const lines = data.split('\n');
+                    lines.forEach((line, index) => {
+                        const [url, title] = line.split(',');
+                        if (url && title) {
+                            createStatusElement(`status-dot${index}`, title.trim(), url.trim());
+                            checkWebsiteStatus(`status-dot${index}`, url.trim());
+                        }
+                    });
+                })
+                .catch(error => console.error('Error loading sites.txt:', error));
+        };
+
+        function createStatusElement(id, title, url) {
+            const statusList = document.getElementById('status-list');
+            const statusCard = document.createElement('div');
+            statusCard.className = 'status-card';
+            statusCard.innerHTML = `
+                <span id="${id}" class="status-dot loading"></span>
+                <span>${title}</span>
+            `;
+            statusList.appendChild(statusCard);
+        }
+
         async function checkWebsiteStatus(id, url) {
-            const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+            const proxyUrl = 'https://api.allorigins.win/get?url=';
             const statusDot = document.getElementById(id);
 
             try {
-                const response = await fetch(proxyUrl + url);
+                const response = await fetch(proxyUrl + encodeURIComponent(url));
                 if (response.ok) {
-                    statusDot.classList.add("green");
-                    statusDot.classList.remove("red");
+                    const data = await response.json();
+                    if (data.contents) {
+                        statusDot.classList.add("green");
+                    } else {
+                        statusDot.classList.add("red");
+                    }
                 } else {
                     statusDot.classList.add("red");
-                    statusDot.classList.remove("green");
                 }
             } catch (error) {
                 statusDot.classList.add("red");
-                statusDot.classList.remove("green");
+            } finally {
+                statusDot.classList.remove("loading");
             }
         }
 
-        checkWebsiteStatus('status-dot1', 'http://www.dalrrd.gov.za/');
-        checkWebsiteStatus('status-dot2', 'https://www.education.gov.za/');
-        checkWebsiteStatus('status-dot3', 'http://www.policesecretariat.gov.za/');
-        checkWebsiteStatus('status-dot4', 'https://www.dcdt.gov.za/');
-        checkWebsiteStatus('status-dot5', 'https://www.cogta.gov.za');
-        checkWebsiteStatus('status-dot6', 'http://www.dcs.gov.za/');
-        checkWebsiteStatus('status-dot7', 'http://www.dod.mil.za');
-        checkWebsiteStatus('status-dot8', 'http://www.labour.gov.za/');
-        checkWebsiteStatus('status-dot9', 'https://www.dffe.gov.za/');
-        checkWebsiteStatus('status-dot10', 'https://www.gcis.gov.za');
-        checkWebsiteStatus('status-dot11', 'https://www.health.gov.za/');
-        checkWebsiteStatus('status-dot12', 'https://www.dhet.gov.za/');
-        checkWebsiteStatus('status-dot13', 'http://www.dha.gov.za/');
-        checkWebsiteStatus('status-dot14', 'https://www.dhs.gov.za/');
-        checkWebsiteStatus('status-dot15', 'https://www.ipid.gov.za/');
-        checkWebsiteStatus('status-dot16', 'https://www.dirco.gov.za/');
-        checkWebsiteStatus('status-dot17', 'https://www.justice.gov.za/');
-        checkWebsiteStatus('status-dot18', 'http://www.dmv.gov.za/');
-        checkWebsiteStatus('status-dot19', 'http://www.dmre.gov.za/');
-        checkWebsiteStatus('status-dot20', 'https://www.thensg.gov.za/');
-        checkWebsiteStatus('status-dot21', 'https://www.treasury.gov.za/');
-        checkWebsiteStatus('status-dot22', 'https://www.judiciary.org.za');
-        checkWebsiteStatus('status-dot23', 'https://www.dpme.gov.za/Pages/default.aspx');
-        checkWebsiteStatus('status-dot24', 'https://dpe.gov.za/');
-        checkWebsiteStatus('status-dot25', 'https://www.dpsa.gov.za');
-        checkWebsiteStatus('status-dot26', 'https://www.psc.gov.za/');
-        checkWebsiteStatus('status-dot27', 'http://www.publicworks.gov.za/');
-        checkWebsiteStatus('status-dot28', 'https://www.dst.gov.za/');
     </script>
 </body>
 </html>
