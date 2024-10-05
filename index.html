@@ -58,11 +58,15 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        #search {
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Website Status Check</h1>
+        <input type="text" id="search" placeholder="Search for a website..." />
         <div id="status-list"></div>
     </div>
 
@@ -73,24 +77,40 @@
             .then(data => {
                 const lines = data.split('\n');
                 lines.forEach(line => {
-                    const [url, status] = line.split(' - Status: ');
-                    if (url && status) {
-                        createStatusElement(url.trim(), status.trim());
+                    const [statusString, status] = line.split(' - Status: ');
+                    if (statusString && status) {
+                        const url = statusString.split(': ')[1].trim(); // Extracting the URL
+                        const title = statusString.split(': ')[0].trim(); // Extracting the title
+                        createStatusElement(title, status, url);
                     }
                 });
+                attachSearchFunctionality(); // Attach search functionality after creating elements
             })
             .catch(error => console.error('Error loading artifact:', error));
 
-        function createStatusElement(url, status) {
+        function createStatusElement(title, status, url) {
             const statusList = document.getElementById('status-list');
             const statusCard = document.createElement('div');
             statusCard.className = 'status-card';
             const statusDotClass = status === 'Offline' ? 'red' : 'green'; // Adjusted for Offline check
             statusCard.innerHTML = `
                 <span class="status-dot ${statusDotClass}"></span>
-                <span>${url} - Status: ${status}</span>
+                <span>${title} - Status: ${status}</span>
+                <a href="${url}" target="_blank" style="text-decoration: none; color: #007bff; margin-left: 10px;">Visit</a>
             `;
             statusList.appendChild(statusCard);
+        }
+
+        function attachSearchFunctionality() {
+            const searchInput = document.getElementById('search');
+            searchInput.addEventListener('input', function() {
+                const filter = searchInput.value.toLowerCase();
+                const statusCards = document.querySelectorAll('.status-card');
+                statusCards.forEach(card => {
+                    const text = card.textContent.toLowerCase();
+                    card.style.display = text.includes(filter) ? '' : 'none';
+                });
+            });
         }
     </script>
 </body>
