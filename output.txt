@@ -1,3 +1,267 @@
+Website: Gauteng (Province) - Status: 200
+Website: Limpopo (Province) - Status: 200
+Website: North West (Province) - Status: 200
+Website: Northern Cape (Province) - Status: 200
+Website: Western Cape (Province) - Status: 200
+Website: Eastern Cape (Province) - Status: 200
+Website: Free State (Province) - Status: 200
+Website: KwaZulu-Natal (Province) - Status: 200
+Website: Mpumalanga (Province) - Status: 200
+Website: Buffalo City (Metro Municipality) - Status: 200
+Website: Cape Town (Metro Municipality) - Status: 200
+Website: Ekurhuleni (Metro Municipality) - Status: 200
+Website: Johannesburg (Metro Municipality) - Status: Offline
+Website: Tshwane (Metro Municipality) - Status: 200
+Website: eThekwini (Metro Municipality) - Status: Offline
+Website: Mangaung (Metro Municipality) - Status: Offline
+Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
+Website: Alfred Nzo (District Municipality) - Status: Offline
+Website: Amathole (District Municipality) - Status: Offline
+Website: Chris Hani (District Municipality) - Status: 200
+Website: Joe Gqabi (District Municipality) - Status: 200
+Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
+Website: OR Tambo (District Municipality) - Status: 200
+Website: Sarah Baartman (District Municipality) - Status: 200
+Website: Fezile Dabi (District Municipality) - Status: 200
+Website: Lejweleputswa (District Municipality) - Status: Offline
+Website: Thabo Mofutsanyana (District Municipality) - Status: Offline
+Website: Xhariep (District Muncipality) - Status: Offline
+Website: Sedibeng (District Municipality) - Status: 200
+Website: West Rand (District Municipality) - Status: 200
+Website: Amajuba (District Municipality) - Status: 200
+Website: Harry Gwala (District Municipality) - Status: 200
+Website: iLembe (District Municipality) - Status: 200
+Website: King Cetshwayo (District Municipality) - Status: Offline
+Website: Ugu (District Municipality) - Status: 200
+Website: uMgungundlovu (District Municipality) - Status: 200
+Website: uMkhanyakude (District Municipality) - Status: Offline
+Website: uMzinyathi (District Municipality) - Status: 200
+Website: uThukela (District Municipality) - Status: Offline
+Website: Zululand (District Municipality) - Status: 200
+Website: Capricorn (District Municipality) - Status: Offline
+Website: Mopani (District Municipality) - Status: 200
+Website: Sekhukhune (District Municipality) - Status: 200
+Website: Vhembe (District Municipality) - Status: 200
+Website: Waterberg (District Municipality) - Status: Offline
+Website: Ehlanzeni (District Municipality) - Status: 200
+Website: Gert Sibande (District Municipality) - Status: Offline
+Website: Nkangala (District Municipality) - Status: Offline
+Website: Bojanala Platinum (District Municipality) - Status: 200
+Website: Dr Kenneth Kaunda (District Municipality) - Status: Offline
+Website: Dr Ruth Segomotsi Mompati (District Municipality) - Status: Offline
+Website: Ngaka Modiri Molema (District Municipality) - Status: Offline
+Website: Frances Baard (District Municipality) - Status: 200
+Website: John Taolo Gaetsewe (District Municipality) - Status: 200
+Website: Namakwa (District Municipality) - Status: Offline
+Website: Pixley ka Seme (District Municipality) - Status: 200
+Website: ZF Mgcawu (District Municipality) - Status: Offline
+Website: Cape Winelands (District Municipality) - Status: 200
+Website: Central Karoo (District Municipality) - Status: 200
+Website: Garden Route (District Municipality) - Status: 200
+Website: Overberg (District Municipality) - Status: Offline
+Website: West Coast (District Municipality) - Status: Offline
+Website: Dr Beyers Naudé (Local Municipality) - Status: Offline
+Website: Blue Crane Route (Local Municipality) - Status: Offline
+Website: Makana (Local Municipality) - Status: Offline
+Website: Ndlambe (Local Municipality) - Status: 200
+Website: Sundays River Valley (Local Municipality) - Status: Offline
+Website: Kouga (Local Municipality) - Status: 200
+Website: Kou-Kamma (Local Municipality) - Status: Offline
+Website: Mbhashe (Local Municipality) - Status: Offline
+Website: Mnquma (Local Municipality) - Status: 200
+Website: Great Kei (Local Municipality) - Status: Offline
+Website: Amahlathi (Local Municipality) - Status: 200
+Website: Ngqushwa (Local Municipality) - Status: Offline
+Website: Raymond Mhlaba (Local Municipality) - Status: 200
+Website: Inxuba Yethemba (Local Municipality) - Status: Offline
+Website: Intsika Yethu (Local Municipality) - Status: 200
+Website: Emalahleni (Local Municipality) - Status: 200
+Website: Dr AB Xuma (Local Municipality) - Status: Offline
+Website: Sakhisizwe (Local Municipality) - Status: 200
+Website: Enoch Mgijima (Local Municipality) - Status: 200
+Website: Elundini (Local Municipality) - Status: 200
+Website: Senqu (Local Municipality) - Status: 200
+Website: Walter Sisulu (Local Municipality) - Status: Offline
+Website: Ingquza Hill (Local Municipality) - Status: Offline
+Website: Port St Johns (Local Municipality) - Status: Offline
+Website: Nyandeni (Local Municipality) - Status: Offline
+Website: Mhlontlo (Local Municipality) - Status: Offline
+Website: King Sabata Dalindyebo (Local Municipality) - Status: Offline
+Website: Matatiele (Local Municipality) - Status: 200
+Website: Umzimvubu (Local Municipality) - Status: 200
+Website: Winnie Madikizela-Mandela (Local Municipality) - Status: Offline
+Website: Ntabankulu (Local Municipality) - Status: 200
+Website: Letsemeng (Local Municipality) - Status: 200
+Website: Kopanong (Local Municipality) - Status: Offline
+Website: Mohokare (Local Municipality) - Status: 200
+Website: Masilonyana (Local Municipality) - Status: Offline
+Website: Tokologo (Local Municipality) - Status: 200
+Website: Tswelopele (Local Municipality) - Status: 200
+Website: Matjhabeng (Local Municipality) - Status: Offline
+Website: Nala (Local Municipality) - Status: Offline
+Website: Setsoto (Local Municipality) - Status: 200
+Website: Dihlabeng (Local Municipality) - Status: 200
+Website: Nketoana (Local Municipality) - Status: Offline
+Website: Maluti-a-Phofung (Local Municipality) - Status: Offline
+Website: Phumelela (Local Municipality) - Status: 200
+Website: Mantsopa (Local Municipality) - Status: Offline
+Website: Moqhaka (Local Municipality) - Status: 200
+Website: Ngwathe (Local Municipality) - Status: Offline
+Website: Metsimaholo (Local Municipality) - Status: 200
+Website: Mafube (Local Municipality) - Status: Offline
+Website: Emfuleni (Local Municipality) - Status: 200
+Website: Midvaal (Local Municipality) - Status: 200
+Website: Lesedi (Local Municipality) - Status: Offline
+Website: Mogale City (Local Municipality) - Status: 200
+Website: Merafong City (Local Municipality) - Status: Offline
+Website: Rand West City (Local Municipality) - Status: 200
+Website: Umdoni Local Municipality - Status: 200
+Website: Umzumbe Local Municipality - Status: 200
+Website: uMuziwabantu Local Municipality - Status: 200
+Website: Ray Nkonyeni Local Municipality - Status: Offline
+Website: uMshwathi Local Municipality - Status: 200
+Website: uMngeni Local Municipality - Status: 200
+Website: Mpofana Local Municipality - Status: 200
+Website: Impendle Local Municipality - Status: 200
+Website: Msunduzi Local Municipality - Status: 200
+Website: Mkhambathini Local Municipality - Status: 200
+Website: Richmond Local Municipality - Status: 200
+Website: Okhahlamba Local Municipality - Status: 200
+Website: Inkosi Langalibalele Local Municipality - Status: Offline
+Website: Alfred Duma Local Municipality - Status: Offline
+Website: Endumeni Local Municipality - Status: 200
+Website: Nqutu Local Municipality - Status: Offline
+Website: Msinga Local Municipality - Status: Offline
+Website: Umvoti Local Municipality - Status: 200
+Website: Newcastle Local Municipality - Status: 200
+Website: eMadlangeni Local Municipality - Status: Offline
+Website: Dannhauser Local Municipality - Status: 200
+Website: eDumbe Local Municipality - Status: 200
+Website: uPhongolo Local Municipality - Status: Offline
+Website: Abaqulusi Local Municipality - Status: 200
+Website: Nongoma Local Municipality - Status: 200
+Website: Ulundi Local Municipality - Status: 200
+Website: uMhlabuyalingana Local Municipality - Status: 200
+Website: Jozini Local Municipality - Status: 200
+Website: Mtubatuba Local Municipality - Status: Offline
+Website: Big Five Hlabisa Local Municipality - Status: Offline
+Website: uMfolozi Local Municipality - Status: Offline
+Website: uMhlathuze Local Municipality - Status: Offline
+Website: uMlalazi Local Municipality - Status: Offline
+Website: Mthonjaneni Local Municipality - Status: Offline
+Website: Nkandla Local Municipality - Status: Offline
+Website: Mandeni Local Municipality - Status: 200
+Website: KwaDukuza Local Municipality - Status: 200
+Website: Ndwedwe Local Municipality - Status: 200
+Website: Maphumulo Local Municipality - Status: 200
+Website: Greater Kokstad Local Municipality - Status: Offline
+Website: Ubuhlebezwe Local Municipality - Status: 200
+Website: Umzimkhulu Local Municipality - Status: Offline
+Website: Dr Nkosazana - Status: 200
+Website: Greater Giyani Local Municipality - Status: 200
+Website: Greater Letaba Local Municipality - Status: 200
+Website: Greater Tzaneen Local Municipality - Status: 200
+Website: Ba-Phalaborwa Local Municipality - Status: 200
+Website: Maruleng Local Municipality - Status: 200
+Website: Musina Local Municipality - Status: 200
+Website: Thulamela Local Municipality - Status: 200
+Website: Makhado Local Municipality - Status: 200
+Website: Collins Chabane Local Municipality - Status: 200
+Website: Blouberg Local Municipality - Status: 200
+Website: Molemole Local Municipality - Status: 200
+Website: Polokwane Local Municipality - Status: 200
+Website: Lepelle-Nkumpi Local Municipality - Status: Offline
+Website: Thabazimbi Local Municipality - Status: Offline
+Website: Lephalale Local Municipality - Status: 200
+Website: Bela-Bela Local Municipality - Status: 200
+Website: Mogalakwena Local Municipality - Status: 200
+Website: Modimolle–Mookgophong Local Municipality - Status: 200
+Website: Ephraim Mogale Local Municipality - Status: Offline
+Website: Elias Motsoaledi Local Municipality - Status: 200
+Website: Makhuduthamaga Local Municipality - Status: 200
+Website: Albert Luthuli Local Municipality - Status: 200
+Website: Msukaligwa Local Municipality - Status: 200
+Website: Mkhondo Local Municipality - Status: 200
+Website: Pixley ka Seme Local Municipality - Status: 200
+Website: Lekwa Local Municipality - Status: 200
+Website: Dipaleseng Local Municipality - Status: 200
+Website: Govan Mbeki Local Municipality - Status: 200
+Website: Victor Khanye Local Municipality - Status: Offline
+Website: Emalahleni Local Municipality - Status: Offline
+Website: Steve Tshwete Local Municipality - Status: 200
+Website: Emakhazeni Local Municipality - Status: Offline
+Website: Thembisile Hani Local Municipality - Status: 200
+Website: Dr JS Moroka Local Municipality - Status: Offline
+Website: Thaba Chweu Local Municipality - Status: Offline
+Website: Nkomazi Local Municipality - Status: 200
+Website: Bushbuckridge Local Municipality - Status: 200
+Website: Richtersveld Local Municipality - Status: 200
+Website: Nama Khoi Local Municipality - Status: 200
+Website: Kamiesberg Local Municipality - Status: 200
+Website: Hantam Local Municipality - Status: 200
+Website: Karoo Hoogland Local Municipality - Status: 200
+Website: Khâi-Ma Local Municipality - Status: Offline
+Website: Ubuntu Local Municipality - Status: 200
+Website: Umsobomvu Local Municipality - Status: Offline
+Website: Emthanjeni Local Municipality - Status: Offline
+Website: Kareeberg Local Municipality - Status: Offline
+Website: Renosterberg Local Municipality - Status: Offline
+Website: Thembelihle Local Municipality - Status: Offline
+Website: Siyathemba Local Municipality - Status: 200
+Website: Siyancuma Local Municipality - Status: 200
+Website: Kai !Garib Local Municipality - Status: 200
+Website: !Kheis Local Municipality - Status: 200
+Website: Tsantsabane Local Municipality - Status: 200
+Website: Kgatelopele Local Municipality - Status: 200
+Website: Dawid Kruiper Local Municipality - Status: Offline
+Website: Sol Plaatje Local Municipality - Status: 200
+Website: Dikgatlong Local Municipality - Status: 200
+Website: Magareng Local Municipality - Status: 200
+Website: Phokwane Local Municipality - Status: 200
+Website: Joe Morolong Local Municipality - Status: Offline
+Website: Ga-Segonyana Local Municipality - Status: Offline
+Website: Gamagara Local Municipality - Status: Offline
+Website: Moretele Local Municipality - Status: 200
+Website: Madibeng Local Municipality - Status: 200
+Website: Rustenburg Local Municipality - Status: Offline
+Website: Kgetlengrivier Local Municipality - Status: 200
+Website: Moses Kotane Local Municipality - Status: 200
+Website: Ratlou Local Municipality - Status: 200
+Website: Tswaing Local Municipality - Status: 200
+Website: Mahikeng Local Municipality - Status: 200
+Website: Ditsobotla Local Municipality - Status: 200
+Website: Ramotshere Moiloa Local Municipality - Status: Offline
+Website: Naledi Local Municipality - Status: Offline
+Website: Mamusa Local Municipality - Status: Offline
+Website: Greater Taung Local Municipality - Status: Offline
+Website: Lekwa-Teemane Local Municipality - Status: Offline
+Website: Kagisano-Molopo Local Municipality - Status: Offline
+Website: City of Matlosana Local Municipality - Status: 200
+Website: Maquassi Hills Local Municipality - Status: Offline
+Website: JB Marks Local Municipality - Status: Offline
+Website: Matzikama Local Municipality - Status: Offline
+Website: Cederberg Local Municipality - Status: Offline
+Website: Bergrivier Local Municipality - Status: Offline
+Website: Saldanha Bay Local Municipality - Status: Offline
+Website: Swartland Local Municipality - Status: 200
+Website: Witzenberg Local Municipality - Status: 200
+Website: Drakenstein Local Municipality - Status: Offline
+Website: Stellenbosch Local Municipality - Status: 200
+Website: Breede Valley Local Municipality - Status: Offline
+Website: Langeberg Local Municipality - Status: 200
+Website: Theewaterskloof Local Municipality - Status: Offline
+Website: Overstrand Local Municipality - Status: 200
+Website: Cape Agulhas Local Municipality - Status: 200
+Website: Swellendam Local Municipality - Status: 200
+Website: Kannaland Local Municipality - Status: 200
+Website: Hessequa Local Municipality - Status: 200
+Website: Mossel Bay Local Municipality - Status: Offline
+Website: George Local Municipality - Status: 200
+Website: Oudtshoorn Local Municipality - Status: 200
+Website: Bitou Local Municipality - Status: 200
+Website: Knysna Local Municipality - Status: 200
+Website: Laingsburg Local Municipality - Status: 200
+Website: Prince Albert Local Municipality - Status: Offline
 Website: Agriculture - Status: Offline
 Website: Basic Education - Status: 200
 Website: Civilian Secretariat for Police - Status: 200
