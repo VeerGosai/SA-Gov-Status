@@ -129,7 +129,7 @@ Website: Richmond Local Municipality - Status: 200
 Website: Okhahlamba Local Municipality - Status: 200
 Website: Inkosi Langalibalele Local Municipality - Status: Offline
 Website: Alfred Duma Local Municipality - Status: Offline
-Website: Endumeni Local Municipality - Status: 200
+Website: Endumeni Local Municipality - Status: Offline
 Website: Nqutu Local Municipality - Status: Offline
 Website: Msinga Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
