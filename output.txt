@@ -74,9 +74,9 @@ Website: National Treasury - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Housing - Status: Offline
 Website: Southern Africa Labour and Development Research Unit - Status: 200
-Website: Council for Scientific and Industrial Research - Status: 200
+Website: Council for Scientific and Industrial Research - Status: Offline
 Website: University of Johannesburg - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: University of the Witwatersrand - Status: 200
 Website: University of South Africa - Status: 200
 Website: North-West University - Status: 200
