@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: 200
+Website: Senqu (Local Municipality) - Status: Offline
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -129,7 +129,7 @@ Website: Richmond Local Municipality - Status: 200
 Website: Okhahlamba Local Municipality - Status: 200
 Website: Inkosi Langalibalele Local Municipality - Status: Offline
 Website: Alfred Duma Local Municipality - Status: Offline
-Website: Endumeni Local Municipality - Status: Offline
+Website: Endumeni Local Municipality - Status: 200
 Website: Nqutu Local Municipality - Status: Offline
 Website: Msinga Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
