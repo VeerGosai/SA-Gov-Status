@@ -1,3 +1,12 @@
+https://www.gauteng.gov.za,Gauteng (Province)
+https://www.limpopo.gov.za,Limpopo (Province)
+https://www.nwpg.gov.za,North West (Province)
+http://www.northern-cape.gov.za,Northern Cape (Province)
+https://www.westerncape.gov.za,Western Cape (Province)
+https://ecprov.gov.za,Eastern Cape (Province)
+https://www.freestateonline.fs.gov.za,Free State (Province)
+http://www.kznonline.gov.za,KwaZulu-Natal (Province)
+http://www.mpumalanga.gov.za,Mpumalanga (Province)
 http://www.dalrrd.gov.za/,Agriculture, Land Reform and Rural Development
 https://www.education.gov.za/,Basic Education
 http://www.policesecretariat.gov.za/,Civilian Secretariat for Police
