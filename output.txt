@@ -25,13 +25,13 @@ Website: Sarah Baartman (District Municipality) - Status: 200
 Website: Fezile Dabi (District Municipality) - Status: 200
 Website: Lejweleputswa (District Municipality) - Status: Offline
 Website: Thabo Mofutsanyana (District Municipality) - Status: Offline
-Website: Xhariep (District Muncipality) - Status: Offline
+Website: Xhariep (District Muncipality) - Status: 200
 Website: Sedibeng (District Municipality) - Status: 200
 Website: West Rand (District Municipality) - Status: 200
 Website: Amajuba (District Municipality) - Status: 200
 Website: Harry Gwala (District Municipality) - Status: 200
 Website: iLembe (District Municipality) - Status: 200
-Website: King Cetshwayo (District Municipality) - Status: Offline
+Website: King Cetshwayo (District Municipality) - Status: 200
 Website: Ugu (District Municipality) - Status: 200
 Website: uMgungundlovu (District Municipality) - Status: 200
 Website: uMkhanyakude (District Municipality) - Status: Offline
@@ -134,22 +134,22 @@ Website: Nqutu Local Municipality - Status: Offline
 Website: Msinga Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
 Website: Newcastle Local Municipality - Status: 200
-Website: eMadlangeni Local Municipality - Status: Offline
+Website: eMadlangeni Local Municipality - Status: 200
 Website: Dannhauser Local Municipality - Status: 200
 Website: eDumbe Local Municipality - Status: 200
-Website: uPhongolo Local Municipality - Status: Offline
+Website: uPhongolo Local Municipality - Status: 200
 Website: Abaqulusi Local Municipality - Status: 200
 Website: Nongoma Local Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
 Website: uMhlabuyalingana Local Municipality - Status: 200
 Website: Jozini Local Municipality - Status: 200
-Website: Mtubatuba Local Municipality - Status: Offline
+Website: Mtubatuba Local Municipality - Status: 200
 Website: Big Five Hlabisa Local Municipality - Status: Offline
 Website: uMfolozi Local Municipality - Status: Offline
-Website: uMhlathuze Local Municipality - Status: Offline
-Website: uMlalazi Local Municipality - Status: Offline
+Website: uMhlathuze Local Municipality - Status: 200
+Website: uMlalazi Local Municipality - Status: 200
 Website: Mthonjaneni Local Municipality - Status: Offline
-Website: Nkandla Local Municipality - Status: Offline
+Website: Nkandla Local Municipality - Status: 200
 Website: Mandeni Local Municipality - Status: 200
 Website: KwaDukuza Local Municipality - Status: 200
 Website: Ndwedwe Local Municipality - Status: 200
@@ -223,14 +223,14 @@ Website: Ga-Segonyana Local Municipality - Status: Offline
 Website: Gamagara Local Municipality - Status: Offline
 Website: Moretele Local Municipality - Status: 200
 Website: Madibeng Local Municipality - Status: 200
-Website: Rustenburg Local Municipality - Status: Offline
+Website: Rustenburg Local Municipality - Status: 200
 Website: Kgetlengrivier Local Municipality - Status: 200
 Website: Moses Kotane Local Municipality - Status: 200
 Website: Ratlou Local Municipality - Status: 200
 Website: Tswaing Local Municipality - Status: 200
 Website: Mahikeng Local Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
-Website: Ramotshere Moiloa Local Municipality - Status: Offline
+Website: Ramotshere Moiloa Local Municipality - Status: 200
 Website: Naledi Local Municipality - Status: Offline
 Website: Mamusa Local Municipality - Status: Offline
 Website: Greater Taung Local Municipality - Status: Offline
@@ -255,7 +255,7 @@ Website: Cape Agulhas Local Municipality - Status: 200
 Website: Swellendam Local Municipality - Status: 200
 Website: Kannaland Local Municipality - Status: 200
 Website: Hessequa Local Municipality - Status: 200
-Website: Mossel Bay Local Municipality - Status: Offline
+Website: Mossel Bay Local Municipality - Status: 200
 Website: George Local Municipality - Status: 200
 Website: Oudtshoorn Local Municipality - Status: 200
 Website: Bitou Local Municipality - Status: 200
@@ -338,9 +338,9 @@ Website: National Treasury - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Housing - Status: Offline
 Website: Southern Africa Labour and Development Research Unit - Status: 200
-Website: Council for Scientific and Industrial Research - Status: Offline
+Website: Council for Scientific and Industrial Research - Status: 200
 Website: University of Johannesburg - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of South Africa - Status: 200
 Website: North-West University - Status: 200
