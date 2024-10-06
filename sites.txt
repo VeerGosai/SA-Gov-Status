@@ -115,6 +115,153 @@ https://www.lesedi.gov.za,Lesedi (Local Municipality)
 https://www.mogalecity.gov.za,Mogale City (Local Municipality)
 https://www.merafong.gov.za,Merafong City (Local Municipality)
 https://www.randwestcity.gov.za,Rand West City (Local Municipality)
+https://www.umdoni.gov.za,Umdoni Local Municipality
+https://www.umzumbe.gov.za,Umzumbe Local Municipality
+https://www.umuziwabantu.gov.za,uMuziwabantu Local Municipality
+https://www.raynkonyeni.gov.za,Ray Nkonyeni Local Municipality
+http://www.umshwathi.gov.za,uMshwathi Local Municipality
+https://www.umngeni.gov.za,uMngeni Local Municipality
+http://www.mpofana.gov.za,Mpofana Local Municipality
+http://www.impendle.gov.za,Impendle Local Municipality
+http://www.msunduzi.gov.za,Msunduzi Local Municipality
+http://www.mkhambathini.gov.za,Mkhambathini Local Municipality
+http://www.richmond.gov.za,Richmond Local Municipality
+http://www.okhahlamba.gov.za,Okhahlamba Local Municipality
+http://www.inkosilangalibalele.gov.za,Inkosi Langalibalele Local Municipality
+https://www.alfredduma.gov.za,Alfred Duma Local Municipality
+http://www.endumeni.gov.za,Endumeni Local Municipality
+http://www.nqutu.gov.za,Nqutu Local Municipality
+http://www.msinga.gov.za,Msinga Local Municipality
+http://www.umvoti.gov.za,Umvoti Local Municipality
+http://www.newcastle.gov.za,Newcastle Local Municipality
+http://www.emadlangeni.gov.za,eMadlangeni Local Municipality
+http://www.dannhauser.gov.za,Dannhauser Local Municipality
+http://www.edumbe.gov.za,eDumbe Local Municipality
+http://www.uphongolo.gov.za,uPhongolo Local Municipality
+http://www.abaqulusi.gov.za,Abaqulusi Local Municipality
+http://www.nongoma.gov.za,Nongoma Local Municipality
+http://www.ulundi.gov.za,Ulundi Local Municipality
+http://www.umhlabuyalingana.gov.za,uMhlabuyalingana Local Municipality
+http://www.jozini.gov.za,Jozini Local Municipality
+http://www.mtubatuba.gov.za,Mtubatuba Local Municipality
+http://www.bigfivehlabisa.gov.za,Big Five Hlabisa Local Municipality
+http://www.umfolozi.gov.za,uMfolozi Local Municipality
+http://www.umhlathuze.gov.za,uMhlathuze Local Municipality
+http://www.umlalazi.gov.za,uMlalazi Local Municipality
+http://www.mthonjaneni.gov.za,Mthonjaneni Local Municipality
+http://www.nkandla.gov.za,Nkandla Local Municipality
+http://www.mandeni.gov.za,Mandeni Local Municipality
+http://www.kwadukuza.gov.za,KwaDukuza Local Municipality
+http://www.ndwedwe.gov.za,Ndwedwe Local Municipality
+http://www.maphumulo.gov.za,Maphumulo Local Municipality
+http://www.greaterkokstad.gov.za,Greater Kokstad Local Municipality
+http://www.ubuhlebezwe.gov.za,Ubuhlebezwe Local Municipality
+http://www.umzimkhulu.gov.za,Umzimkhulu Local Municipality
+http://www.ndz.gov.za,Dr Nkosazana 
+http://www.greatergiyani.gov.za,Greater Giyani Local Municipality
+http://www.greaterletaba.gov.za,Greater Letaba Local Municipality
+http://www.greatertzaneen.gov.za,Greater Tzaneen Local Municipality
+http://www.phalaborwa.gov.za,Ba-Phalaborwa Local Municipality
+http://www.maruleng.gov.za,Maruleng Local Municipality
+http://www.musina.gov.za,Musina Local Municipality
+http://www.thulamela.gov.za,Thulamela Local Municipality
+http://www.makhado.gov.za,Makhado Local Municipality
+http://www.collinschabane.gov.za,Collins Chabane Local Municipality
+http://www.blouberg.gov.za,Blouberg Local Municipality
+http://www.molemole.gov.za,Molemole Local Municipality
+http://www.polokwane.gov.za,Polokwane Local Municipality
+http://www.lepellenkumpi.gov.za,Lepelle-Nkumpi Local Municipality
+http://www.thabazimbi.gov.za,Thabazimbi Local Municipality
+http://www.lephalale.gov.za,Lephalale Local Municipality
+http://www.belabela.gov.za,Bela-Bela Local Municipality
+http://www.mogalakwena.gov.za,Mogalakwena Local Municipality
+http://www.modimolle.gov.za,Modimolle–Mookgophong Local Municipality
+http://www.ephraimmogale.gov.za,Ephraim Mogale Local Municipality
+http://www.eliasmotsoaledi.gov.za,Elias Motsoaledi Local Municipality
+http://www.makhuduthamaga.gov.za,Makhuduthamaga Local Municipality
+http://www.albertluthuli.gov.za,Albert Luthuli Local Municipality
+http://www.msukaligwa.gov.za,Msukaligwa Local Municipality
+http://www.mkhondo.gov.za,Mkhondo Local Municipality
+http://www.pixleykaseme.gov.za,Pixley ka Seme Local Municipality
+http://www.lekwalm.gov.za,Lekwa Local Municipality
+http://www.dipaleseng.gov.za,Dipaleseng Local Municipality
+http://www.govanmbeki.gov.za,Govan Mbeki Local Municipality
+http://www.victorkhanye.gov.za,Victor Khanye Local Municipality
+http://www.emalahleni.gov.za,Emalahleni Local Municipality
+http://www.stevetshwetelm.gov.za,Steve Tshwete Local Municipality
+http://www.emakhazeni.gov.za,Emakhazeni Local Municipality
+http://www.thembisilehanilm.gov.za,Thembisile Hani Local Municipality
+http://www.drjsmoroka.gov.za,Dr JS Moroka Local Municipality
+http://www.thabachweu.gov.za,Thaba Chweu Local Municipality
+http://www.nkomazi.gov.za,Nkomazi Local Municipality
+http://www.bushbuckridge.gov.za,Bushbuckridge Local Municipality
+http://www.richtersveld.gov.za,Richtersveld Local Municipality
+http://www.namakhoi.gov.za,Nama Khoi Local Municipality
+http://www.kamiesberg.gov.za,Kamiesberg Local Municipality
+http://www.hantam.gov.za,Hantam Local Municipality
+http://www.karoohoogland.gov.za,Karoo Hoogland Local Municipality
+http://www.khai-ma.gov.za,Khâi-Ma Local Municipality
+http://www.ubuntu.gov.za,Ubuntu Local Municipality
+http://www.umsobomvu.gov.za,Umsobomvu Local Municipality
+http://www.emthanjeni.gov.za,Emthanjeni Local Municipality
+http://www.kareeberg.gov.za,Kareeberg Local Municipality
+http://www.renosterberg.gov.za,Renosterberg Local Municipality
+http://www.thembelihle.gov.za,Thembelihle Local Municipality
+http://www.siyathemba.gov.za,Siyathemba Local Municipality
+http://www.siyancuma.gov.za,Siyancuma Local Municipality
+http://www.kaigarib.gov.za,Kai !Garib Local Municipality
+http://www.kheis.gov.za,!Kheis Local Municipality
+http://www.tsantsabane.gov.za,Tsantsabane Local Municipality
+http://www.kgatelopele.gov.za,Kgatelopele Local Municipality
+http://www.dawidkruiper.gov.za,Dawid Kruiper Local Municipality
+http://www.solplaatje.org.za,Sol Plaatje Local Municipality
+http://www.dikgatlong.gov.za,Dikgatlong Local Municipality
+http://www.magareng.gov.za,Magareng Local Municipality
+http://www.phokwane.gov.za,Phokwane Local Municipality
+http://www.joemorolong.gov.za,Joe Morolong Local Municipality
+http://www.ga-segonyana.gov.za,Ga-Segonyana Local Municipality
+http://www.gamagara.gov.za,Gamagara Local Municipality
+https://moretele.gov.za/,Moretele Local Municipality
+https://www.madibeng.gov.za/,Madibeng Local Municipality
+https://www.rustenburg.gov.za/,Rustenburg Local Municipality
+http://www.kgetlengrivier.gov.za/,Kgetlengrivier Local Municipality
+http://www.moseskotane.gov.za/,Moses Kotane Local Municipality
+https://www.ratlou.gov.za/,Ratlou Local Municipality
+https://www.tswaing.gov.za/,Tswaing Local Municipality
+https://www.mahikeng.gov.za/,Mahikeng Local Municipality
+http://www.ditsobotla.gov.za/,Ditsobotla Local Municipality
+http://www.ramotshere.gov.za/,Ramotshere Moiloa Local Municipality
+http://www.naledi.gov.za/,Naledi Local Municipality
+https://www.mamusa.gov.za/,Mamusa Local Municipality
+http://www.greater-taung.gov.za/,Greater Taung Local Municipality
+http://www.lekwa-teemane.gov.za/,Lekwa-Teemane Local Municipality
+https://www.kagisanomolopo.gov.za/,Kagisano-Molopo Local Municipality
+https://www.matlosana.gov.za/,City of Matlosana Local Municipality
+http://www.maquassihills.gov.za/,Maquassi Hills Local Municipality
+http://www.jbmarks.gov.za/,JB Marks Local Municipality
+http://www.matzikama.gov.za/,Matzikama Local Municipality
+http://www.cederberg.gov.za/,Cederberg Local Municipality
+http://www.bergrivier.gov.za/,Bergrivier Local Municipality
+http://www.saldanha.gov.za/,Saldanha Bay Local Municipality
+http://www.swartland.org.za/,Swartland Local Municipality
+http://www.witzenberg.gov.za/,Witzenberg Local Municipality
+http://www.drakenstein.gov.za/,Drakenstein Local Municipality
+http://www.stellenbosch.gov.za/,Stellenbosch Local Municipality
+http://www.breedevalley.gov.za/,Breede Valley Local Municipality
+http://www.langeberg.gov.za/,Langeberg Local Municipality
+http://www.theewaterskloof.gov.za/,Theewaterskloof Local Municipality
+http://www.overstrand.gov.za/,Overstrand Local Municipality
+http://www.capetown.gov.za/,Cape Agulhas Local Municipality
+http://www.swellendam.gov.za/,Swellendam Local Municipality
+http://www.kannaland.gov.za/,Kannaland Local Municipality
+http://www.hessequa.gov.za/,Hessequa Local Municipality
+http://www.mosselbay.gov.za/,Mossel Bay Local Municipality
+http://www.george.gov.za/,George Local Municipality
+http://www.oudtshoorn.gov.za/,Oudtshoorn Local Municipality
+http://www.bitou.gov.za/,Bitou Local Municipality
+http://www.knysna.gov.za/,Knysna Local Municipality
+http://www.laingsburg.gov.za/,Laingsburg Local Municipality
+http://www.princealbert.gov.za/,Prince Albert Local Municipality
 http://www.dalrrd.gov.za/,Agriculture, Land Reform and Rural Development
 https://www.education.gov.za/,Basic Education
 http://www.policesecretariat.gov.za/,Civilian Secretariat for Police
