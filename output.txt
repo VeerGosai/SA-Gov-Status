@@ -38,7 +38,7 @@ Website: Western Cape - Status: 200
 Website: SASSA - Status: Offline
 Website: Government of South Africa - Status: 200
 Website: South Africa Online - Status: Offline
-Website: Department of Social Development - Status: 200
+Website: Department of Social Development - Status: Offline
 Website: Department of Home Affairs - Status: 200
 Website: South African Police Service Statistics - Status: Offline
 Website: Western Cape Government - Status: 200
