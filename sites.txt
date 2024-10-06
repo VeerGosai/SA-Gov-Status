@@ -7,6 +7,14 @@ https://ecprov.gov.za,Eastern Cape (Province)
 https://www.freestateonline.fs.gov.za,Free State (Province)
 http://www.kznonline.gov.za,KwaZulu-Natal (Province)
 http://www.mpumalanga.gov.za,Mpumalanga (Province)
+https://www.buffalocity.gov.za,Buffalo City (Metro Municipality)
+https://www.capetown.gov.za,Cape Town (Metro Municipality)
+https://www.ekurhuleni.gov.za,Ekurhuleni (Metro Municipality)
+https://joburg.org.za,Johannesburg (Metro Municipality)
+https://www.tshwane.gov.za,Tshwane (Metro Municipality)
+https://www.durban.gov.za,eThekwini (Metro Municipality)
+https://www.mangaung.co.za,Mangaung (Metro Municipality)
+https://www.nelsonmandelabay.gov.za,Nelson Mandela Bay (Metro Municipality)
 http://www.dalrrd.gov.za/,Agriculture, Land Reform and Rural Development
 https://www.education.gov.za/,Basic Education
 http://www.policesecretariat.gov.za/,Civilian Secretariat for Police
