@@ -112,7 +112,7 @@ Website: Mafube (Local Municipality) - Status: Offline
 Website: Emfuleni (Local Municipality) - Status: 200
 Website: Midvaal (Local Municipality) - Status: 200
 Website: Lesedi (Local Municipality) - Status: Offline
-Website: Mogale City (Local Municipality) - Status: 200
+Website: Mogale City (Local Municipality) - Status: Offline
 Website: Merafong City (Local Municipality) - Status: Offline
 Website: Rand West City (Local Municipality) - Status: 200
 Website: Umdoni Local Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Cape Agulhas Local Municipality - Status: 200
 Website: Swellendam Local Municipality - Status: 200
 Website: Kannaland Local Municipality - Status: 200
 Website: Hessequa Local Municipality - Status: 200
-Website: Mossel Bay Local Municipality - Status: 200
+Website: Mossel Bay Local Municipality - Status: Offline
 Website: George Local Municipality - Status: 200
 Website: Oudtshoorn Local Municipality - Status: 200
 Website: Bitou Local Municipality - Status: 200
@@ -294,7 +294,7 @@ Website: Eastern Cape - Status: Offline
 Website: Free State - Status: Offline
 Website: Gauteng - Status: 200
 Website: KwaZulu-Natal - Status: Offline
-Website: Limpopo - Status: 200
+Website: Limpopo - Status: Offline
 Website: Mpumalanga - Status: 200
 Website: North West - Status: Offline
 Website: Northern Cape - Status: Offline
@@ -311,7 +311,7 @@ Website: City of Johannesburg - Status: Offline
 Website: City of Cape Town - Status: 200
 Website: Eastern Cape Government - Status: Offline
 Website: KwaZulu-Natal Government - Status: Offline
-Website: Limpopo Provincial Government - Status: 200
+Website: Limpopo Provincial Government - Status: Offline
 Website: Mpumalanga Provincial Government - Status: Offline
 Website: North West Provincial Government - Status: Offline
 Website: Free State Provincial Government - Status: Offline
@@ -338,9 +338,9 @@ Website: National Treasury - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Housing - Status: Offline
 Website: Southern Africa Labour and Development Research Unit - Status: 200
-Website: Council for Scientific and Industrial Research - Status: 200
+Website: Council for Scientific and Industrial Research - Status: Offline
 Website: University of Johannesburg - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: University of the Witwatersrand - Status: 200
 Website: University of South Africa - Status: 200
 Website: North-West University - Status: 200
