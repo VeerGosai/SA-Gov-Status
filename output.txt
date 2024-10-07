@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: Offline
+Website: Senqu (Local Municipality) - Status: 200
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -218,7 +218,7 @@ Website: Sol Plaatje Local Municipality - Status: 200
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
 Website: Phokwane Local Municipality - Status: 200
-Website: Joe Morolong Local Municipality - Status: Offline
+Website: Joe Morolong Local Municipality - Status: 200
 Website: Ga-Segonyana Local Municipality - Status: Offline
 Website: Gamagara Local Municipality - Status: Offline
 Website: Moretele Local Municipality - Status: 200
