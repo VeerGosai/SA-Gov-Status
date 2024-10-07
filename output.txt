@@ -28,7 +28,7 @@ Website: Thabo Mofutsanyana (District Municipality) - Status: Offline
 Website: Xhariep (District Muncipality) - Status: 200
 Website: Sedibeng (District Municipality) - Status: 200
 Website: West Rand (District Municipality) - Status: 200
-Website: Amajuba (District Municipality) - Status: Offline
+Website: Amajuba (District Municipality) - Status: 200
 Website: Harry Gwala (District Municipality) - Status: 200
 Website: iLembe (District Municipality) - Status: 200
 Website: King Cetshwayo (District Municipality) - Status: 200
@@ -155,7 +155,7 @@ Website: KwaDukuza Local Municipality - Status: 200
 Website: Ndwedwe Local Municipality - Status: 200
 Website: Maphumulo Local Municipality - Status: 200
 Website: Greater Kokstad Local Municipality - Status: Offline
-Website: Ubuhlebezwe Local Municipality - Status: 200
+Website: Ubuhlebezwe Local Municipality - Status: Offline
 Website: Umzimkhulu Local Municipality - Status: Offline
 Website: Dr Nkosazana - Status: 200
 Website: Greater Giyani Local Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Cape Agulhas Local Municipality - Status: 200
 Website: Swellendam Local Municipality - Status: 200
 Website: Kannaland Local Municipality - Status: 200
 Website: Hessequa Local Municipality - Status: 200
-Website: Mossel Bay Local Municipality - Status: Offline
+Website: Mossel Bay Local Municipality - Status: 200
 Website: George Local Municipality - Status: 200
 Website: Oudtshoorn Local Municipality - Status: 200
 Website: Bitou Local Municipality - Status: 200
