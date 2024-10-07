@@ -28,7 +28,7 @@ Website: Thabo Mofutsanyana (District Municipality) - Status: Offline
 Website: Xhariep (District Muncipality) - Status: 200
 Website: Sedibeng (District Municipality) - Status: 200
 Website: West Rand (District Municipality) - Status: 200
-Website: Amajuba (District Municipality) - Status: 200
+Website: Amajuba (District Municipality) - Status: Offline
 Website: Harry Gwala (District Municipality) - Status: 200
 Website: iLembe (District Municipality) - Status: 200
 Website: King Cetshwayo (District Municipality) - Status: 200
@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: 200
+Website: Senqu (Local Municipality) - Status: Offline
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -255,7 +255,7 @@ Website: Cape Agulhas Local Municipality - Status: 200
 Website: Swellendam Local Municipality - Status: 200
 Website: Kannaland Local Municipality - Status: 200
 Website: Hessequa Local Municipality - Status: 200
-Website: Mossel Bay Local Municipality - Status: 200
+Website: Mossel Bay Local Municipality - Status: Offline
 Website: George Local Municipality - Status: 200
 Website: Oudtshoorn Local Municipality - Status: 200
 Website: Bitou Local Municipality - Status: 200
@@ -338,9 +338,9 @@ Website: National Treasury - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Housing - Status: Offline
 Website: Southern Africa Labour and Development Research Unit - Status: 200
-Website: Council for Scientific and Industrial Research - Status: Offline
+Website: Council for Scientific and Industrial Research - Status: 200
 Website: University of Johannesburg - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of South Africa - Status: 200
 Website: North-West University - Status: 200
