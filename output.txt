@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: Offline
+Website: Senqu (Local Municipality) - Status: 200
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -217,7 +217,7 @@ Website: Dawid Kruiper Local Municipality - Status: Offline
 Website: Sol Plaatje Local Municipality - Status: 200
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
-Website: Phokwane Local Municipality - Status: 200
+Website: Phokwane Local Municipality - Status: Offline
 Website: Joe Morolong Local Municipality - Status: 200
 Website: Ga-Segonyana Local Municipality - Status: Offline
 Website: Gamagara Local Municipality - Status: Offline
@@ -347,7 +347,7 @@ Website: North-West University - Status: 200
 Website: My Society South Africa - Status: Offline
 Website: National Development Agency - Status: 200
 Website: Bosch South Africa - Status: 200
-Website: Electoral Commission of South Africa - Status: 200
+Website: Electoral Commission of South Africa - Status: Offline
 Website: Parliamentary Monitoring Group - Status: 200
 Website: Western Cape Department of Education - Status: Offline
 Website: Eastern Cape Department of Education - Status: 200
