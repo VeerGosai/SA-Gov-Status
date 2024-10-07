@@ -141,7 +141,7 @@ Website: uPhongolo Local Municipality - Status: 200
 Website: Abaqulusi Local Municipality - Status: 200
 Website: Nongoma Local Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
-Website: uMhlabuyalingana Local Municipality - Status: 200
+Website: uMhlabuyalingana Local Municipality - Status: Offline
 Website: Jozini Local Municipality - Status: 200
 Website: Mtubatuba Local Municipality - Status: 200
 Website: Big Five Hlabisa Local Municipality - Status: Offline
@@ -183,7 +183,7 @@ Website: Albert Luthuli Local Municipality - Status: 200
 Website: Msukaligwa Local Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Pixley ka Seme Local Municipality - Status: 200
-Website: Lekwa Local Municipality - Status: 200
+Website: Lekwa Local Municipality - Status: Offline
 Website: Dipaleseng Local Municipality - Status: 200
 Website: Govan Mbeki Local Municipality - Status: 200
 Website: Victor Khanye Local Municipality - Status: Offline
