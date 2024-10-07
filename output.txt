@@ -100,7 +100,7 @@ Website: Tswelopele (Local Municipality) - Status: 200
 Website: Matjhabeng (Local Municipality) - Status: Offline
 Website: Nala (Local Municipality) - Status: Offline
 Website: Setsoto (Local Municipality) - Status: 200
-Website: Dihlabeng (Local Municipality) - Status: Offline
+Website: Dihlabeng (Local Municipality) - Status: 200
 Website: Nketoana (Local Municipality) - Status: Offline
 Website: Maluti-a-Phofung (Local Municipality) - Status: Offline
 Website: Phumelela (Local Municipality) - Status: 200
@@ -141,7 +141,7 @@ Website: uPhongolo Local Municipality - Status: 200
 Website: Abaqulusi Local Municipality - Status: 200
 Website: Nongoma Local Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
-Website: uMhlabuyalingana Local Municipality - Status: Offline
+Website: uMhlabuyalingana Local Municipality - Status: 200
 Website: Jozini Local Municipality - Status: 200
 Website: Mtubatuba Local Municipality - Status: 200
 Website: Big Five Hlabisa Local Municipality - Status: Offline
@@ -217,7 +217,7 @@ Website: Dawid Kruiper Local Municipality - Status: Offline
 Website: Sol Plaatje Local Municipality - Status: 200
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
-Website: Phokwane Local Municipality - Status: Offline
+Website: Phokwane Local Municipality - Status: 200
 Website: Joe Morolong Local Municipality - Status: 200
 Website: Ga-Segonyana Local Municipality - Status: Offline
 Website: Gamagara Local Municipality - Status: Offline
@@ -347,7 +347,7 @@ Website: North-West University - Status: 200
 Website: My Society South Africa - Status: Offline
 Website: National Development Agency - Status: 200
 Website: Bosch South Africa - Status: 200
-Website: Electoral Commission of South Africa - Status: Offline
+Website: Electoral Commission of South Africa - Status: 200
 Website: Parliamentary Monitoring Group - Status: 200
 Website: Western Cape Department of Education - Status: Offline
 Website: Eastern Cape Department of Education - Status: 200
