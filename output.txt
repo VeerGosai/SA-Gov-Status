@@ -214,7 +214,7 @@ Website: !Kheis Local Municipality - Status: 200
 Website: Tsantsabane Local Municipality - Status: 200
 Website: Kgatelopele Local Municipality - Status: 200
 Website: Dawid Kruiper Local Municipality - Status: Offline
-Website: Sol Plaatje Local Municipality - Status: Offline
+Website: Sol Plaatje Local Municipality - Status: 200
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
 Website: Phokwane Local Municipality - Status: 200
@@ -223,7 +223,7 @@ Website: Ga-Segonyana Local Municipality - Status: Offline
 Website: Gamagara Local Municipality - Status: Offline
 Website: Moretele Local Municipality - Status: 200
 Website: Madibeng Local Municipality - Status: 200
-Website: Rustenburg Local Municipality - Status: Offline
+Website: Rustenburg Local Municipality - Status: 200
 Website: Kgetlengrivier Local Municipality - Status: 200
 Website: Moses Kotane Local Municipality - Status: 200
 Website: Ratlou Local Municipality - Status: 200
