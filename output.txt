@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: 200
+Website: Senqu (Local Municipality) - Status: Offline
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -141,7 +141,7 @@ Website: uPhongolo Local Municipality - Status: 200
 Website: Abaqulusi Local Municipality - Status: 200
 Website: Nongoma Local Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
-Website: uMhlabuyalingana Local Municipality - Status: Offline
+Website: uMhlabuyalingana Local Municipality - Status: 200
 Website: Jozini Local Municipality - Status: 200
 Website: Mtubatuba Local Municipality - Status: 200
 Website: Big Five Hlabisa Local Municipality - Status: Offline
@@ -183,7 +183,7 @@ Website: Albert Luthuli Local Municipality - Status: 200
 Website: Msukaligwa Local Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Pixley ka Seme Local Municipality - Status: 200
-Website: Lekwa Local Municipality - Status: Offline
+Website: Lekwa Local Municipality - Status: 200
 Website: Dipaleseng Local Municipality - Status: 200
 Website: Govan Mbeki Local Municipality - Status: 200
 Website: Victor Khanye Local Municipality - Status: Offline
@@ -214,7 +214,7 @@ Website: !Kheis Local Municipality - Status: 200
 Website: Tsantsabane Local Municipality - Status: 200
 Website: Kgatelopele Local Municipality - Status: 200
 Website: Dawid Kruiper Local Municipality - Status: Offline
-Website: Sol Plaatje Local Municipality - Status: 200
+Website: Sol Plaatje Local Municipality - Status: Offline
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
 Website: Phokwane Local Municipality - Status: 200
