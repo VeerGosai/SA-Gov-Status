@@ -34,7 +34,7 @@ https://www.cda.gov.za,Community Development Association
 https://www.cpr.gov.za,Crisis and Prevention Response
 https://www.custportal.gov.za,Customer Portal
 https://www.cybersecurityhub.gov.za,Cybersecurity Hub
-https://www.ldard.gov.za,Department of Agriculture
+https://www.ldard.gov.za,Limpopo Department of Agriculture and Rural Development
 https://www.daff.gov.za,Department of Agriculture, Fisheries and Forestry
 https://www.dalrrd.gov.za,Department of Agriculture, Land Reform and Rural Development
 https://www.dac.gov.za,Department of Arts and Culture
