@@ -17,7 +17,7 @@ Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Alfred Nzo (District Municipality) - Status: Offline
 Website: Amathole (District Municipality) - Status: Offline
-Website: Chris Hani (District Municipality) - Status: 200
+Website: Chris Hani (District Municipality) - Status: Offline
 Website: Joe Gqabi (District Municipality) - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: OR Tambo (District Municipality) - Status: 200
