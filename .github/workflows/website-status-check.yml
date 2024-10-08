@@ -38,8 +38,10 @@ jobs:
           echo "    console.log(\`Checking status for: \${title} (\${url})\`);" >> check-status.js  # Log the site being checked
           echo "    try {" >> check-status.js
           echo "        const response = await axios.get(url);" >> check-status.js
+          echo "        console.log(\`Website: \${title} - Status: \${response.status}\`);" >> check-status.js
           echo "        return \`Website: \${title} - Status: \${response.status}\`;" >> check-status.js
           echo "    } catch (error) {" >> check-status.js
+          echo "        console.log(\`Website: \${title} - Status: Offline\`);" >> check-status.js
           echo "        return \`Website: \${title} - Status: Offline\`;" >> check-status.js
           echo "    }" >> check-status.js
           echo "};" >> check-status.js
@@ -65,16 +67,31 @@ jobs:
       - name: Run check-status.js
         run: node check-status.js
 
+      - name: Rename output.txt to old-output.txt
+        run: |
+          if [ -f output.txt ]; then
+            mv output.txt old-output.txt
+          fi
+
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
         with:
           name: website-status-results
           path: output.txt
 
+      - name: Copy new output.txt from artifact
+        run: |
+          if [ -f output.txt ]; then
+            cp output.txt new-output.txt
+          fi
+
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push output.txt
-        run: git add output.txt && git commit -m "Update website status results" && git push
+      - name: Commit old-output.txt and new output.txt
+        run: |
+          git add old-output.txt new-output.txt
+          git commit -m "Update website status results" 
+          git push
