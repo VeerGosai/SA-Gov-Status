@@ -1,403 +1,448 @@
-https://www.gauteng.gov.za,Gauteng (Province)
-https://www.limpopo.gov.za,Limpopo (Province)
-https://www.nwpg.gov.za,North West (Province)
-http://www.northern-cape.gov.za,Northern Cape (Province)
-https://www.westerncape.gov.za,Western Cape (Province)
-https://ecprov.gov.za,Eastern Cape (Province)
-https://www.freestateonline.fs.gov.za,Free State (Province)
-http://www.kznonline.gov.za,KwaZulu-Natal (Province)
-http://www.mpumalanga.gov.za,Mpumalanga (Province)
+https://www.albertluthuli.gov.za,Albert Luthuli Municipality
+https://www.alfredduma.gov.za,Alfred Duma Municipality
+https://www.amahlathi.gov.za,Amahlathi Municipality
+https://www.amajuba.gov.za,Amajuba District Municipality
+https://www.amatholegis.gov.za,Amathole District Municipality
+https://www.bvmun.gov.za,Bafokeng Municipality
+https://www.ba-phalaborwa.gov.za,Ba-Phalaborwa Municipality
+https://www.big5hlabisa.gov.za,Big Five Hlabisa Municipality
+https://www.bizportal.gov.za,Biz Portal
+https://www.blueprint.gov.za,Blueprint Government Portal
+https://www.bojanala.gov.za,Bojanala Platinum District Municipality
+https://www.bnlm.gov.za,Bophirima Municipality
+https://www.breedevallei.gov.za,Breede Valley Municipality
+https://www.breedevalley.gov.za,Breede Valley Municipality (alternate domain)
 https://www.buffalocity.gov.za,Buffalo City (Metro Municipality)
+https://www.buffalocitymetro.gov.za,Buffalo City Metropolitan Municipality
+https://www.buffalocity.gov.za,Buffalo City Municipality
+https://www.bvm.gov.za,Bushbuckridge Local Municipality
+https://www.bushbuckridge.gov.za,Bushbuckridge Municipality
+https://www.camdeboo.gov.za,Camdeboo Municipality
+https://www.capeagulhas.gov.za,Cape Agulhas Municipality
+https://www.cput.ac.za/,Cape Peninsula University of Technology
 https://www.capetown.gov.za,Cape Town (Metro Municipality)
-https://www.ekurhuleni.gov.za,Ekurhuleni (Metro Municipality)
-https://joburg.org.za,Johannesburg (Metro Municipality)
-https://www.tshwane.gov.za,Tshwane (Metro Municipality)
-https://www.durban.gov.za,eThekwini (Metro Municipality)
-https://www.mangaung.co.za,Mangaung (Metro Municipality)
-https://www.nelsonmandelabay.gov.za,Nelson Mandela Bay (Metro Municipality)
-https://www.alfrednzo.gov.za,Alfred Nzo (District Municipality)
-https://www.amathole.gov.za,Amathole (District Municipality)
-https://www.chrishanidm.gov.za,Chris Hani (District Municipality)
-http://www.jgdm.gov.za,Joe Gqabi (District Municipality)
-https://www.nelsonmandelabay.gov.za,Nelson Mandela Bay (Metro Municipality)
-https://www.ortambodm.gov.za,OR Tambo (District Municipality)
-http://www.sbdm.co.za,Sarah Baartman (District Municipality)
-https://feziledabi.gov.za,Fezile Dabi (District Municipality)
-https://lejwe.co.za,Lejweleputswa (District Municipality)
-https://www.thabomofutsanyana.gov.za,Thabo Mofutsanyana (District Municipality)
-https://xhariep.gov.za,Xhariep (District Muncipality)
-http://www.sedibeng.gov.za,Sedibeng (District Municipality)
-http://www.wrdm.gov.za,West Rand (District Municipality)
-https://www.amajuba.gov.za,Amajuba (District Municipality)
-http://www.harrygwaladm.gov.za,Harry Gwala (District Municipality)
-https://www.ilembe.gov.za,iLembe (District Municipality)
-http://www.kingcetshwayo.gov.za,King Cetshwayo (District Municipality)
-http://www.ugu.gov.za,Ugu (District Municipality)
-http://www.umdm.gov.za,uMgungundlovu (District Municipality)
-http://www.umkhanyakude.gov.za,uMkhanyakude (District Municipality)
-http://www.umzinyathi.gov.za,uMzinyathi (District Municipality)
-http://www.uthukeladm.gov.za,uThukela (District Municipality)
-http://www.zululand.org.za,Zululand (District Municipality)
-https://www.capricorn.gov.za,Capricorn (District Municipality)
-https://www.mopani.gov.za,Mopani (District Municipality)
-https://www.sekhukhune.gov.za,Sekhukhune (District Municipality)
-https://www.vhembe.gov.za,Vhembe (District Municipality)
-https://www.waterberg.gov.za,Waterberg (District Municipality)
-https://www.ehlanzeni.gov.za,Ehlanzeni (District Municipality)
-https://www.gertsibande.gov.za,Gert Sibande (District Municipality)
-https://www.nkangala.gov.za,Nkangala (District Municipality)
-https://bojanala.gov.za,Bojanala Platinum (District Municipality)
-https://www.kdc.gov.za,Dr Kenneth Kaunda (District Municipality)
-https://www.ditlhong.gov.za,Dr Ruth Segomotsi Mompati (District Municipality)
-https://www.nmm.gov.za,Ngaka Modiri Molema (District Municipality)
-https://www.francesbaard.gov.za,Frances Baard (District Municipality)
-http://www.jgdm.gov.za,John Taolo Gaetsewe (District Municipality)
-http://www.namakwa.gov.za,Namakwa (District Municipality)
-http://www.pixleykaseme.gov.za,Pixley ka Seme (District Municipality)
-https://www.zfm.gov.za,ZF Mgcawu (District Municipality)
-https://www.capewinelands.gov.za,Cape Winelands (District Municipality)
-https://www.skdm.co.za,Central Karoo (District Municipality)
-https://www.gardenroute.gov.za,Garden Route (District Municipality)
-https://www.overberg.gov.za,Overberg (District Municipality)
-https://www.westcoast.gov.za,West Coast (District Municipality)
-https://www.drbyersnaudelm.gov.za,Dr Beyers Naudé (Local Municipality)
-https://www.bluecraneroute.gov.za,Blue Crane Route (Local Municipality)
-https://www.makana.gov.za,Makana (Local Municipality)
-https://www.ndlambe.gov.za,Ndlambe (Local Municipality)
-https://www.sundaysriver.gov.za,Sundays River Valley (Local Municipality)
-https://www.kouga.gov.za,Kouga (Local Municipality)
-https://www.kou-kamma.gov.za,Kou-Kamma (Local Municipality)
-https://www.mbhashe.gov.za,Mbhashe (Local Municipality)
-https://www.mnquma.gov.za,Mnquma (Local Municipality)
-https://www.greatkei.gov.za,Great Kei (Local Municipality)
-https://www.amahlathi.gov.za,Amahlathi (Local Municipality)
-https://www.ngqushwa.gov.za,Ngqushwa (Local Municipality)
-https://www.raymondmhlaba.gov.za,Raymond Mhlaba (Local Municipality)
-https://www.inxubayethembamunicipality.gov.za,Inxuba Yethemba (Local Municipality)
-https://www.intsikayethu.gov.za,Intsika Yethu (Local Municipality)
-https://www.emalahleni.gov.za,Emalahleni (Local Municipality)
-https://www.drabxuma.gov.za,Dr AB Xuma (Local Municipality)
-https://www.sakhisizwe.gov.za,Sakhisizwe (Local Municipality)
-https://www.enochmgijima.gov.za,Enoch Mgijima (Local Municipality)
-https://www.elundini.gov.za,Elundini (Local Municipality)
-https://www.senqu.gov.za,Senqu (Local Municipality)
-https://www.waltersisulu.gov.za,Walter Sisulu (Local Municipality)
-https://www.ingquzahill.gov.za,Ingquza Hill (Local Municipality)
-https://www.portstjohns.gov.za,Port St Johns (Local Municipality)
-https://www.nyandeni.gov.za,Nyandeni (Local Municipality)
-https://www.mhlontlo.gov.za,Mhlontlo (Local Municipality)
-https://www.kingsabata.gov.za,King Sabata Dalindyebo (Local Municipality)
-https://www.matatiele.gov.za,Matatiele (Local Municipality)
-https://www.umzimvubu.gov.za,Umzimvubu (Local Municipality)
-https://www.winnie.gov.za,Winnie Madikizela-Mandela (Local Municipality)
-https://www.ntabankulu.gov.za,Ntabankulu (Local Municipality)
-https://www.letsemeng.gov.za,Letsemeng (Local Municipality)
-https://www.kopanong.gov.za,Kopanong (Local Municipality)
-https://www.mohokare.gov.za,Mohokare (Local Municipality)
-https://www.masilonyana.gov.za,Masilonyana (Local Municipality)
-https://www.tokologo.gov.za,Tokologo (Local Municipality)
-https://www.tswelopele.gov.za,Tswelopele (Local Municipality)
-https://www.matjhabeng.gov.za,Matjhabeng (Local Municipality)
-https://www.nala.gov.za,Nala (Local Municipality)
-https://www.setsoto.gov.za,Setsoto (Local Municipality)
-https://www.dihlabeng.gov.za,Dihlabeng (Local Municipality)
-https://www.nketoana.gov.za,Nketoana (Local Municipality)
-https://www.maluti-a-phofung.gov.za,Maluti-a-Phofung (Local Municipality)
-https://www.phumelela.gov.za,Phumelela (Local Municipality)
-https://www.mantsopa.gov.za,Mantsopa (Local Municipality)
-https://www.moqhaka.gov.za,Moqhaka (Local Municipality)
-https://www.ngwathe.gov.za,Ngwathe (Local Municipality)
-https://www.metsimaholo.gov.za,Metsimaholo (Local Municipality)
-https://www.mafube.gov.za,Mafube (Local Municipality)
-https://www.emfuleni.gov.za,Emfuleni (Local Municipality)
-https://www.midvaal.gov.za,Midvaal (Local Municipality)
-https://www.lesedi.gov.za,Lesedi (Local Municipality)
-https://www.mogalecity.gov.za,Mogale City (Local Municipality)
-https://www.merafong.gov.za,Merafong City (Local Municipality)
-https://www.randwestcity.gov.za,Rand West City (Local Municipality)
-https://www.umdoni.gov.za,Umdoni Local Municipality
-https://www.umzumbe.gov.za,Umzumbe Local Municipality
-https://www.umuziwabantu.gov.za,uMuziwabantu Local Municipality
-https://www.raynkonyeni.gov.za,Ray Nkonyeni Local Municipality
-http://www.umshwathi.gov.za,uMshwathi Local Municipality
-https://www.umngeni.gov.za,uMngeni Local Municipality
-http://www.mpofana.gov.za,Mpofana Local Municipality
-http://www.impendle.gov.za,Impendle Local Municipality
-http://www.msunduzi.gov.za,Msunduzi Local Municipality
-http://www.mkhambathini.gov.za,Mkhambathini Local Municipality
-http://www.richmond.gov.za,Richmond Local Municipality
-http://www.okhahlamba.gov.za,Okhahlamba Local Municipality
-http://www.inkosilangalibalele.gov.za,Inkosi Langalibalele Local Municipality
-https://www.alfredduma.gov.za,Alfred Duma Local Municipality
-http://www.endumeni.gov.za,Endumeni Local Municipality
-http://www.nqutu.gov.za,Nqutu Local Municipality
-http://www.msinga.gov.za,Msinga Local Municipality
-http://www.umvoti.gov.za,Umvoti Local Municipality
-http://www.newcastle.gov.za,Newcastle Local Municipality
-http://www.emadlangeni.gov.za,eMadlangeni Local Municipality
-http://www.dannhauser.gov.za,Dannhauser Local Municipality
-http://www.edumbe.gov.za,eDumbe Local Municipality
-http://www.uphongolo.gov.za,uPhongolo Local Municipality
-http://www.abaqulusi.gov.za,Abaqulusi Local Municipality
-http://www.nongoma.gov.za,Nongoma Local Municipality
-http://www.ulundi.gov.za,Ulundi Local Municipality
-http://www.umhlabuyalingana.gov.za,uMhlabuyalingana Local Municipality
-http://www.jozini.gov.za,Jozini Local Municipality
-http://www.mtubatuba.gov.za,Mtubatuba Local Municipality
-http://www.bigfivehlabisa.gov.za,Big Five Hlabisa Local Municipality
-http://www.umfolozi.gov.za,uMfolozi Local Municipality
-http://www.umhlathuze.gov.za,uMhlathuze Local Municipality
-http://www.umlalazi.gov.za,uMlalazi Local Municipality
-http://www.mthonjaneni.gov.za,Mthonjaneni Local Municipality
-http://www.nkandla.gov.za,Nkandla Local Municipality
-http://www.mandeni.gov.za,Mandeni Local Municipality
-http://www.kwadukuza.gov.za,KwaDukuza Local Municipality
-http://www.ndwedwe.gov.za,Ndwedwe Local Municipality
-http://www.maphumulo.gov.za,Maphumulo Local Municipality
-http://www.greaterkokstad.gov.za,Greater Kokstad Local Municipality
-http://www.ubuhlebezwe.gov.za,Ubuhlebezwe Local Municipality
-http://www.umzimkhulu.gov.za,Umzimkhulu Local Municipality
-http://www.ndz.gov.za,Dr Nkosazana 
-http://www.greatergiyani.gov.za,Greater Giyani Local Municipality
-http://www.greaterletaba.gov.za,Greater Letaba Local Municipality
-http://www.greatertzaneen.gov.za,Greater Tzaneen Local Municipality
-http://www.phalaborwa.gov.za,Ba-Phalaborwa Local Municipality
-http://www.maruleng.gov.za,Maruleng Local Municipality
-http://www.musina.gov.za,Musina Local Municipality
-http://www.thulamela.gov.za,Thulamela Local Municipality
-http://www.makhado.gov.za,Makhado Local Municipality
-http://www.collinschabane.gov.za,Collins Chabane Local Municipality
-http://www.blouberg.gov.za,Blouberg Local Municipality
-http://www.molemole.gov.za,Molemole Local Municipality
-http://www.polokwane.gov.za,Polokwane Local Municipality
-http://www.lepellenkumpi.gov.za,Lepelle-Nkumpi Local Municipality
-http://www.thabazimbi.gov.za,Thabazimbi Local Municipality
-http://www.lephalale.gov.za,Lephalale Local Municipality
-http://www.belabela.gov.za,Bela-Bela Local Municipality
-http://www.mogalakwena.gov.za,Mogalakwena Local Municipality
-http://www.modimolle.gov.za,Modimolle–Mookgophong Local Municipality
-http://www.ephraimmogale.gov.za,Ephraim Mogale Local Municipality
-http://www.eliasmotsoaledi.gov.za,Elias Motsoaledi Local Municipality
-http://www.makhuduthamaga.gov.za,Makhuduthamaga Local Municipality
-http://www.albertluthuli.gov.za,Albert Luthuli Local Municipality
-http://www.msukaligwa.gov.za,Msukaligwa Local Municipality
-http://www.mkhondo.gov.za,Mkhondo Local Municipality
-http://www.pixleykaseme.gov.za,Pixley ka Seme Local Municipality
-http://www.lekwalm.gov.za,Lekwa Local Municipality
-http://www.dipaleseng.gov.za,Dipaleseng Local Municipality
-http://www.govanmbeki.gov.za,Govan Mbeki Local Municipality
-http://www.victorkhanye.gov.za,Victor Khanye Local Municipality
-http://www.emalahleni.gov.za,Emalahleni Local Municipality
-http://www.stevetshwetelm.gov.za,Steve Tshwete Local Municipality
-http://www.emakhazeni.gov.za,Emakhazeni Local Municipality
-http://www.thembisilehanilm.gov.za,Thembisile Hani Local Municipality
-http://www.drjsmoroka.gov.za,Dr JS Moroka Local Municipality
-http://www.thabachweu.gov.za,Thaba Chweu Local Municipality
-http://www.nkomazi.gov.za,Nkomazi Local Municipality
-http://www.bushbuckridge.gov.za,Bushbuckridge Local Municipality
-http://www.richtersveld.gov.za,Richtersveld Local Municipality
-http://www.namakhoi.gov.za,Nama Khoi Local Municipality
-http://www.kamiesberg.gov.za,Kamiesberg Local Municipality
-http://www.hantam.gov.za,Hantam Local Municipality
-http://www.karoohoogland.gov.za,Karoo Hoogland Local Municipality
-http://www.khai-ma.gov.za,Khâi-Ma Local Municipality
-http://www.ubuntu.gov.za,Ubuntu Local Municipality
-http://www.umsobomvu.gov.za,Umsobomvu Local Municipality
-http://www.emthanjeni.gov.za,Emthanjeni Local Municipality
-http://www.kareeberg.gov.za,Kareeberg Local Municipality
-http://www.renosterberg.gov.za,Renosterberg Local Municipality
-http://www.thembelihle.gov.za,Thembelihle Local Municipality
-http://www.siyathemba.gov.za,Siyathemba Local Municipality
-http://www.siyancuma.gov.za,Siyancuma Local Municipality
-http://www.kaigarib.gov.za,Kai !Garib Local Municipality
-http://www.kheis.gov.za,!Kheis Local Municipality
-http://www.tsantsabane.gov.za,Tsantsabane Local Municipality
-http://www.kgatelopele.gov.za,Kgatelopele Local Municipality
-http://www.dawidkruiper.gov.za,Dawid Kruiper Local Municipality
-http://www.solplaatje.org.za,Sol Plaatje Local Municipality
-http://www.dikgatlong.gov.za,Dikgatlong Local Municipality
-http://www.magareng.gov.za,Magareng Local Municipality
-http://www.phokwane.gov.za,Phokwane Local Municipality
-http://www.joemorolong.gov.za,Joe Morolong Local Municipality
-http://www.ga-segonyana.gov.za,Ga-Segonyana Local Municipality
-http://www.gamagara.gov.za,Gamagara Local Municipality
-https://moretele.gov.za/,Moretele Local Municipality
-https://www.madibeng.gov.za/,Madibeng Local Municipality
-https://www.rustenburg.gov.za/,Rustenburg Local Municipality
-http://www.kgetlengrivier.gov.za/,Kgetlengrivier Local Municipality
-http://www.moseskotane.gov.za/,Moses Kotane Local Municipality
-https://www.ratlou.gov.za/,Ratlou Local Municipality
-https://www.tswaing.gov.za/,Tswaing Local Municipality
-https://www.mahikeng.gov.za/,Mahikeng Local Municipality
-http://www.ditsobotla.gov.za/,Ditsobotla Local Municipality
-http://www.ramotshere.gov.za/,Ramotshere Moiloa Local Municipality
-http://www.naledi.gov.za/,Naledi Local Municipality
-https://www.mamusa.gov.za/,Mamusa Local Municipality
-http://www.greater-taung.gov.za/,Greater Taung Local Municipality
-http://www.lekwa-teemane.gov.za/,Lekwa-Teemane Local Municipality
-https://www.kagisanomolopo.gov.za/,Kagisano-Molopo Local Municipality
-https://www.matlosana.gov.za/,City of Matlosana Local Municipality
-http://www.maquassihills.gov.za/,Maquassi Hills Local Municipality
-http://www.jbmarks.gov.za/,JB Marks Local Municipality
-http://www.matzikama.gov.za/,Matzikama Local Municipality
-http://www.cederberg.gov.za/,Cederberg Local Municipality
-http://www.bergrivier.gov.za/,Bergrivier Local Municipality
-http://www.saldanha.gov.za/,Saldanha Bay Local Municipality
-http://www.swartland.org.za/,Swartland Local Municipality
-http://www.witzenberg.gov.za/,Witzenberg Local Municipality
-http://www.drakenstein.gov.za/,Drakenstein Local Municipality
-http://www.stellenbosch.gov.za/,Stellenbosch Local Municipality
-http://www.breedevalley.gov.za/,Breede Valley Local Municipality
-http://www.langeberg.gov.za/,Langeberg Local Municipality
-http://www.theewaterskloof.gov.za/,Theewaterskloof Local Municipality
-http://www.overstrand.gov.za/,Overstrand Local Municipality
-http://www.capetown.gov.za/,Cape Agulhas Local Municipality
-http://www.swellendam.gov.za/,Swellendam Local Municipality
-http://www.kannaland.gov.za/,Kannaland Local Municipality
-http://www.hessequa.gov.za/,Hessequa Local Municipality
-http://www.mosselbay.gov.za/,Mossel Bay Local Municipality
-http://www.george.gov.za/,George Local Municipality
-http://www.oudtshoorn.gov.za/,Oudtshoorn Local Municipality
-http://www.bitou.gov.za/,Bitou Local Municipality
-http://www.knysna.gov.za/,Knysna Local Municipality
-http://www.laingsburg.gov.za/,Laingsburg Local Municipality
-http://www.princealbert.gov.za/,Prince Albert Local Municipality
-http://www.dalrrd.gov.za/,Agriculture, Land Reform and Rural Development
-https://www.education.gov.za/,Basic Education
-http://www.policesecretariat.gov.za/,Civilian Secretariat for Police
-https://www.dcdt.gov.za/,Communications and Digital Technologies
-https://www.cogta.gov.za,Cooperative Governance and Traditional Affairs
-http://www.dcs.gov.za/,Correctional Services
-http://www.dod.mil.za,Defence
-http://www.labour.gov.za/,Employment and Labour
-https://www.dffe.gov.za/,Forestry, Fisheries and the Environment
-https://www.gcis.gov.za,Government Communication and Information System
-https://www.health.gov.za/,Health
-https://www.dhet.gov.za/,Higher Education and Training
-http://www.dha.gov.za/,Home Affairs
-https://www.dhs.gov.za/,Human Settlements
-https://www.ipid.gov.za/,Independent Police Investigative Directorate
-https://www.dirco.gov.za/,International Relations and Cooperation
-https://www.justice.gov.za/,Justice and Constitutional Development
-http://www.dmv.gov.za/,Military Veterans
-http://www.dmre.gov.za/,Mineral Resources and Energy
-https://www.thensg.gov.za/,National School of Government
-https://www.treasury.gov.za/,National Treasury
-https://www.judiciary.org.za,Office of the Chief Justice
-https://www.dpme.gov.za/Pages/default.aspx,Planning Monitoring and Evaluation
-https://dpe.gov.za/,Public Enterprises
-https://www.dpsa.gov.za,Public Service and Administration
-https://www.psc.gov.za/,Public Service Commission
-http://www.publicworks.gov.za/,Public Works and Infrastructure
-https://www.dst.gov.za/,Science and Innovation
-http://www.ec.gov.za/,Eastern Cape
-http://www.freestateonline.gov.za/,Free State
-http://www.gauteng.gov.za/,Gauteng
-http://www.kzn.gov.za/,KwaZulu-Natal
-http://www.limpopo.gov.za/,Limpopo
-http://www.mpumalanga.gov.za/,Mpumalanga
-http://www.northwest.gov.za/,North West
-http://www.ncpg.gov.za/,Northern Cape
-http://www.westerncape.gov.za/,Western Cape
-https://www.sassa.gov.za/,SASSA
-https://www.sapapers.co.za/SA Papers
-https://www.gov.za,Government of South Africa
-https://www.southafrica.info, South Africa Online
-https://www.dsd.gov.za,Department of Social Development
-https://www.dha.gov.za,Department of Home Affairs
-https://www.policestatistics.gov.za,South African Police Service Statistics
-https://www.westerncape.gov.za,Western Cape Government
-https://www.tshwane.gov.za,City of Tshwane
-https://www.joburg.org.za,City of Johannesburg
+https://www.capewinelands.gov.za,Cape Winelands District Municipality
+https://www.cederberg.gov.za,Cederberg Municipality
+https://www.cfi.gov.za,Central Filming Initiative
+https://www.cut.ac.za/,Central University of Technology
+https://www.chrishanidm.gov.za,Chris Hani District Municipality
 https://www.capetown.gov.za,City of Cape Town
-https://www.easterncape.gov.za,Eastern Cape Government
-https://www.kzn.gov.za,KwaZulu-Natal Government
-https://www.limpopo.gov.za,Limpopo Provincial Government
-https://www.mpumalanga.gov.za,Mpumalanga Provincial Government
-https://www.northwest.gov.za,North West Provincial Government
-https://www.freetystate.gov.za,Free State Provincial Government
-https://www.gauteng.gov.za,Gauteng Provincial Government
-https://www.dmr.gov.za,Department of Mineral Resources
-https://www.environment.gov.za,Department of Environment, Forestry and Fisheries
-https://www.transport.gov.za,Department of Transport
-https://www.sars.gov.za,South African Revenue Service
-https://www.health.gov.za,Department of Health
-https://www.education.gov.za,Department of Basic Education
-https://www.dhET.gov.za,Department of Higher Education and Training
-https://www.sasa.org.za,South African Social Security Agency
-https://www.investment.gov.za,Department of Trade, Industry and Competition
-https://www.nationaldepartmentofhealth.gov.za,National Department of Health
-https://www.dhcs.gov.za,Department of Human Settlements
-https://www.gautrain.co.za,Gautrain Management Agency
-https://www.nhls.ac.za,National Health Laboratory Service
-https://www.sahrc.org.za,South African Human Rights Commission
-https://www.arts.gov.za,Department of Sports, Arts and Culture
-https://www.npa.gov.za,National Prosecuting Authority
-https://www.csa.gov.za,Civilian Secretariat for the Police Service
-https://www.sadc.int, Southern African Development Community
-https://www.national treasury.gov.za,National Treasury
+https://www.durban.gov.za,City of Durban
+https://www.csp.gov.za,Civil Service Portal
+https://www.cloudmgt.gov.za,Cloud Management Portal
+https://www.cda.gov.za,Community Development Association
+https://www.cpr.gov.za,Crisis and Prevention Response
+https://www.custportal.gov.za,Customer Portal
+https://www.cybersecurityhub.gov.za,Cybersecurity Hub
+https://www.ldard.gov.za,Department of Agriculture
+https://www.daff.gov.za,Department of Agriculture, Fisheries and Forestry
+https://www.dalrrd.gov.za,Department of Agriculture, Land Reform and Rural Development
+https://www.dac.gov.za,Department of Arts and Culture
+https://www.dbe.gov.za,Department of Basic Education
+https://www.doc.gov.za,Department of Communications
 https://www.cogta.gov.za,Department of Cooperative Governance and Traditional Affairs
-https://www.dhs.gov.za,Department of Housing
-https://www.saldru.uct.ac.za,Southern Africa Labour and Development Research Unit
-https://www.csir.co.za,Council for Scientific and Industrial Research
-https://www.uj.ac.za,University of Johannesburg
-https://www.ru.ac.za,Rhodes University
-https://www.wits.ac.za,University of the Witwatersrand
-https://www.unisa.ac.za,University of South Africa
-https://www.nwu.ac.za,North-West University
-https://www.mysociety.org.za,My Society South Africa
-https://www.nda.org.za,National Development Agency
-https://www.bosch.com, Bosch South Africa
-https://www.elections.org.za,Electoral Commission of South Africa
-https://www.pmg.org.za,Parliamentary Monitoring Group
-https://www.westerncape.gov.za/departments/education, Western Cape Department of Education
-https://www.eceducation.gov.za,Eastern Cape Department of Education
-https://www.kzneducation.gov.za,KwaZulu-Natal Department of Education
-https://www.dhet.gov.za,Department of Higher Education and Training
+https://www.dcs.gov.za,Department of Correctional Services
+https://www.dedea.gov.za,Department of Economic Development
 https://www.labour.gov.za,Department of Employment and Labour
-https://www.business.gov.za,Business.gov.za
-https://www.dbsa.org, Development Bank of Southern Africa
-https://www.hsrc.ac.za,Human Sciences Research Council
-https://www.sahra.org.za,South African Heritage Resources Agency
-https://www.statssa.gov.za,Statistics South Africa
-https://www.sadpo.org, South African Development Policy Observatory
-https://www.politicsweb.co.za,Politicsweb
-https://www.ics.gov.za,Information and Communication Technology
-https://www.saal.gov.za,South African Audit and Accounting
-https://www.mil.gov.za,South African National Defence Force
-https://www.saps.gov.za,South African Police Service
-https://www.defenceweb.co.za,DefenceWeb
-https://www.ujuh.co.za,UJuh
-https://www.treasury.gov.za,National Treasury of South Africa
-https://www.fsb.co.za,Financial Services Board
-https://www.acts.co.za,South African Acts
-https://www.icc.org.za,International Criminal Court South Africa
-https://www.ustr.gov.za,United States Trade Representative South Africa
-https://www.filmsa.org.za,Film South Africa
-https://www.cde.org.za,Centre for Development and Enterprise
-https://www.safm.co.za,South African FM
-https://www.busa.org.za,Business Unity South Africa
-https://www.busa.org.za/gov/safe, Safe South Africa
-https://www.cooperative.gov.za,Cooperative Governance
+https://www.doe.gov.za,Department of Energy
+https://www.environment.gov.za,Department of Environmental Affairs
+https://www.deat.gov.za,Department of Environmental Affairs and Tourism
+https://www.health.gov.za,Department of Health
+https://www.ldoh.gov.za,Department of Health
+https://www.dhet.gov.za,Department of Higher Education and Training
+https://www.dha.gov.za,Department of Home Affairs
+https://www.dhs.gov.za,Department of Human Settlements
+https://www.dirco.gov.za,Department of International Relations and Cooperation
+https://www.justice.gov.za,Department of Justice and Constitutional Development
+https://www.dmv.gov.za,Department of Military Veterans
+https://www.dmr.gov.za,Department of Mineral Resources
+https://www.dmm.gov.za,Department of Minerals and Energy
+https://www.dpme.gov.za,Department of Planning
+https://www.dpe.gov.za,Department of Planning and Environment
+https://www.dpsa.gov.za,Department of Public Service and Administration
+https://www.dpw.gov.za,Department of Public Works
+https://www.drdar.gov.za,Department of Rural Development and Agrarian Reform
+https://www.drdlr.gov.za,Department of Rural Development and Land Reform
+https://www.dsi.gov.za,Department of Science and Innovation
+https://www.dst.gov.za,Department of Science and Technology
+https://www.dsd.gov.za,Department of Social Development
+https://www.dsdmpu.gov.za,Department of Social Development: Mpumalanga
+https://www.srsa.gov.za,Department of Sport
+https://www.dsac.gov.za,Department of Sports
+https://www.dtps.gov.za,Department of Telecommunications and Postal Services
 https://www.tourism.gov.za,Department of Tourism
-https://www.legacy.gov.za,The Legacy Project
-https://www.csi.gov.za,Corporate Social Investment
-https://www.sabc.co.za,South African Broadcasting Corporation
-https://www.geoscience.org.za,Council for Geoscience
-https://www.saasac.co.za,South African State Archive and Agency Commission
-https://www.nwpg.gov.za,North West Provincial Government
-https://www.madiba.gov.za,Madiba Legacy
-https://www.iafrica.com, iAfrica
-https://www.researchgate.net, ResearchGate South Africa
-https://www.journal.org.za,Journal of South African Studies
-https://www.fightingcancer.org.za,Fighting Cancer South Africa
-https://www.nbp.org.za,National Biodiversity Planning
-https://www.digital.gov.za,Digital Government
-https://www.education.gov.za/educationinfo, Education Information
-https://www.humanrights.gov.za,South African Human Rights
-https://www.ruraldevelopment.gov.za,Department of Rural Development and Land Reform
-https://www.nrcs.org.za,National Regulator for Compulsory Specifications
-https://www.environment.gov.za/initiatives, Environmental Initiatives
-https://www.qualitycouncil.org.za,Quality Council for Trades and Occupations
-https://www.sasa.gov.za,South African Statistical Agency
-https://www.cityofcapetown.gov.za,City of Cape Town
+https://www.thedti.gov.za,Department of Trade and Industry
+https://www.dot.gov.za,Department of Transport
+https://www.dws.gov.za,Department of Water and Sanitation
+https://www.dwcpd.gov.za,Department of Women
+https://www.dpcijudge.gov.za,Deputy Public Defender Judge
+https://www.dnaboard.gov.za,Digital Nomad Association Board
+https://www.digitech.gov.za,Digital Technologies
+https://www.dihlabeng.gov.za,Dihlabeng Municipality
+https://www.dikgatlong.gov.za,Dikgatlong Municipality
+https://www.ditsobotla.gov.za,Ditsobotla Local Municipality
+https://www.drabxumalm.gov.za,Dr Abraxas Municipality
+https://www.dkm.gov.za,Dr Kenneth Kaunda District Municipality
+https://www.drakenstein.gov.za,Drakenstein Municipality
+https://www.dut.ac.za/,Durban University of Technology
+https://ecprov.gov.za,Eastern Cape (Province)
+https://www.eccogta.gov.za,Eastern Cape CoGTA
+https://www.eceducation.gov.za,Eastern Cape Department of Education
+https://www.ecschools.gov.za,Eastern Cape Department of Education: Schools
+https://www.echealth.gov.za,Eastern Cape Department of Health
+https://www.ecdpw.gov.za,Eastern Cape Department of Public Works
+https://www.ecdsd.gov.za,Eastern Cape Department of Social Development
+https://www.ectransport.gov.za,Eastern Cape Department of Transport
+https://www.ecleg.gov.za,Eastern Cape Legislature
+https://www.eoc.gov.za,Eastern Cape Office of the Premier
+https://www.ecprov.gov.za,Eastern Cape Provincial Government
+https://www.eclegislature.gov.za,Eastern Cape Provincial Legislature
+https://www.ectreasury.gov.za,Eastern Cape Provincial Treasury
+https://www.ecsrac.gov.za,Eastern Cape Socio-Economic Rights and Accountability Centre
+https://www.edendm.gov.za,Eden District Municipality
+https://www.edumbe.gov.za,Edumbe Municipality
+https://www.ehlanzeni.gov.za,Ehlanzeni District Municipality
+https://www.emlm.gov.za,Ehlanzeni Local Municipality
+https://www.ekneemdeel.gov.za,Ekhuruleni District Municipality
+https://www.ekurhuleni.gov.za,Ekurhuleni (Metro Municipality)
+https://www.ekurhuleni.gov.za,Ekurhuleni Metropolitan Municipality
+https://www.eolearning.gov.za,E-Learning Portal
+https://www.edisclosure.gov.za,Electronic Disclosure
+https://www.emogalelm.gov.za,Emakhazeni Local Municipality
+https://www.emakhazeni.gov.za,Emakhazeni Municipality
+https://www.emalahleni.gov.za,Emalahleni Local Municipality
+https://www.emalahlenilm.gov.za,Emalahleni Local Municipality (alternate domain)
+https://www.emfuleni.gov.za,Emfuleni Local Municipality
+https://www.endumeni.gov.za,Endumeni Municipality
+https://www.eservices.gov.za,E-Services Portal
+https://www.etenders.gov.za,E-Tenders Portal
+https://www.durban.gov.za,eThekwini (Metro Municipality)
+https://www.fic.gov.za,Financial Intelligence Centre
+https://www.francesbaard.gov.za,Frances Baard Municipality
+https://www.freestateonline.fs.gov.za,Free State (Province)
+https://www.fshealth.gov.za,Free State Department of Health
+https://www.fslib.gov.za,Free State Library Services
+https://www.fssocdev.gov.za,Free State Social Development
+https://www.ftlm.gov.za,Free State Transport and Logistics Management
+https://www.gamagara.gov.za,Gamagara Municipality
+https://www.gardenroute.gov.za,Garden Route District Municipality
+https://www.gardenroutedm.gov.za,Garden Route District Municipality (alternate domain)
+https://www.gauteng.gov.za,Gauteng (Province)
+https://www.gauteng.gov.za,Gauteng Province
+https://www.gpg.gov.za,Gauteng Provincial Government
+https://www.gpl.gov.za,Gauteng Provincial Legislature
+https://www.gpsf.gov.za,Gauteng Provincial Safety Forum
+https://www.gsibande.gov.za,Gert Sibande District Municipality
+https://www.godurban.gov.za,Go Durban
+https://www.govanmbeki.gov.za,Govan Mbeki Municipality
+https://www.gcommerce.gov.za,Government Commerce Portal
+https://www.gcis.gov.za,Government Communication and Information System
+https://www.gems.gov.za,Government Employees Medical Scheme
+https://www.gepf.gov.za,Government Employees Pension Fund
+https://www.www.gov.za,Government of South Africa
+https://www.gpaa.gov.za,Government Pensions Administration Agency
+https://www.gpw.gov.za,Government Printing Works
+https://www.gpce.gov.za,Government Procurement and Contracting Excellence
+https://www.gtac.gov.za,Government Technical Advisory Centre
+https://www.gpglabs.gov.za,GPGLab Services
+https://www.greatergiyani.gov.za,Greater Giyani Municipality
+https://www.greatkeilm.gov.za,Greater Keiskamma Municipality
+https://www.glm.gov.za,Greater Letaba Municipality
+https://www.gtlm.gov.za,Greater Tzaneen Local Municipality
+https://www.gmtwc.gov.za,Greater Tzaneen Municipality
+https://www.tzaneen.gov.za,Greater Tzaneen Municipality
+https://www.hanis.gov.za,Hanis Municipality
+https://www.hantam.gov.za,Hantam Municipality
+https://www.harrygwaladm.gov.za,Harry Gwala District Municipality
+https://www.hessequa.gov.za,Hessequa Municipality
+https://www.hcm.gov.za,Human Capital Management
+https://www.ihlm.gov.za,Ilembe District Municipality
+https://www.ilembe.gov.za,Ilembe District Municipality
+https://www.ilm.gov.za,Ilembe Local Municipality
+https://www.impendle.gov.za,Impendle Municipality
+https://www.indaka.gov.za,Indaka Municipality
+https://www.ipid.gov.za,Independent Police Investigative Directorate
+https://www.ijs.gov.za,Integrated Justice System
+https://www.intsikayethu.gov.za,Intsikayethu Municipality
+https://www.iparticipate.gov.za,iParticipate Portal
+https://www.iym.gov.za,IYM Government Portal
+https://www.jgdm.gov.za,Joe Gqabi District Municipality
+https://www.joemorolong.gov.za,Joe Morolong Municipality
+https://www.joburg.org.za,Johannesburg (Metro Municipality)
+https://www.kagisanomolopolm.gov.za,Kagiso Nomolopol Municipality
+https://www.kaigarib.gov.za,Kaigarib Municipality
+https://www.kamiesberg.gov.za,Kamiesberg Municipality
+https://www.kannaland.gov.za,Kannaland Municipality
+https://www.karoohoogland.gov.za,Karoo Hoogland Municipality
+https://www.kaundadistrict.gov.za,Kaunda District Municipality
+https://www.kkdm.gov.za,Kenneth Kaunda District Municipality
+https://www.kgatelopele.gov.za,Kgatelopele Municipality
+https://www.kgetlengrivier.gov.za,Kgetlengrivier Municipality
+https://www.khaima.gov.za,Khaima Municipality
+https://www.kharahais.gov.za,Kharahais Municipality
+https://www.knysna.gov.za,Knysna Municipality
+https://www.kokstad.gov.za,Kokstad Municipality
+https://www.kopanong.gov.za,Kopanong Municipality
+https://www.kouga.gov.za,Kouga Municipality
+https://www.koukammamunicipality.gov.za,Kou-Kamma Municipality
+https://www.kwadukuza.gov.za,KwaDukuza Municipality
+http://www.kznonline.gov.za,KwaZulu-Natal (Province)
+https://www.kznarchives.gov.za,KwaZulu-Natal Archives
+https://www.kzncogta.gov.za,KwaZulu-Natal CoGTA
+https://www.kzncomsafety.gov.za,KwaZulu-Natal Community Safety
+https://www.kzndard.gov.za,KZN Department of Agriculture and Rural Development
+https://www.kzndoe.gov.za,KZN Department of Education
+https://www.kzneducation.gov.za,KZN Department of Education
+https://www.kznhealth.gov.za,KZN Department of Health
+https://www.kzndhs.gov.za,KZN Department of Health Services
+https://www.kzndpw.gov.za,KZN Department of Public Works
+https://www.kzndsd.gov.za,KZN Department of Social Development
+https://www.kzndsr.gov.za,KZN Department of Sport and Recreation
+https://www.kzntransport.gov.za,KZN Department of Transport
+https://www.kznworks.gov.za,KZN Department of Works
+https://www.kznedtea.gov.za,KZN Education
+https://www.kznlegislature.gov.za,KZN Legislature
+https://www.kzn-nervecentre.gov.za,KZN Nerve Centre
+https://www.kznpremier.gov.za,KZN Office of the Premier
+https://www.kzntreasury.gov.za,KZN Provincial Treasury
+https://www.kznsshf.gov.za,KZN Social Security Health Fund
+https://www.laingsburg.gov.za,Laingsburg Municipality
+https://www.lwr.gov.za,Land and Water Resources
+https://www.langeberg.gov.za,Langeberg Municipality
+https://www.lekwalm.gov.za,Lekwa Municipality
+https://www.letsemeng.gov.za,Letsemeng Municipality
+https://www.limpopo.gov.za,Limpopo (Province)
+https://www.limpopocetc.gov.za,Limpopo CETA
+https://www.limpopoleg.gov.za,Limpopo Legislature
+https://www.limpopo.gov.za,Limpopo Provincial Government
+https://www.limtreasury.gov.za,Limpopo Provincial Treasury
+https://www.logis.gov.za,LOGIS
+https://www.madibeng.gov.za,Madibeng Municipality
+https://www.mafubemunicipality.gov.za,Mafube Municipality
+https://www.magareng.gov.za,Magareng Municipality
+https://www.mahikeng.gov.za,Mahikeng Municipality
+https://www.mandeni.gov.za,Mandeni Municipality
+https://www.mangaung.co.za,Mangaung (Metro Municipality)
+https://www.mut.ac.za/,Mangosuthu University of Technology
+https://www.maphumulo.gov.za,Maphumulo Municipality
+https://www.matatiele.gov.za,Matatiele Municipality
+https://www.matlosana.gov.za,Matlosana Municipality
+https://www.matzikama.gov.za,Matzikama Municipality
+https://www.mbhashemun.gov.za,Mbhashe Municipality
+https://www.mbizana.gov.za,Mbizana Municipality
+https://www.mbombela.gov.za,Mbombela Municipality
+https://www.metsimaholo.gov.za,Metsimaholo Municipality
+https://www.mfnet.gov.za,MFNET
+https://www.mhlontlolm.gov.za,Mhlontlo Municipality
+https://www.mkhambathini.gov.za,Mkhambathini Municipality
+https://www.mmlm.gov.za,Mkhondo Local Municipality
+https://www.mkhondo.gov.za,Mkhondo Municipality
+https://www.mnquma.gov.za,Mnquma Municipality
+https://www.mogalecity.gov.za,Mogale City Municipality
+https://www.mopani.gov.za,Mopani District Municipality
+https://www.moqhaka.gov.za,Moqhaka Municipality
+https://www.moretele.gov.za,Moretele Municipality
+https://www.moroka.gov.za,Moroka Municipality
+https://www.moseskotane.gov.za,Moses Kotane Municipality
+https://www.mosselbay.gov.za,Mossel Bay Municipality
+https://www.mpofana.gov.za,Mpofana Municipality
+https://www.mpumalanga.gov.za,Mpumalanga (Province)
+https://www.mpuedu.gov.za,Mpumalanga Department of Education
+https://www.mpuleg.gov.za,Mpumalanga Legislature
+https://www.mpg.gov.za,Mpumalanga Provincial Government
+https://www.msunduzi.gov.za,Msunduzi Municipality
+https://www.mtubatuba.gov.za,Mtubatuba Municipality
+https://www.mega.gov.za,Municipal Energy and Governance Agency
+https://www.mipmis.gov.za,Municipal Infrastructure Project Management Information System
+https://www.misa.gov.za,Municipal Infrastructure Support Agent
+https://www.municipalmoney.gov.za,Municipal Money
+https://www.musina.gov.za,Musina Municipality
+https://www.namakhoi.gov.za,Namakwa District Municipality
+https://www.namakwa-dm.gov.za,Namakwa District Municipality
+https://www.ndmc.gov.za,National Disaster Management Centre
+https://www.nispis.gov.za,National Information System for Provincial Infrastructure
+https://www.nisis.gov.za,National Information Systems
+https://www.npa.gov.za,National Prosecuting Authority
+https://www.ntssis.gov.za,National Transport Security Information System
+https://www.treasury.gov.za,National Treasury of South Africa
+https://www.ndlambe.gov.za,Ndlambe Municipality
+https://www.ndwedwe.gov.za,Ndwedwe Municipality
+https://www.ndz.gov.za,Ndwedwe Municipality
+https://www.nelsonmandelabay.gov.za,Nelson Mandela Bay (Metro Municipality)
+https://www.nelsonmandelabay.gov.za,Nelson Mandela Bay Municipality
+https://www.mandela.ac.za/,Nelson Mandela University
+https://www.ngqushwamun.gov.za,Ngqushwa Municipality
+https://www.ngwathe.gov.za,Ngwathe Municipality
+https://www.nkangaladm.gov.za,Nkangala District Municipality
+https://www.nkomazi.gov.za,Nkomazi Municipality
+https://www.nmmdm.gov.za,NMMDM
+https://www.nongoma.gov.za,Nongoma Municipality
+https://www.npo.gov.za,Non-Profit Organizations
+https://www.nwpg.gov.za,North West (Province)
+https://www.nwdesd.gov.za,North West Department of Education and Sports Development
+https://www.nwpl.gov.za,North West Provincial Legislature
+https://www.northern-cape.gov.za,Northern Cape (Province)
+https://www.ncpleg.gov.za,Northern Cape Legislature
+https://www.ncpg.gov.za,Northern Cape Provincial Government
+https://www.nwu.ac.za/,North-West University
+https://www.nquthu.gov.za,Nquthu Municipality
+https://www.ntabankulu.gov.za,Ntabankulu Municipality
+https://www.ntirhisano.gov.za,Ntiri Hisano
+https://www.nyandenilm.gov.za,Nyandeni Municipality
+https://www.ocims.gov.za,Occupational Health and Safety
+https://www.ocean.gov.za,Oceanographic Research
+https://www.oigi.gov.za,Office of the Inspector-General of Intelligence
+https://www.opsc.gov.za,Office of the Public Service Commission
+https://www.oss.gov.za,Office of the Status of Women
+https://www.okhahlamba.gov.za,Okhahlamba Municipality
+https://www.osis.gov.za,Open Source Intelligence System
+https://www.openet.gov.za,OpenET
+https://www.operationvula.gov.za,Operation Vula
+https://www.ortambodm.gov.za,OR Tambo District Municipality
+https://www.oudtmun.gov.za,Oudtshoorn Municipality
+https://www.oudtshoorn.gov.za,Oudtshoorn Municipality
+https://www.overstrand.gov.za,Overstrand Municipality
+https://www.pamun.gov.za,Pan African Municipalities
+https://www.parliament.gov.za,Parliament of South Africa
+https://www.psjmunicipality.gov.za,Parys Municipality
+https://www.phokwane.gov.za,Phokwane Municipality
+https://www.phumelela.gov.za,Phumelela Municipality
+https://www.phumelelalm.gov.za,Phumelela Municipality
+https://www.pksdm.gov.za,Pixley Ka Isaka Seme District Municipality
+https://www.pixleykaseme.gov.za,Pixley Ka Isaka Seme Municipality
+https://www.plett.gov.za,Plettenberg Bay Municipality
+https://www.polokwane.gov.za,Polokwane Municipality
+https://www.po.gov.za,Post Office
+https://www.potchefstroomhospital.gov.za,Potchefstroom Hospital
+https://www.pic.gov.za,Public Investment Corporation
+https://www.psc.gov.za,Public Service Commission
+https://www.ramotshere.gov.za,Ramotshere Moiloa Municipality
+https://www.randwest.gov.za,Rand West City Municipality
+https://www.randwestcity.gov.za,Rand West City Municipality
+https://www.ratlou.gov.za,Ratlou Municipality
+https://www.raymondmhlaba.gov.za,Raymond Mhlaba Municipality
+https://www.ru.ac.za/,Rhodes University
+https://www.rnm.gov.za,Richards Bay Municipality
+https://www.richmond.gov.za,Richmond Municipality
+https://www.richtersveld.gov.za,Richtersveld Municipality
+https://www.rsaretailbonds.gov.za,RSA Retail Bonds
+https://www.rsmompatidm.gov.za,RSMO Mapani
+https://www.rustenburg.gov.za,Rustenburg Municipality
+https://www.safetyec.gov.za,Safety and Security
+https://www.sarsefiling.gov.za,SARS eFiling
+https://www.secops.gov.za,Security Operations Centre
+https://www.sedibeng.gov.za,Sedibeng District Municipality
+https://www.smu.ac.za/,Sefako Makgatho Health Sciences University
+https://www.sekhukhune.gov.za,Sekhukhune District Municipality
+https://www.sekhukhunedistrict.gov.za,Sekhukhune District Municipality
+https://www.senqu.gov.za,Senqu Municipality
+https://www.setsoto.gov.za,Setsoto Municipality
+https://www.sisonkedm.gov.za,Sisonke District Municipality
+https://www.sita-edd.gov.za,SITA EDD
+https://www.sitaoc.gov.za,SITA OC
+https://www.siyancuma.gov.za,Siyancuma Municipality
+https://www.siyanda.gov.za,Siyanda Municipality
+https://www.siyathemba.gov.za,Siyathemba Municipality
+https://www.sbm.gov.za,Small Business Ministry
+https://www.smmesa.gov.za,Small Medium and Micro Enterprises
+https://www.socdev.gov.za,Social Development
+https://www.spu.ac.za/,Sol Plaatje University
+https://www.saborders.gov.za,South African Border Control
+https://www.sagns.gov.za,South African Government Network Services
+https://www.slims.gov.za,South African Labour Market Information System
+https://www.sals.gov.za,South African Local Government Association
+https://www.smc.gov.za,South African Music Council
+https://www.sanews.gov.za,South African News Agency
+https://www.saps.gov.za,South African Police Service
+https://www.sars.gov.za,South African Revenue Service
+https://www.sassa.gov.za,South African Social Security Agency
+https://www.speedtest.gov.za,Speed Test
+https://www.srvm.gov.za,SRV Municipality
+https://www.statediamondtrader.gov.za,State Diamond Trader
+https://www.stateofthenation.gov.za,State of the Nation Address
+https://www.ssa.gov.za,State Security Agency
+https://www.statssa.gov.za,Statistics South Africa
+https://www.stellenbosch.gov.za,Stellenbosch Municipality
+https://www.sun.ac.za/,Stellenbosch University
+https://www.stlm.gov.za,Steve Tshwete Local Municipality
+https://www.stevetshwetelm.gov.za,Steve Tshwete Municipality
+https://www.stopgbv.gov.za,Stop Gender-Based Violence
+https://www.swellendam.gov.za,Swellendam Municipality
+https://www.taologaetsewe.gov.za,Taolo Gaetsewe Municipality
+https://www.tda-capetown.gov.za,TDA Cape Town
+https://www.thabomofutsanyana.gov.za,Thabo Mofutsanyana District Municipality
+https://www.tmdm.gov.za,Thabo Mofutsanyana District Municipality
+https://www.presidency.gov.za,The Presidency of South Africa
+https://www.thepresidency.gov.za,The Presidency of South Africa
+https://www.twk.gov.za,Theewaterskloof Municipality
+https://www.thembelihlemunicipality.gov.za,Thembelihle Municipality
+https://www.thembisilehanilm.gov.za,Thembisile Hani Local Municipality
+https://www.thensg.gov.za,Thembisile Hani Municipality
+https://www.tokologo.gov.za,Tokologo Local Municipality
+https://www.tct.gov.za,Trans Caledon Tunnel Authority
+https://www.tda.gov.za,Transport and Development Authority
+https://www.tsantsabane.gov.za,Tsantsabane Local Municipality
+https://www.tshwane.gov.za,Tshwane (Metro Municipality)
+https://www.tut.ac.za/,Tshwane University of Technology
+https://www.tswaing.gov.za,Tswaing Local Municipality
+https://www.tclm.gov.za,Tswelopele Municipality
+https://www.ubuhlebezwe.gov.za,Ubuhlebezwe Local Municipality
+https://www.ubuntu.gov.za,Ubuntu Local Municipality
+https://www.ugu.gov.za,Ugu District Municipality
+https://www.ukdm.gov.za,Ukhahlamba District Municipality
+https://www.ulundi.gov.za,Ulundi Local Municipality
+https://www.umfolozi.gov.za,Umfolozi Local Municipality
+https://www.umhlabuyalingana.gov.za,Umhlabuyalingana Local Municipality
+https://www.umdm.gov.za,Umkhanyakude District Municipality
+https://www.umlalazi.gov.za,Umlalazi Local Municipality
+https://www.umngeni.gov.za,Umngeni Local Municipality
+https://www.umshwathi.gov.za,Umshwathi Local Municipality
+https://www.umsinga.gov.za,Umsinga Local Municipality
+https://www.umtshezi.gov.za,Umtshezi Local Municipality
+https://www.umuziwabantu.gov.za,Umuziwabantu Local Municipality
+https://www.umvoti.gov.za,Umvoti Local Municipality
+https://www.umslm.gov.za,Umzimkhulu Local Municipality
+https://www.umzimkhululm.gov.za,Umzimkhulu Local Municipality
+https://www.umzimvubu.gov.za,Umzimvubu Local Municipality
+https://www.umzinyathi.gov.za,Umzinyathi District Municipality
+https://www.umzumbe.gov.za,Umzumbe Local Municipality
+https://www.uct.ac.za/,University of Cape Town
+https://www.ufh.ac.za/,University of Fort Hare
+https://www.uj.ac.za/,University of Johannesburg
+https://www.ukzn.ac.za/,University of KwaZulu-Natal
+https://www.ul.ac.za/,University of Limpopo
+https://www.ump.ac.za/,University of Mpumalanga
+https://www.up.ac.za/,University of Pretoria
+https://www.unisa.ac.za/,University of South Africa
+https://www.ufs.ac.za/,University of the Free State
+https://www.uwc.ac.za/,University of the Western Cape
+https://www.wits.ac.za/,University of the Witwatersrand
+https://www.univen.ac.za/,University of Venda
+https://www.unizulu.ac.za/,University of Zululand
+https://www.uthukela.gov.za,Uthukela District Municipality
+https://www.vut.ac.za/,Vaal University of Technology
+https://www.vklm.gov.za,Vhembe District Local Municipality
+https://www.vpnc.gov.za,Vhembe District Municipal Council
+https://www.vhembe.gov.za,Vhembe District Municipality
+https://www.vpnra.gov.za,Vhembe District Natural Resources Authority
+https://www.victorkhanyelm.gov.za,Victor Khanyile Local Municipality
+https://www.virtualgov.gov.za,Virtual Government
+https://www.vukuzenzele.gov.za,Vukuzenzele
+https://www.vulekamali.gov.za,Vulekamali
+https://www.wsu.ac.za/,Walter Sisulu University
+https://www.wasp.gov.za,Waste Management System
+https://www.westerncape.gov.za,Western Cape (Province)
+https://www.wcgrb.gov.za,Western Cape Gambling and Racing Board
+https://www.wc.gov.za,Western Cape Government
+https://www.westerncape.gov.za,Western Cape Government
+https://www.wcglib.gov.za,Western Cape Government Library Service
+https://www.wcgschools.gov.za,Western Cape Government Schools
+https://www.wcla.gov.za,Western Cape Law Advisors
+https://www.wcpp.gov.za,Western Cape Provincial Parliament
+https://www.winniemmlm.gov.za,Winnie Madikizela-Mandela Local Municipality
+https://www.witrandhospital.gov.za,Witrand Hospital
+https://www.witrand.gov.za,Witrand Local Municipality
+https://www.witzenberg.gov.za,Witzenberg Local Municipality
+https://www.wslm.gov.za,Witzenberg Local Municipality
+https://www.zfm.gov.za,ZF Mgcawu District Municipality
+https://www.zfm-dm.gov.za,ZF Mgcawu District Municipality
