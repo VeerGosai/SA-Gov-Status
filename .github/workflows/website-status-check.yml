@@ -75,17 +75,19 @@ jobs:
             echo "output.txt not found. Skipping rename."
           fi
 
-      - name: Upload output.txt as artifact
+      - name: Upload old output.txt as an artifact
+        if: success()  # Only upload if previous steps succeeded
         uses: actions/upload-artifact@v3
         with:
-          name: website-status-results
-          path: output.txt
+          name: old-website-status-results
+          path: old-output.txt
 
-      - name: Download artifact
-        uses: actions/download-artifact@v3
+      - name: Upload new output.txt as an artifact
+        if: success()  # Only upload if previous steps succeeded
+        uses: actions/upload-artifact@v3
         with:
-          name: website-status-results
-          path: .
+          name: new-website-status-results
+          path: output.txt
 
       - name: Configure Git
         run: |
@@ -94,15 +96,6 @@ jobs:
 
       - name: Push old-output.txt and new output.txt
         run: |
-          if [ -f old-output.txt ]; then
-            git add old-output.txt
-          else
-            echo "old-output.txt not found. Skipping."
-          fi
-          if [ -f output.txt ]; then
-            git add output.txt
-          else
-            echo "output.txt not found. Skipping."
-          fi
+          git add old-output.txt output.txt
           git commit -m "Update website status results" || echo "No changes to commit"
           git push
