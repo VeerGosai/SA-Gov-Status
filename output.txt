@@ -196,7 +196,7 @@ Website: Thaba Chweu Local Municipality - Status: Offline
 Website: Nkomazi Local Municipality - Status: 200
 Website: Bushbuckridge Local Municipality - Status: 200
 Website: Richtersveld Local Municipality - Status: 200
-Website: Nama Khoi Local Municipality - Status: 200
+Website: Nama Khoi Local Municipality - Status: Offline
 Website: Kamiesberg Local Municipality - Status: 200
 Website: Hantam Local Municipality - Status: 200
 Website: Karoo Hoogland Local Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Cape Agulhas Local Municipality - Status: 200
 Website: Swellendam Local Municipality - Status: 200
 Website: Kannaland Local Municipality - Status: 200
 Website: Hessequa Local Municipality - Status: 200
-Website: Mossel Bay Local Municipality - Status: 200
+Website: Mossel Bay Local Municipality - Status: Offline
 Website: George Local Municipality - Status: 200
 Website: Oudtshoorn Local Municipality - Status: 200
 Website: Bitou Local Municipality - Status: 200
@@ -300,7 +300,7 @@ Website: North West - Status: Offline
 Website: Northern Cape - Status: Offline
 Website: Western Cape - Status: 200
 Website: SASSA - Status: Offline
-Website: Government of South Africa - Status: Offline
+Website: Government of South Africa - Status: 200
 Website: South Africa Online - Status: Offline
 Website: Department of Social Development - Status: 200
 Website: Department of Home Affairs - Status: 200
@@ -338,9 +338,9 @@ Website: National Treasury - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Housing - Status: Offline
 Website: Southern Africa Labour and Development Research Unit - Status: 200
-Website: Council for Scientific and Industrial Research - Status: 200
+Website: Council for Scientific and Industrial Research - Status: Offline
 Website: University of Johannesburg - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: University of the Witwatersrand - Status: 200
 Website: University of South Africa - Status: 200
 Website: North-West University - Status: 200
