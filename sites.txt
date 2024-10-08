@@ -386,7 +386,6 @@ https://www.tshwane.gov.za,Tshwane (Metro Municipality)
 https://www.tut.ac.za/,Tshwane University of Technology
 https://www.tswaing.gov.za,Tswaing Local Municipality
 https://www.tclm.gov.za,Tswelopele Municipality
-https://www.ubuhlebezwe.gov.za,Ubuhlebezwe Local Municipality
 https://www.ubuntu.gov.za,Ubuntu Local Municipality
 https://www.ugu.gov.za,Ugu District Municipality
 https://www.ukdm.gov.za,Ukhahlamba District Municipality
