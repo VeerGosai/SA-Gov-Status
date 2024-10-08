@@ -24,7 +24,6 @@ jobs:
       - name: Install dependencies
         run: |
           npm install axios
-
       - name: Create and run check-status.js
         run: |
           echo "const fs = require('fs');" > check-status.js
@@ -63,7 +62,6 @@ jobs:
           echo "    .catch(error => {" >> check-status.js
           echo "        console.error('Error checking website statuses:', error);" >> check-status.js
           echo "    });" >> check-status.js
-
       - name: Run check-status.js
         run: node check-status.js
 
@@ -74,7 +72,6 @@ jobs:
           else
             echo "output.txt not found. Skipping rename."
           fi
-
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
         with:
@@ -88,12 +85,10 @@ jobs:
           else
             echo "output.txt not found. Skipping copy."
           fi
-
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Commit old-output.txt and new output.txt
         run: |
           git add old-output.txt output.txt
