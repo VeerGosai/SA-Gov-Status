@@ -89,8 +89,8 @@ jobs:
           cp 1.txt 2.txt || echo "2.txt does not exist yet."
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add old-output.txt
-          git commit -m "Backup old-output.txt"
+          git add 2.txt
+          git commit -m "Backup 2.txt"
           git push
 
       - name: Clone output.txt to 1.txt
@@ -98,6 +98,6 @@ jobs:
           cp output.txt 1.txt || echo "1.txt does not exist yet."
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add old-output.txt
-          git commit -m "Backup old-output.txt"
+          git add 1.txt
+          git commit -m "Backup 1.txt"
           git push
