@@ -80,7 +80,7 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: 200
+Website: Senqu (Local Municipality) - Status: Offline
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
@@ -369,7 +369,7 @@ Website: DefenceWeb - Status: 200
 Website: UJuh - Status: 200
 Website: National Treasury of South Africa - Status: 200
 Website: Financial Services Board - Status: Offline
-Website: South African Acts - Status: 200
+Website: South African Acts - Status: Offline
 Website: International Criminal Court South Africa - Status: 200
 Website: United States Trade Representative South Africa - Status: Offline
 Website: Film South Africa - Status: Offline
