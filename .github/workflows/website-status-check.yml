@@ -64,9 +64,6 @@ jobs:
           echo "        console.error('Error checking website statuses:', error);" >> check-status.js
           echo "    });" >> check-status.js
 
-      - name: Run check-status.js
-        run: node check-status.js
-
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
         with:
@@ -79,43 +76,46 @@ jobs:
           name: website-status-results
           path: old-output.txt
 
-      - name: Compare website statuses
+      - name: Create compare-status.js
         run: |
-          const fs = require('fs');
+          echo "const fs = require('fs');" > compare-status.js
+          echo "" >> compare-status.js
+          echo "// Read the new and old output files" >> compare-status.js
+          echo "const newStatus = fs.readFileSync('output.txt', 'utf-8').trim().split('\\n');" >> compare-status.js
+          echo "const oldStatus = fs.readFileSync('old-output.txt', 'utf-8').trim().split('\\n');" >> compare-status.js
+          echo "" >> compare-status.js
+          echo "const changes = [];" >> compare-status.js
+          echo "const statusMap = {};" >> compare-status.js
+          echo "" >> compare-status.js
+          echo "// Process the old statuses" >> compare-status.js
+          echo "oldStatus.forEach(line => {" >> compare-status.js
+          echo "    const [title, status] = line.split(' - Status: ');" >> compare-status.js
+          echo "    statusMap[title.trim()] = status.trim();" >> compare-status.js
+          echo "});" >> compare-status.js
+          echo "" >> compare-status.js
+          echo "// Compare with new statuses" >> compare-status.js
+          echo "newStatus.forEach(line => {" >> compare-status.js
+          echo "    const [title, newStatus] = line.split(' - Status: ');" >> compare-status.js
+          echo "    const oldStatus = statusMap[title.trim()];" >> compare-status.js
+          echo "" >> compare-status.js
+          echo "    if (oldStatus) {" >> compare-status.js
+          echo "        if (oldStatus === 'Offline' && newStatus === 'Online') {" >> compare-status.js
+          echo "            changes.push(\`\${title.trim()} changed from Offline to Online\`);" >> compare-status.js
+          echo "        } else if (oldStatus === 'Online' && newStatus === 'Offline') {" >> compare-status.js
+          echo "            changes.push(\`\${title.trim()} changed from Online to Offline\`);" >> compare-status.js
+          echo "        }" >> compare-status.js
+          echo "    } else {" >> compare-status.js
+          echo "        // If the title was not found in the old status, it might be new" >> compare-status.js
+          echo "        changes.push(\`\${title.trim()} is a new entry with status: \${newStatus}\`);" >> compare-status.js
+          echo "    }" >> compare-status.js
+          echo "});" >> compare-status.js
+          echo "" >> compare-status.js
+          echo "// Write changes to last_changes.txt" >> compare-status.js
+          echo "fs.writeFileSync('last_changes.txt', changes.join('\\n'), 'utf-8');" >> compare-status.js
+          echo "console.log('Changes written to last_changes.txt');" >> compare-status.js
 
-          // Read the new and old output files
-          const newStatus = fs.readFileSync('output.txt', 'utf-8').trim().split('\n');
-          const oldStatus = fs.readFileSync('old-output.txt/output.txt', 'utf-8').trim().split('\n');
-
-          const changes = [];
-          const statusMap = {};
-
-          // Process the old statuses
-          oldStatus.forEach(line => {
-              const [title, status] = line.split(' - Status: ');
-              statusMap[title.trim()] = status.trim();
-          });
-
-          // Compare with new statuses
-          newStatus.forEach(line => {
-              const [title, newStatus] = line.split(' - Status: ');
-              const oldStatus = statusMap[title.trim()];
-
-              if (oldStatus) {
-                  if (oldStatus === 'Offline' && newStatus === 'Online') {
-                      changes.push(\`${title.trim()} changed from Offline to Online\`);
-                  } else if (oldStatus === 'Online' && newStatus === 'Offline') {
-                      changes.push(\`${title.trim()} changed from Online to Offline\`);
-                  }
-              } else {
-                  // If the title was not found in the old status, it might be new
-                  changes.push(\`${title.trim()} is a new entry with status: ${newStatus}\`);
-              }
-          });
-
-          // Write changes to last_changes.txt
-          fs.writeFileSync('last_changes.txt', changes.join('\n'), 'utf-8');
-          console.log('Changes written to last_changes.txt');
+      - name: Run compare-status.js
+        run: node compare-status.js
 
       - name: Upload last_changes.txt
         uses: actions/upload-artifact@v3
