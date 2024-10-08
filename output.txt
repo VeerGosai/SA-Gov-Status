@@ -1,5 +1,5 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: Offline
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
