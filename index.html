@@ -80,33 +80,57 @@
 
                 let changesDetected = false;
 
+                // Compare current and old statuses
                 for (const title in currentSites) {
                     const currentStatus = currentSites[title];
-                    const oldStatus = oldSites[title] || 'Offline'; // Assume offline if not in old data
+                    const oldStatus = oldSites[title]; // Get the previous status
 
                     // Check for status changes
                     if (oldStatus === '200' && currentStatus === 'Offline') {
+                        // Recently Gone Offline
                         const offlineItem = document.createElement('div');
                         offlineItem.textContent = title;
                         offlineList.appendChild(offlineItem);
                         changesDetected = true;
                     } else if (oldStatus === 'Offline' && currentStatus === '200') {
+                        // Recently Come Back Online
                         const onlineItem = document.createElement('div');
                         onlineItem.textContent = title;
                         onlineList.appendChild(onlineItem);
                         changesDetected = true;
                     }
+                }
 
-                    // Create status card for current sites
-                    fetchSitesData(title).then(url => {
-                        createStatusElement(title, currentStatus, url);
-                    });
+                // Check for any websites that were in the old list but are no longer present
+                for (const title in oldSites) {
+                    if (!(title in currentSites)) {
+                        const oldStatus = oldSites[title];
+                        if (oldStatus === '200') {
+                            // Was online and now it's gone
+                            const offlineItem = document.createElement('div');
+                            offlineItem.textContent = title + " - Status: Offline (Was Online)";
+                            offlineList.appendChild(offlineItem);
+                            changesDetected = true;
+                        }
+                    }
                 }
 
                 // Display message if no changes
                 if (!changesDetected) {
                     noChangesMessage.style.display = 'block';
                 }
+
+                // Create status cards for current sites
+                currentLines.forEach(line => {
+                    const parts = line.split(' - Status: ');
+                    if (parts.length === 2) {
+                        const title = parts[0].trim().replace('Website: ', '');
+                        const status = parts[1].trim();
+                        fetchSitesData(title).then(url => {
+                            createStatusElement(title, status, url);
+                        });
+                    }
+                });
 
                 attachSearchFunctionality(); // Attach search functionality after creating elements
 
