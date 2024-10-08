@@ -1,5 +1,29 @@
+@font-face {
+    font-family: 'Visby Round Bold';
+    src: url('fonts/Visby Round Bold.otf') format('opentype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Visby Round Extra Bold';
+    src: url('fonts/Visby Round Extra Bold.otf') format('opentype');
+    font-weight: 800; /* Use a numeric value for more control */
+}
+
+@font-face {
+    font-family: 'Visby Round Heavy';
+    src: url('fonts/Visby Round Heavy.otf') format('opentype');
+    font-weight: 900; /* Heavy weight */
+}
+
+@font-face {
+    font-family: 'Visby Round Regular';
+    src: url('fonts/Visby Round Regular.otf') format('opentype');
+    font-weight: normal; /* Regular weight */
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Visby Round Regular', Arial, sans-serif; /* Use custom font, fallback to Arial */
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
@@ -18,6 +42,7 @@ body {
 h1 {
     text-align: center;
     color: #007bff;
+    font-family: 'Visby Round Bold'; /* Use custom bold font */
 }
 
 input[type="text"] {
@@ -64,6 +89,7 @@ h2 {
     font-size: 1.5em;
     color: #333;
     margin-bottom: 10px;
+    font-family: 'Visby Round Extra Bold'; /* Use custom extra bold font */
 }
 
 #offline-list, #online-list {
