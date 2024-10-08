@@ -64,6 +64,9 @@ jobs:
           echo "        console.error('Error checking website statuses:', error);" >> check-status.js
           echo "    });" >> check-status.js
 
+      - name: Clone output.txt to old-output.txt
+        run: cp output.txt old-output.txt || echo "old-output.txt does not exist yet."
+
       - name: Run check-status.js
         run: node check-status.js
 
