@@ -25,14 +25,6 @@ jobs:
         run: |
           npm install axios
 
-      - name: Clone output.txt to old-output.txt
-        run: |
-          cp output.txt old-output.txt || echo "old-output.txt does not exist yet."
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add old-output.txt
-          git commit -m "Backup old-output.txt"
-          git push
 
       - name: Create and run check-status.js
         run: |
@@ -75,6 +67,15 @@ jobs:
 
       - name: Run check-status.js
         run: node check-status.js
+        
+      - name: Clone output.txt to old-output.txt
+        run: |
+          cp output.txt old-output.txt || echo "old-output.txt does not exist yet."
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add old-output.txt
+          git commit -m "Backup old-output.txt"
+          git push
 
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
