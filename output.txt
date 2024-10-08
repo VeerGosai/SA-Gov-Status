@@ -129,7 +129,7 @@ Website: Richmond Local Municipality - Status: 200
 Website: Okhahlamba Local Municipality - Status: 200
 Website: Inkosi Langalibalele Local Municipality - Status: Offline
 Website: Alfred Duma Local Municipality - Status: Offline
-Website: Endumeni Local Municipality - Status: 200
+Website: Endumeni Local Municipality - Status: Offline
 Website: Nqutu Local Municipality - Status: Offline
 Website: Msinga Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
@@ -369,7 +369,7 @@ Website: DefenceWeb - Status: 200
 Website: UJuh - Status: 200
 Website: National Treasury of South Africa - Status: 200
 Website: Financial Services Board - Status: Offline
-Website: South African Acts - Status: Offline
+Website: South African Acts - Status: 200
 Website: International Criminal Court South Africa - Status: 200
 Website: United States Trade Representative South Africa - Status: Offline
 Website: Film South Africa - Status: Offline
