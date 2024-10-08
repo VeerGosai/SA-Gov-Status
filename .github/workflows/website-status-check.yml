@@ -71,7 +71,9 @@ jobs:
         run: |
           if [ -f output.txt ]; then
             mv output.txt old-output.txt
-          fi 
+          else
+            echo "output.txt not found. Skipping rename."
+          fi
 
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
@@ -82,7 +84,9 @@ jobs:
       - name: Copy new output.txt from artifact
         run: |
           if [ -f output.txt ]; then
-            cp output.txt new-output.txt
+            cp output.txt output.txt
+          else
+            echo "output.txt not found. Skipping copy."
           fi
 
       - name: Configure Git
@@ -92,6 +96,6 @@ jobs:
 
       - name: Commit old-output.txt and new output.txt
         run: |
-          git add old-output.txt new-output.txt
-          git commit -m "Update website status results" 
+          git add old-output.txt output.txt
+          git commit -m "Update website status results" || echo "No changes to commit"
           git push
