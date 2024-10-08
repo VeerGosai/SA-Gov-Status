@@ -235,9 +235,6 @@ https://www.metsimaholo.gov.za,Metsimaholo Municipality
 https://www.mfnet.gov.za,MFNET
 https://www.mhlontlolm.gov.za,Mhlontlo Municipality
 https://www.mkhambathini.gov.za,Mkhambathini Municipality
-https://www.mmlm.gov.za,Mkhondo Local Municipality
-https://www.mkhondo.gov.za,Mkhondo Municipality
-https://www.mnquma.gov.za,Mnquma Municipality
 https://www.mogalecity.gov.za,Mogale City Municipality
 https://www.mopani.gov.za,Mopani District Municipality
 https://www.moqhaka.gov.za,Moqhaka Municipality
@@ -386,7 +383,6 @@ https://www.tshwane.gov.za,Tshwane (Metro Municipality)
 https://www.tut.ac.za/,Tshwane University of Technology
 https://www.tswaing.gov.za,Tswaing Local Municipality
 https://www.tclm.gov.za,Tswelopele Municipality
-https://www.ubuhlebezwe.gov.za,Ubuhlebezwe Local Municipality
 https://www.ubuntu.gov.za,Ubuntu Local Municipality
 https://www.ugu.gov.za,Ugu District Municipality
 https://www.ukdm.gov.za,Ukhahlamba District Municipality
