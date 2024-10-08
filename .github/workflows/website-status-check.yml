@@ -74,7 +74,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: website-status-results
-          path: old-output.txt
+          path: input.txt  # Changed to input.txt for comparison
 
       - name: Create compare-status.js
         run: |
@@ -82,7 +82,7 @@ jobs:
           echo "" >> compare-status.js
           echo "// Read the new and old output files" >> compare-status.js
           echo "const newStatus = fs.readFileSync('output.txt', 'utf-8').trim().split('\\n');" >> compare-status.js
-          echo "const oldStatus = fs.readFileSync('old-output.txt', 'utf-8').trim().split('\\n');" >> compare-status.js
+          echo "const oldStatus = fs.readFileSync('input.txt', 'utf-8').trim().split('\\n');" >> compare-status.js
           echo "" >> compare-status.js
           echo "const changes = [];" >> compare-status.js
           echo "const statusMap = {};" >> compare-status.js
@@ -110,26 +110,26 @@ jobs:
           echo "    }" >> compare-status.js
           echo "});" >> compare-status.js
           echo "" >> compare-status.js
-          echo "// Write changes to last_changes.txt" >> compare-status.js
-          echo "fs.writeFileSync('last_changes.txt', changes.join('\\n'), 'utf-8');" >> compare-status.js
-          echo "console.log('Changes written to last_changes.txt');" >> compare-status.js
+          echo "// Write changes to change.txt" >> compare-status.js
+          echo "fs.writeFileSync('change.txt', changes.join('\\n'), 'utf-8');" >> compare-status.js
+          echo "console.log('Changes written to change.txt');" >> compare-status.js
 
       - name: Run compare-status.js
         run: node compare-status.js
 
-      - name: Upload last_changes.txt
+      - name: Upload change.txt
         uses: actions/upload-artifact@v3
         with:
-          name: last-changes-results
-          path: last_changes.txt
+          name: change-results
+          path: change.txt
 
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push output.txt and last_changes.txt
+      - name: Push output.txt and change.txt
         run: |
-          git add output.txt last_changes.txt
+          git add output.txt change.txt
           git commit -m "Update website status results and changes"
           git push
