@@ -94,7 +94,7 @@ h2 {
 }
 
 .status-dot.green {
-    background-color: #28a745; /* Green for online */
+    background-color: lightgreen; /* Green for online */
 }
 
 .status-dot.red {
