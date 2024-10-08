@@ -80,14 +80,14 @@ Website: Dr AB Xuma (Local Municipality) - Status: Offline
 Website: Sakhisizwe (Local Municipality) - Status: 200
 Website: Enoch Mgijima (Local Municipality) - Status: 200
 Website: Elundini (Local Municipality) - Status: 200
-Website: Senqu (Local Municipality) - Status: Offline
+Website: Senqu (Local Municipality) - Status: 200
 Website: Walter Sisulu (Local Municipality) - Status: Offline
 Website: Ingquza Hill (Local Municipality) - Status: Offline
 Website: Port St Johns (Local Municipality) - Status: Offline
 Website: Nyandeni (Local Municipality) - Status: Offline
 Website: Mhlontlo (Local Municipality) - Status: Offline
 Website: King Sabata Dalindyebo (Local Municipality) - Status: Offline
-Website: Matatiele (Local Municipality) - Status: Offline
+Website: Matatiele (Local Municipality) - Status: 200
 Website: Umzimvubu (Local Municipality) - Status: 200
 Website: Winnie Madikizela-Mandela (Local Municipality) - Status: Offline
 Website: Ntabankulu (Local Municipality) - Status: 200
@@ -133,7 +133,7 @@ Website: Endumeni Local Municipality - Status: 200
 Website: Nqutu Local Municipality - Status: Offline
 Website: Msinga Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
-Website: Newcastle Local Municipality - Status: Offline
+Website: Newcastle Local Municipality - Status: 200
 Website: eMadlangeni Local Municipality - Status: 200
 Website: Dannhauser Local Municipality - Status: 200
 Website: eDumbe Local Municipality - Status: 200
@@ -214,7 +214,7 @@ Website: !Kheis Local Municipality - Status: 200
 Website: Tsantsabane Local Municipality - Status: 200
 Website: Kgatelopele Local Municipality - Status: 200
 Website: Dawid Kruiper Local Municipality - Status: Offline
-Website: Sol Plaatje Local Municipality - Status: Offline
+Website: Sol Plaatje Local Municipality - Status: 200
 Website: Dikgatlong Local Municipality - Status: 200
 Website: Magareng Local Municipality - Status: 200
 Website: Phokwane Local Municipality - Status: 200
