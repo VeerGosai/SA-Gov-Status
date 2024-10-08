@@ -67,26 +67,10 @@ jobs:
       - name: Run check-status.js
         run: node check-status.js
 
-      - name: Rename output.txt to old-output.txt
-        run: |
-          if [ -f output.txt ]; then
-            mv output.txt old-output.txt
-          else
-            echo "output.txt not found. Skipping rename."
-          fi
-
-      - name: Upload old output.txt as an artifact
-        if: success()  # Only upload if previous steps succeeded
+      - name: Upload output.txt
         uses: actions/upload-artifact@v3
         with:
-          name: old-website-status-results
-          path: old-output.txt
-
-      - name: Upload new output.txt as an artifact
-        if: success()  # Only upload if previous steps succeeded
-        uses: actions/upload-artifact@v3
-        with:
-          name: new-website-status-results
+          name: website-status-results
           path: output.txt
 
       - name: Configure Git
@@ -94,8 +78,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push old-output.txt and new output.txt
-        run: |
-          git add old-output.txt output.txt
-          git commit -m "Update website status results" || echo "No changes to commit"
-          git push
+      - name: Push output.txt
+        run: git add output.txt && git commit -m "Update website status results" && git push
