@@ -71,7 +71,7 @@ jobs:
         run: |
           if [ -f output.txt ]; then
             mv output.txt old-output.txt
-          fi
+          fi 
 
       - name: Upload output.txt
         uses: actions/upload-artifact@v3
