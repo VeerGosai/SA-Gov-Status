@@ -2,7 +2,7 @@ name: Check Website Status
 
 on:
   schedule:
-    - cron: '*/120 * * * *'  # Runs every 30 minutes
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 permissions:
@@ -73,10 +73,63 @@ jobs:
           name: website-status-results
           path: output.txt
 
+      - name: Download previous output.txt
+        uses: actions/download-artifact@v3
+        with:
+          name: website-status-results
+          path: old-output.txt
+
+      - name: Compare website statuses
+        run: |
+          const fs = require('fs');
+
+          // Read the new and old output files
+          const newStatus = fs.readFileSync('output.txt', 'utf-8').trim().split('\n');
+          const oldStatus = fs.readFileSync('old-output.txt/output.txt', 'utf-8').trim().split('\n');
+
+          const changes = [];
+          const statusMap = {};
+
+          // Process the old statuses
+          oldStatus.forEach(line => {
+              const [title, status] = line.split(' - Status: ');
+              statusMap[title.trim()] = status.trim();
+          });
+
+          // Compare with new statuses
+          newStatus.forEach(line => {
+              const [title, newStatus] = line.split(' - Status: ');
+              const oldStatus = statusMap[title.trim()];
+
+              if (oldStatus) {
+                  if (oldStatus === 'Offline' && newStatus === 'Online') {
+                      changes.push(\`${title.trim()} changed from Offline to Online\`);
+                  } else if (oldStatus === 'Online' && newStatus === 'Offline') {
+                      changes.push(\`${title.trim()} changed from Online to Offline\`);
+                  }
+              } else {
+                  // If the title was not found in the old status, it might be new
+                  changes.push(\`${title.trim()} is a new entry with status: ${newStatus}\`);
+              }
+          });
+
+          // Write changes to last_changes.txt
+          fs.writeFileSync('last_changes.txt', changes.join('\n'), 'utf-8');
+          console.log('Changes written to last_changes.txt');
+
+      - name: Upload last_changes.txt
+        uses: actions/upload-artifact@v3
+        with:
+          name: last-changes-results
+          path: last_changes.txt
+
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push output.txt
-        run: git add output.txt && git commit -m "Update website status results" && git push
+      - name: Push output.txt and last_changes.txt
+        run: |
+          git add output.txt last_changes.txt
+          git commit -m "Update website status results and changes"
+          git push
