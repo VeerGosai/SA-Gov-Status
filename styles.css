@@ -1,24 +1,24 @@
 @font-face {
     font-family: 'Visby Round Bold';
-    src: url('fonts/Visby Round Bold.otf') format('opentype');
+    src: url('./fonts/Visby Round Bold.otf') format('opentype');
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'Visby Round Extra Bold';
-    src: url('fonts/Visby Round Extra Bold.otf') format('opentype');
+    src: url('./fonts/Visby Round Extra Bold.otf') format('opentype');
     font-weight: 800; /* Use a numeric value for more control */
 }
 
 @font-face {
     font-family: 'Visby Round Heavy';
-    src: url('fonts/Visby Round Heavy.otf') format('opentype');
+    src: url('./fonts/Visby Round Heavy.otf') format('opentype');
     font-weight: 900; /* Heavy weight */
 }
 
 @font-face {
     font-family: 'Visby Round Regular';
-    src: url('fonts/Visby Round Regular.otf') format('opentype');
+    src: url('./fonts/Visby Round Regular.otf') format('opentype');
     font-weight: normal; /* Regular weight */
 }
 
