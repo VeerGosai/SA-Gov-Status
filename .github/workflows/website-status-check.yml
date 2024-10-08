@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm install axios
+
       - name: Create and run check-status.js
         run: |
           echo "const fs = require('fs');" > check-status.js
@@ -62,6 +63,7 @@ jobs:
           echo "    .catch(error => {" >> check-status.js
           echo "        console.error('Error checking website statuses:', error);" >> check-status.js
           echo "    });" >> check-status.js
+
       - name: Run check-status.js
         run: node check-status.js
 
@@ -72,25 +74,35 @@ jobs:
           else
             echo "output.txt not found. Skipping rename."
           fi
-      - name: Upload output.txt
+
+      - name: Upload output.txt as artifact
         uses: actions/upload-artifact@v3
         with:
           name: website-status-results
           path: output.txt
 
-      - name: Copy new output.txt from artifact
-        run: |
-          if [ -f output.txt ]; then
-            cp output.txt output.txt
-          else
-            echo "output.txt not found. Skipping copy."
-          fi
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: website-status-results
+          path: .
+
       - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-      - name: Commit old-output.txt and new output.txt
+
+      - name: Push old-output.txt and new output.txt
         run: |
-          git add old-output.txt output.txt
+          if [ -f old-output.txt ]; then
+            git add old-output.txt
+          else
+            echo "old-output.txt not found. Skipping."
+          fi
+          if [ -f output.txt ]; then
+            git add output.txt
+          else
+            echo "output.txt not found. Skipping."
+          fi
           git commit -m "Update website status results" || echo "No changes to commit"
           git push
