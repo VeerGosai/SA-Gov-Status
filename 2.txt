@@ -15,7 +15,7 @@ Website: Breede Valley Municipality (alternate domain) - Status: Offline
 Website: Buffalo City (Metro Municipality) - Status: 200
 Website: Buffalo City Metropolitan Municipality - Status: 200
 Website: Buffalo City Municipality - Status: 200
-Website: Bushbuckridge Local Municipality - Status: Offline
+Website: Bushbuckridge Local Municipality - Status: 200
 Website: Bushbuckridge Municipality - Status: 200
 Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: Offline
+Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
@@ -249,12 +249,12 @@ Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
-Website: Mpumalanga Provincial Government - Status: Offline
+Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
 Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
-Website: Municipal Infrastructure Support Agent - Status: Offline
+Website: Municipal Infrastructure Support Agent - Status: 200
 Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
@@ -262,7 +262,7 @@ Website: Namakwa District Municipality - Status: 200
 Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
-Website: National Prosecuting Authority - Status: Offline
+Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
@@ -286,7 +286,7 @@ Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
-Website: Ntabankulu Municipality - Status: Offline
+Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: 200
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
