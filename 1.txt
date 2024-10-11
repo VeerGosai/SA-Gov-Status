@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: Offline
+Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
@@ -278,7 +278,7 @@ Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
-Website: North West (Province) - Status: 200
+Website: North West (Province) - Status: Offline
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: 200
 Website: Northern Cape (Province) - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -413,7 +413,7 @@ Website: University of Limpopo - Status: 200
 Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: 200
 Website: University of South Africa - Status: 200
-Website: University of the Free State - Status: 200
+Website: University of the Free State - Status: Offline
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
