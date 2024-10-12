@@ -4,7 +4,7 @@ Website: Amahlathi Municipality - Status: 200
 Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: 200
+Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
