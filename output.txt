@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: Offline
+Website: Department of Economic Development - Status: 200
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
@@ -107,7 +107,7 @@ Website: Ekhuruleni District Municipality - Status: Offline
 Website: Ekurhuleni (Metro Municipality) - Status: 200
 Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
-Website: Electronic Disclosure - Status: 200
+Website: Electronic Disclosure - Status: Offline
 Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: Offline
 Website: Emalahleni Local Municipality - Status: 200
