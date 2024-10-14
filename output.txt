@@ -9,7 +9,7 @@ Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
 Website: Bojanala Platinum District Municipality - Status: 200
-Website: Bophirima Municipality - Status: 200
+Website: Bophirima Municipality - Status: Offline
 Website: Breede Valley Municipality - Status: Offline
 Website: Breede Valley Municipality (alternate domain) - Status: Offline
 Website: Buffalo City (Metro Municipality) - Status: 200
@@ -66,7 +66,7 @@ Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
 Website: Department of Social Development - Status: 200
-Website: Department of Social Development: Mpumalanga - Status: Offline
+Website: Department of Social Development: Mpumalanga - Status: 200
 Website: Department of Sport - Status: Offline
 Website: Department of Sports - Status: Offline
 Website: Department of Telecommunications and Postal Services - Status: Offline
@@ -165,7 +165,7 @@ Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
-Website: IYM Government Portal - Status: 200
+Website: IYM Government Portal - Status: Offline
 Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
