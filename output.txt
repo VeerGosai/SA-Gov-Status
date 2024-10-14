@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -290,7 +290,7 @@ Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: 200
-Website: Oceanographic Research - Status: 200
+Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: Offline
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: Offline
+Website: Rustenburg Municipality - Status: 200
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
