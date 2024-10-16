@@ -255,7 +255,7 @@ Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
-Website: Municipal Money - Status: 200
+Website: Municipal Money - Status: Offline
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
@@ -311,7 +311,7 @@ Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
 Website: Pixley Ka Isaka Seme Municipality - Status: 200
 Website: Plettenberg Bay Municipality - Status: Offline
-Website: Polokwane Municipality - Status: 200
+Website: Polokwane Municipality - Status: Offline
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
@@ -427,7 +427,7 @@ Website: Vhembe District Natural Resources Authority - Status: Offline
 Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
-Website: Vulekamali - Status: 200
+Website: Vulekamali - Status: Offline
 Website: Walter Sisulu University - Status: 200
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
