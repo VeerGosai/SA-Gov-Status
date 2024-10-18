@@ -176,7 +176,7 @@ Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
-Website: Kgatelopele Municipality - Status: Offline
+Website: Kgatelopele Municipality - Status: 200
 Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
@@ -211,7 +211,7 @@ Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
-Website: Limpopo (Province) - Status: Offline
+Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
 Website: Limpopo Provincial Government - Status: 200
@@ -240,7 +240,7 @@ Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
-Website: Moqhaka Municipality - Status: 200
+Website: Moqhaka Municipality - Status: Offline
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
