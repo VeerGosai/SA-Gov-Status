@@ -199,7 +199,7 @@ Website: KZN Department of Public Works - Status: Offline
 Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
-Website: KZN Department of Works - Status: Offline
+Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
