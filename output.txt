@@ -4,7 +4,7 @@ Website: Amahlathi Municipality - Status: 200
 Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: Offline
+Website: Ba-Phalaborwa Municipality - Status: 200
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
@@ -316,7 +316,7 @@ Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
-Website: Ramotshere Moiloa Municipality - Status: 200
+Website: Ramotshere Moiloa Municipality - Status: Offline
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
