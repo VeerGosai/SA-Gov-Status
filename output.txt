@@ -148,7 +148,7 @@ Website: GPGLab Services - Status: Offline
 Website: Greater Giyani Municipality - Status: 200
 Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
-Website: Greater Tzaneen Local Municipality - Status: 200
+Website: Greater Tzaneen Local Municipality - Status: Offline
 Website: Greater Tzaneen Municipality - Status: Offline
 Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
