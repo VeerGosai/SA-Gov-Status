@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -427,7 +427,7 @@ Website: Vhembe District Natural Resources Authority - Status: Offline
 Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
-Website: Vulekamali - Status: 200
+Website: Vulekamali - Status: Offline
 Website: Walter Sisulu University - Status: 200
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
