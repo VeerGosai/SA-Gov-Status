@@ -442,6 +442,6 @@ Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
 Website: Witrand Hospital - Status: 200
 Website: Witrand Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: Offline
-Website: Witzenberg Local Municipality - Status: Offline
+Website: Witzenberg Local Municipality - Status: 200
 Website: ZF Mgcawu District Municipality - Status: Offline
 Website: ZF Mgcawu District Municipality - Status: 200
