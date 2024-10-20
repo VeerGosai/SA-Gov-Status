@@ -192,7 +192,7 @@ Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
-Website: KZN Department of Education - Status: Offline
+Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
 Website: KZN Department of Health Services - Status: 200
 Website: KZN Department of Public Works - Status: Offline
