@@ -136,7 +136,7 @@ Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
 Website: Government Commerce Portal - Status: 200
-Website: Government Communication and Information System - Status: Offline
+Website: Government Communication and Information System - Status: 200
 Website: Government Employees Medical Scheme - Status: 200
 Website: Government Employees Pension Fund - Status: Offline
 Website: Government of South Africa - Status: Offline
@@ -352,7 +352,7 @@ Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
-Website: South African News Agency - Status: Offline
+Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
