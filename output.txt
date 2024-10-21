@@ -1,10 +1,10 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: Offline
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: Offline
+Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: 200
+Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
