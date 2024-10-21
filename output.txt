@@ -4,7 +4,7 @@ Website: Amahlathi Municipality - Status: 200
 Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: 200
+Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
@@ -136,7 +136,7 @@ Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
 Website: Government Commerce Portal - Status: 200
-Website: Government Communication and Information System - Status: 200
+Website: Government Communication and Information System - Status: Offline
 Website: Government Employees Medical Scheme - Status: 200
 Website: Government Employees Pension Fund - Status: Offline
 Website: Government of South Africa - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -426,7 +426,7 @@ Website: Vhembe District Municipality - Status: 200
 Website: Vhembe District Natural Resources Authority - Status: Offline
 Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
-Website: Vukuzenzele - Status: Offline
+Website: Vukuzenzele - Status: 200
 Website: Vulekamali - Status: 200
 Website: Walter Sisulu University - Status: 200
 Website: Waste Management System - Status: Offline
