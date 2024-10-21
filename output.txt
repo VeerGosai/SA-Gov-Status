@@ -25,7 +25,7 @@ Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
-Website: Chris Hani District Municipality - Status: 200
+Website: Chris Hani District Municipality - Status: Offline
 Website: City of Cape Town - Status: 200
 Website: City of Durban - Status: Offline
 Website: Civil Service Portal - Status: Offline
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -240,7 +240,7 @@ Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
-Website: Moqhaka Municipality - Status: Offline
+Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: Offline
@@ -290,7 +290,7 @@ Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: 200
-Website: Oceanographic Research - Status: Offline
+Website: Oceanographic Research - Status: 200
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
