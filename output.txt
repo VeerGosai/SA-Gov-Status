@@ -1,10 +1,10 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: Offline
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: Offline
+Website: Ba-Phalaborwa Municipality - Status: 200
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: 200
@@ -161,7 +161,7 @@ Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
-Website: Independent Police Investigative Directorate - Status: Offline
+Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
@@ -315,7 +315,7 @@ Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
-Website: Public Service Commission - Status: Offline
+Website: Public Service Commission - Status: 200
 Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
@@ -352,7 +352,7 @@ Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
-Website: South African News Agency - Status: 200
+Website: South African News Agency - Status: Offline
 Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
