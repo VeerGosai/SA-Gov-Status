@@ -427,7 +427,7 @@ Website: Vhembe District Natural Resources Authority - Status: Offline
 Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
-Website: Vulekamali - Status: Offline
+Website: Vulekamali - Status: 200
 Website: Walter Sisulu University - Status: 200
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
