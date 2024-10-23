@@ -439,7 +439,7 @@ Website: Western Cape Government Schools - Status: Offline
 Website: Western Cape Law Advisors - Status: 200
 Website: Western Cape Provincial Parliament - Status: 200
 Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
-Website: Witrand Hospital - Status: Offline
+Website: Witrand Hospital - Status: 200
 Website: Witrand Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: 200
