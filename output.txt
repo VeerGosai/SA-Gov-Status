@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: Offline
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: 200
@@ -211,10 +211,10 @@ Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
-Website: Limpopo (Province) - Status: Offline
+Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
-Website: Limpopo Provincial Government - Status: Offline
+Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: Offline
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -290,7 +290,7 @@ Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: 200
-Website: Oceanographic Research - Status: Offline
+Website: Oceanographic Research - Status: 200
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
