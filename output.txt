@@ -243,7 +243,7 @@ Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: 200
+Website: Moses Kotane Municipality - Status: Offline
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
