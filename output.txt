@@ -170,7 +170,7 @@ Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: Offline
 Website: Kagiso Nomolopol Municipality - Status: 200
-Website: Kaigarib Municipality - Status: Offline
+Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
 Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
@@ -439,7 +439,7 @@ Website: Western Cape Government Schools - Status: Offline
 Website: Western Cape Law Advisors - Status: 200
 Website: Western Cape Provincial Parliament - Status: 200
 Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
-Website: Witrand Hospital - Status: Offline
+Website: Witrand Hospital - Status: 200
 Website: Witrand Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: 200
