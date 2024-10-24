@@ -73,7 +73,7 @@ Website: Department of Telecommunications and Postal Services - Status: Offline
 Website: Department of Tourism - Status: 200
 Website: Department of Trade and Industry - Status: Offline
 Website: Department of Transport - Status: Offline
-Website: Department of Water and Sanitation - Status: 200
+Website: Department of Water and Sanitation - Status: Offline
 Website: Department of Women - Status: Offline
 Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
@@ -352,7 +352,7 @@ Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
-Website: South African News Agency - Status: 200
+Website: South African News Agency - Status: Offline
 Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
