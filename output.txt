@@ -7,7 +7,7 @@ Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: 200
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: Offline
-Website: Blueprint Government Portal - Status: 200
+Website: Blueprint Government Portal - Status: Offline
 Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
 Website: Breede Valley Municipality - Status: Offline
