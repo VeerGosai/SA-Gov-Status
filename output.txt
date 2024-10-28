@@ -12,9 +12,9 @@ Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
 Website: Breede Valley Municipality - Status: Offline
 Website: Breede Valley Municipality (alternate domain) - Status: Offline
-Website: Buffalo City (Metro Municipality) - Status: Offline
+Website: Buffalo City (Metro Municipality) - Status: 200
 Website: Buffalo City Metropolitan Municipality - Status: 200
-Website: Buffalo City Municipality - Status: Offline
+Website: Buffalo City Municipality - Status: 200
 Website: Bushbuckridge Local Municipality - Status: 200
 Website: Bushbuckridge Municipality - Status: 200
 Website: Camdeboo Municipality - Status: Offline
