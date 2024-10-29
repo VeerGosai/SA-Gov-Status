@@ -92,7 +92,7 @@ Website: Eastern Cape Department of Education: Schools - Status: Offline
 Website: Eastern Cape Department of Health - Status: 200
 Website: Eastern Cape Department of Public Works - Status: 200
 Website: Eastern Cape Department of Social Development - Status: Offline
-Website: Eastern Cape Department of Transport - Status: 200
+Website: Eastern Cape Department of Transport - Status: Offline
 Website: Eastern Cape Legislature - Status: Offline
 Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
