@@ -280,7 +280,7 @@ Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
-Website: North West Provincial Legislature - Status: 200
+Website: North West Provincial Legislature - Status: Offline
 Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
