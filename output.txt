@@ -66,7 +66,7 @@ Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
 Website: Department of Social Development - Status: 200
-Website: Department of Social Development: Mpumalanga - Status: 200
+Website: Department of Social Development: Mpumalanga - Status: Offline
 Website: Department of Sport - Status: Offline
 Website: Department of Sports - Status: Offline
 Website: Department of Telecommunications and Postal Services - Status: Offline
