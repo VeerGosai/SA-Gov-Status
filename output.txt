@@ -163,7 +163,7 @@ Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
-Website: Intsikayethu Municipality - Status: 200
+Website: Intsikayethu Municipality - Status: Offline
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
 Website: Joe Gqabi District Municipality - Status: 200
@@ -204,7 +204,7 @@ Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
-Website: KZN Provincial Treasury - Status: 200
+Website: KZN Provincial Treasury - Status: Offline
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
