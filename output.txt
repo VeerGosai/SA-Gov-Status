@@ -243,7 +243,7 @@ Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: Offline
+Website: Moses Kotane Municipality - Status: 200
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
@@ -257,7 +257,7 @@ Website: Municipal Infrastructure Project Management Information System - Status
 Website: Municipal Infrastructure Support Agent - Status: 200
 Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
-Website: Namakwa District Municipality - Status: Offline
+Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
