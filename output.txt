@@ -190,7 +190,7 @@ Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
-Website: KZN Department of Agriculture and Rural Development - Status: Offline
+Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: 200
+Website: Mhlontlo Municipality - Status: Offline
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
