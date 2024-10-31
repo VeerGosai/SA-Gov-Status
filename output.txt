@@ -186,7 +186,7 @@ Website: Kopanong Municipality - Status: 200
 Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: 200
-Website: KwaZulu-Natal (Province) - Status: Offline
+Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
