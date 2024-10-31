@@ -305,7 +305,7 @@ Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: Offline
+Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: Offline
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: Offline
+Website: Rustenburg Municipality - Status: 200
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
