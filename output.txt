@@ -157,8 +157,8 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: 200
-Website: Ilembe Local Municipality - Status: 200
+Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe Local Municipality - Status: Offline
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: 200
@@ -200,7 +200,7 @@ Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
-Website: KZN Education - Status: Offline
+Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
@@ -224,8 +224,8 @@ Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
-Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Maphumulo Municipality - Status: Offline
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: Offline
+Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
@@ -290,11 +290,11 @@ Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: 200
-Website: Oceanographic Research - Status: 200
+Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
-Website: Okhahlamba Municipality - Status: 200
+Website: Okhahlamba Municipality - Status: Offline
 Website: Open Source Intelligence System - Status: Offline
 Website: OpenET - Status: Offline
 Website: Operation Vula - Status: Offline
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: Offline
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: 200
+Website: Rustenburg Municipality - Status: Offline
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
