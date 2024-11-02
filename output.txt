@@ -368,7 +368,7 @@ Website: Steve Tshwete Local Municipality - Status: 200
 Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
 Website: Swellendam Municipality - Status: 200
-Website: Taolo Gaetsewe Municipality - Status: Offline
+Website: Taolo Gaetsewe Municipality - Status: 200
 Website: TDA Cape Town - Status: 200
 Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: Thabo Mofutsanyana District Municipality - Status: 200
