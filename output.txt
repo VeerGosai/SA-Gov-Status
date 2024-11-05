@@ -15,7 +15,7 @@ Website: Breede Valley Municipality (alternate domain) - Status: Offline
 Website: Buffalo City (Metro Municipality) - Status: 200
 Website: Buffalo City Metropolitan Municipality - Status: 200
 Website: Buffalo City Municipality - Status: 200
-Website: Bushbuckridge Local Municipality - Status: 200
+Website: Bushbuckridge Local Municipality - Status: Offline
 Website: Bushbuckridge Municipality - Status: 200
 Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: Offline
+Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
-Website: Municipal Money - Status: Offline
+Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
