@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: Offline
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: Offline
 Website: KZN Education - Status: Offline
-Website: KZN Legislature - Status: Offline
+Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: Offline
