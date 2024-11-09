@@ -273,7 +273,7 @@ Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
-Website: Nkangala District Municipality - Status: 200
+Website: Nkangala District Municipality - Status: Offline
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
@@ -348,7 +348,7 @@ Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
-Website: South African Government Network Services - Status: Offline
+Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
