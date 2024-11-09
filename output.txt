@@ -98,7 +98,7 @@ Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
 Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
 Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
