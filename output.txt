@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: 200
+Website: KZN Legislature - Status: Offline
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
@@ -315,7 +315,7 @@ Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
-Website: Public Service Commission - Status: 200
+Website: Public Service Commission - Status: Offline
 Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
@@ -410,7 +410,7 @@ Website: University of Fort Hare - Status: Offline
 Website: University of Johannesburg - Status: 200
 Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
-Website: University of Mpumalanga - Status: Offline
+Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: 200
 Website: University of South Africa - Status: 200
 Website: University of the Free State - Status: 200
