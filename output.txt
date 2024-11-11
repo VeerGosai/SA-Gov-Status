@@ -98,7 +98,7 @@ Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
 Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
 Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
@@ -419,7 +419,7 @@ Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
-Website: Vaal University of Technology - Status: 200
+Website: Vaal University of Technology - Status: Offline
 Website: Vhembe District Local Municipality - Status: 200
 Website: Vhembe District Municipal Council - Status: Offline
 Website: Vhembe District Municipality - Status: 200
