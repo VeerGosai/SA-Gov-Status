@@ -289,7 +289,7 @@ Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
-Website: Occupational Health and Safety - Status: Offline
+Website: Occupational Health and Safety - Status: 200
 Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
