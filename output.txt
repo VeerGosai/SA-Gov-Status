@@ -52,7 +52,7 @@ Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: Offline
-Website: Department of International Relations and Cooperation - Status: Offline
+Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: Offline
 Website: Department of Military Veterans - Status: Offline
 Website: Department of Mineral Resources - Status: Offline
@@ -316,7 +316,7 @@ Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
-Website: Ramotshere Moiloa Municipality - Status: 200
+Website: Ramotshere Moiloa Municipality - Status: Offline
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
