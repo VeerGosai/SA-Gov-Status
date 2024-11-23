@@ -65,7 +65,7 @@ Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
-Website: Department of Social Development - Status: 200
+Website: Department of Social Development - Status: Offline
 Website: Department of Social Development: Mpumalanga - Status: Offline
 Website: Department of Sport - Status: Offline
 Website: Department of Sports - Status: Offline
@@ -316,11 +316,11 @@ Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
-Website: Ramotshere Moiloa Municipality - Status: 200
+Website: Ramotshere Moiloa Municipality - Status: Offline
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
-Website: Raymond Mhlaba Municipality - Status: 200
+Website: Raymond Mhlaba Municipality - Status: Offline
 Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
