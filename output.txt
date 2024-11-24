@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: Offline
+Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
@@ -363,7 +363,7 @@ Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: 200
-Website: Stellenbosch University - Status: Offline
+Website: Stellenbosch University - Status: 200
 Website: Steve Tshwete Local Municipality - Status: 200
 Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
