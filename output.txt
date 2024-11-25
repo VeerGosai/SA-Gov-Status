@@ -163,7 +163,7 @@ Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
-Website: Intsikayethu Municipality - Status: Offline
+Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
 Website: Joe Gqabi District Municipality - Status: 200
@@ -419,7 +419,7 @@ Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
-Website: Vaal University of Technology - Status: 200
+Website: Vaal University of Technology - Status: Offline
 Website: Vhembe District Local Municipality - Status: 200
 Website: Vhembe District Municipal Council - Status: Offline
 Website: Vhembe District Municipality - Status: 200
