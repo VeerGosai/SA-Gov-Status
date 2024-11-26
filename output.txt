@@ -118,7 +118,7 @@ Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
-Website: Frances Baard Municipality - Status: Offline
+Website: Frances Baard Municipality - Status: 200
 Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
@@ -131,7 +131,7 @@ Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: 200
-Website: Gauteng Provincial Safety Forum - Status: Offline
+Website: Gauteng Provincial Safety Forum - Status: 200
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: 200
+Website: Mtubatuba Municipality - Status: Offline
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -388,7 +388,7 @@ Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: Offline
 Website: Ubuntu Local Municipality - Status: 200
 Website: Ugu District Municipality - Status: 200
-Website: Ukhahlamba District Municipality - Status: 200
+Website: Ukhahlamba District Municipality - Status: Offline
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
