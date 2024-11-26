@@ -371,7 +371,7 @@ Website: Swellendam Municipality - Status: 200
 Website: Taolo Gaetsewe Municipality - Status: 200
 Website: TDA Cape Town - Status: 200
 Website: Thabo Mofutsanyana District Municipality - Status: Offline
-Website: Thabo Mofutsanyana District Municipality - Status: 200
+Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: The Presidency of South Africa - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: Theewaterskloof Municipality - Status: 200
