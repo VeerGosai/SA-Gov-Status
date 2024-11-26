@@ -305,7 +305,7 @@ Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: Offline
+Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
@@ -368,7 +368,7 @@ Website: Steve Tshwete Local Municipality - Status: 200
 Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
 Website: Swellendam Municipality - Status: 200
-Website: Taolo Gaetsewe Municipality - Status: Offline
+Website: Taolo Gaetsewe Municipality - Status: 200
 Website: TDA Cape Town - Status: 200
 Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: Thabo Mofutsanyana District Municipality - Status: 200
@@ -388,7 +388,7 @@ Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: Offline
 Website: Ubuntu Local Municipality - Status: 200
 Website: Ugu District Municipality - Status: 200
-Website: Ukhahlamba District Municipality - Status: 200
+Website: Ukhahlamba District Municipality - Status: Offline
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
