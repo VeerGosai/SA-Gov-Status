@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: Offline
+Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
@@ -393,7 +393,7 @@ Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
-Website: Umlalazi Local Municipality - Status: Offline
+Website: Umlalazi Local Municipality - Status: 200
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
