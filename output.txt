@@ -363,7 +363,7 @@ Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: 200
-Website: Stellenbosch University - Status: 200
+Website: Stellenbosch University - Status: Offline
 Website: Steve Tshwete Local Municipality - Status: 200
 Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
@@ -393,7 +393,7 @@ Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
-Website: Umlalazi Local Municipality - Status: 200
+Website: Umlalazi Local Municipality - Status: Offline
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
@@ -419,7 +419,7 @@ Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
-Website: Vaal University of Technology - Status: Offline
+Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
 Website: Vhembe District Municipal Council - Status: Offline
 Website: Vhembe District Municipality - Status: 200
