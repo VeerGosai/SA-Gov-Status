@@ -381,7 +381,7 @@ Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: 200
 Website: Trans Caledon Tunnel Authority - Status: 200
 Website: Transport and Development Authority - Status: 200
-Website: Tsantsabane Local Municipality - Status: Offline
+Website: Tsantsabane Local Municipality - Status: 200
 Website: Tshwane (Metro Municipality) - Status: 200
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
