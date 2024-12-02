@@ -150,7 +150,7 @@ Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
 Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
-Website: Greater Tzaneen Municipality - Status: Offline
+Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
 Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: Offline
+Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -277,7 +277,7 @@ Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
-Website: Non-Profit Organizations - Status: Offline
+Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: 200
