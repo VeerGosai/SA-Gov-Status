@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -427,7 +427,7 @@ Website: Vhembe District Natural Resources Authority - Status: Offline
 Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
-Website: Vulekamali - Status: Offline
+Website: Vulekamali - Status: 200
 Website: Walter Sisulu University - Status: Offline
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
