@@ -6,7 +6,7 @@ Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
-Website: Biz Portal - Status: 200
+Website: Biz Portal - Status: Offline
 Website: Blueprint Government Portal - Status: Offline
 Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -346,9 +346,9 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
-Website: South African Government Network Services - Status: Offline
+Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
