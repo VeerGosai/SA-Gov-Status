@@ -34,7 +34,7 @@ Website: Community Development Association - Status: Offline
 Website: Crisis and Prevention Response - Status: Offline
 Website: Customer Portal - Status: Offline
 Website: Cybersecurity Hub - Status: 200
-Website: Limpopo Department of Agriculture and Rural Development - Status: Offline
+Website: Limpopo Department of Agriculture and Rural Development - Status: 200
 Website: Department of Agriculture - Status: Offline
 Website: Department of Agriculture - Status: Offline
 Website: Department of Arts and Culture - Status: Offline
@@ -48,7 +48,7 @@ Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
-Website: Department of Health - Status: Offline
+Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: Offline
@@ -59,7 +59,7 @@ Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: 200
 Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
-Website: Department of Public Service and Administration - Status: Offline
+Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
 Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
@@ -106,8 +106,8 @@ Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
 Website: Ekurhuleni (Metro Municipality) - Status: 200
 Website: Ekurhuleni Metropolitan Municipality - Status: 200
-Website: E-Learning Portal - Status: Offline
-Website: Electronic Disclosure - Status: Offline
+Website: E-Learning Portal - Status: 200
+Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
@@ -161,7 +161,7 @@ Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
-Website: Independent Police Investigative Directorate - Status: Offline
+Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
@@ -207,14 +207,14 @@ Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
-Website: Land and Water Resources - Status: Offline
+Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
-Website: Limpopo (Province) - Status: Offline
+Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
-Website: Limpopo Provincial Government - Status: Offline
+Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -253,8 +253,8 @@ Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
 Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
-Website: Municipal Infrastructure Project Management Information System - Status: Offline
-Website: Municipal Infrastructure Support Agent - Status: Offline
+Website: Municipal Infrastructure Project Management Information System - Status: 200
+Website: Municipal Infrastructure Support Agent - Status: 200
 Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
