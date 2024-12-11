@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: 200
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: Offline
+Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: 200
@@ -113,7 +113,7 @@ Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: Offline
 Website: Emfuleni Local Municipality - Status: 200
-Website: Endumeni Municipality - Status: 200
+Website: Endumeni Municipality - Status: Offline
 Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
@@ -269,7 +269,7 @@ Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
-Website: Nelson Mandela Bay Municipality - Status: Offline
+Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: Offline
 Website: Ngwathe Municipality - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
@@ -416,7 +416,7 @@ Website: University of South Africa - Status: 200
 Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
-Website: University of Venda - Status: Offline
+Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
