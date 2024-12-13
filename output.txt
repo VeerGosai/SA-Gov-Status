@@ -112,7 +112,7 @@ Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: Offline
-Website: Emfuleni Local Municipality - Status: 200
+Website: Emfuleni Local Municipality - Status: Offline
 Website: Endumeni Municipality - Status: 200
 Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
