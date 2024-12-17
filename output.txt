@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: Offline
+Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
@@ -371,7 +371,7 @@ Website: Swellendam Municipality - Status: 200
 Website: Taolo Gaetsewe Municipality - Status: 200
 Website: TDA Cape Town - Status: 200
 Website: Thabo Mofutsanyana District Municipality - Status: Offline
-Website: Thabo Mofutsanyana District Municipality - Status: Offline
+Website: Thabo Mofutsanyana District Municipality - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: Theewaterskloof Municipality - Status: 200
