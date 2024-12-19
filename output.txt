@@ -172,7 +172,7 @@ Website: Johannesburg (Metro Municipality) - Status: Offline
 Website: Kagiso Nomolopol Municipality - Status: 200
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
-Website: Kannaland Municipality - Status: Offline
+Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
