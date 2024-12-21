@@ -145,7 +145,7 @@ Website: Government Printing Works - Status: 200
 Website: Government Procurement and Contracting Excellence - Status: Offline
 Website: Government Technical Advisory Centre - Status: 200
 Website: GPGLab Services - Status: Offline
-Website: Greater Giyani Municipality - Status: 200
+Website: Greater Giyani Municipality - Status: Offline
 Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
 Website: Greater Tzaneen Local Municipality - Status: 200
