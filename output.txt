@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: 200
+Website: Department of Economic Development - Status: Offline
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
@@ -276,7 +276,7 @@ Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
-Website: Nongoma Municipality - Status: Offline
+Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
