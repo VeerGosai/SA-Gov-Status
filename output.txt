@@ -4,7 +4,7 @@ Website: Amahlathi Municipality - Status: 200
 Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: Offline
+Website: Ba-Phalaborwa Municipality - Status: 200
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: Offline
@@ -85,7 +85,7 @@ Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
 Website: Durban University of Technology - Status: Offline
-Website: Eastern Cape (Province) - Status: 200
+Website: Eastern Cape (Province) - Status: Offline
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
 Website: Eastern Cape Department of Education: Schools - Status: Offline
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -302,10 +302,10 @@ Website: OR Tambo District Municipality - Status: 200
 Website: Oudtshoorn Municipality - Status: Offline
 Website: Oudtshoorn Municipality - Status: 200
 Website: Overstrand Municipality - Status: 200
-Website: Pan African Municipalities - Status: Offline
+Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: 200
+Website: Phokwane Municipality - Status: Offline
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
