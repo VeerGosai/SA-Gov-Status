@@ -176,7 +176,7 @@ Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
-Website: Kgatelopele Municipality - Status: 200
+Website: Kgatelopele Municipality - Status: Offline
 Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
