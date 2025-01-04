@@ -33,7 +33,7 @@ Website: Cloud Management Portal - Status: Offline
 Website: Community Development Association - Status: Offline
 Website: Crisis and Prevention Response - Status: Offline
 Website: Customer Portal - Status: Offline
-Website: Cybersecurity Hub - Status: 200
+Website: Cybersecurity Hub - Status: Offline
 Website: Limpopo Department of Agriculture and Rural Development - Status: 200
 Website: Department of Agriculture - Status: Offline
 Website: Department of Agriculture - Status: Offline
@@ -135,7 +135,7 @@ Website: Gauteng Provincial Safety Forum - Status: Offline
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
-Website: Government Commerce Portal - Status: 200
+Website: Government Commerce Portal - Status: Offline
 Website: Government Communication and Information System - Status: 200
 Website: Government Employees Medical Scheme - Status: 200
 Website: Government Employees Pension Fund - Status: Offline
@@ -161,7 +161,7 @@ Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
-Website: Independent Police Investigative Directorate - Status: 200
+Website: Independent Police Investigative Directorate - Status: Offline
 Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: Offline
 Website: iParticipate Portal - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
