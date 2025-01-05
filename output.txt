@@ -4,7 +4,7 @@ Website: Amahlathi Municipality - Status: 200
 Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
-Website: Ba-Phalaborwa Municipality - Status: Offline
+Website: Ba-Phalaborwa Municipality - Status: 200
 Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: 200
 Website: Blueprint Government Portal - Status: Offline
@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: Offline
+Website: Department of Economic Development - Status: 200
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
