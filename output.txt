@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: Offline
+Website: Department of Economic Development - Status: 200
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: Offline
+Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
