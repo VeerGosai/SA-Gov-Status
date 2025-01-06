@@ -49,7 +49,7 @@ Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
-Website: Department of Higher Education and Training - Status: Offline
+Website: Department of Higher Education and Training - Status: 200
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
