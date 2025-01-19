@@ -220,7 +220,7 @@ Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
 Website: Magareng Municipality - Status: 200
-Website: Mahikeng Municipality - Status: 200
+Website: Mahikeng Municipality - Status: Offline
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
@@ -237,7 +237,7 @@ Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
-Website: Mnquma Municipality - Status: 200
+Website: Mnquma Municipality - Status: Offline
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
@@ -266,7 +266,7 @@ Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
-Website: Ndwedwe Municipality - Status: Offline
+Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
@@ -343,7 +343,7 @@ Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
 Website: Siyathemba Municipality - Status: 200
-Website: Small Business Ministry - Status: 200
+Website: Small Business Ministry - Status: Offline
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
@@ -364,8 +364,8 @@ Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: 200
 Website: Stellenbosch University - Status: 200
-Website: Steve Tshwete Local Municipality - Status: 200
-Website: Steve Tshwete Municipality - Status: 200
+Website: Steve Tshwete Local Municipality - Status: Offline
+Website: Steve Tshwete Municipality - Status: Offline
 Website: Stop Gender-Based Violence - Status: Offline
 Website: Swellendam Municipality - Status: 200
 Website: Taolo Gaetsewe Municipality - Status: 200
@@ -419,7 +419,7 @@ Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
-Website: Vaal University of Technology - Status: 200
+Website: Vaal University of Technology - Status: Offline
 Website: Vhembe District Local Municipality - Status: 200
 Website: Vhembe District Municipal Council - Status: Offline
 Website: Vhembe District Municipality - Status: 200
