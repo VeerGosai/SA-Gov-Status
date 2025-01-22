@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: Offline
+Website: Department of Economic Development - Status: 200
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
@@ -270,7 +270,7 @@ Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
-Website: Nelson Mandela University - Status: Offline
+Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
