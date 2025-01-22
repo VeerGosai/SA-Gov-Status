@@ -61,7 +61,7 @@ Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
 Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
-Website: Department of Rural Development and Agrarian Reform - Status: 200
+Website: Department of Rural Development and Agrarian Reform - Status: Offline
 Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
@@ -96,9 +96,9 @@ Website: Eastern Cape Department of Transport - Status: Offline
 Website: Eastern Cape Legislature - Status: Offline
 Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
-Website: Eastern Cape Provincial Legislature - Status: 200
+Website: Eastern Cape Provincial Legislature - Status: Offline
 Website: Eastern Cape Provincial Treasury - Status: Offline
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
 Website: Eden District Municipality - Status: Offline
 Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
