@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -98,9 +98,9 @@ Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
 Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
 Website: Eden District Municipality - Status: Offline
-Website: Edumbe Municipality - Status: 200
+Website: Edumbe Municipality - Status: Offline
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
@@ -113,7 +113,7 @@ Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: 200
 Website: Emfuleni Local Municipality - Status: 200
-Website: Endumeni Municipality - Status: 200
+Website: Endumeni Municipality - Status: Offline
 Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
@@ -131,7 +131,7 @@ Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: 200
-Website: Gauteng Provincial Safety Forum - Status: Offline
+Website: Gauteng Provincial Safety Forum - Status: 200
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
@@ -156,9 +156,9 @@ Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
-Website: Ilembe District Municipality - Status: 200
 Website: Ilembe District Municipality - Status: Offline
-Website: Ilembe Local Municipality - Status: 200
+Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe Local Municipality - Status: Offline
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: 200
@@ -174,10 +174,10 @@ Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
 Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
-Website: Kaunda District Municipality - Status: 200
+Website: Kaunda District Municipality - Status: Offline
 Website: Kenneth Kaunda District Municipality - Status: Offline
 Website: Kgatelopele Municipality - Status: 200
-Website: Kgetlengrivier Municipality - Status: 200
+Website: Kgetlengrivier Municipality - Status: Offline
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
 Website: Knysna Municipality - Status: 200
@@ -223,14 +223,14 @@ Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
-Website: Mangosuthu University of Technology - Status: 200
+Website: Mangosuthu University of Technology - Status: Offline
 Website: Maphumulo Municipality - Status: Offline
 Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: 200
+Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -267,13 +267,13 @@ Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Ndwedwe Municipality - Status: 200
+Website: Ndwedwe Municipality - Status: Offline
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
-Website: Nkangala District Municipality - Status: 200
+Website: Nkangala District Municipality - Status: Offline
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
@@ -294,7 +294,7 @@ Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
-Website: Okhahlamba Municipality - Status: 200
+Website: Okhahlamba Municipality - Status: Offline
 Website: Open Source Intelligence System - Status: Offline
 Website: OpenET - Status: Offline
 Website: Operation Vula - Status: Offline
@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: Offline
-Website: Sefako Makgatho Health Sciences University - Status: 200
+Website: Sefako Makgatho Health Sciences University - Status: Offline
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
@@ -357,7 +357,7 @@ Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
-Website: SRV Municipality - Status: 200
+Website: SRV Municipality - Status: Offline
 Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
@@ -395,14 +395,14 @@ Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
 Website: Umlalazi Local Municipality - Status: Offline
 Website: Umngeni Local Municipality - Status: 200
-Website: Umshwathi Local Municipality - Status: 200
+Website: Umshwathi Local Municipality - Status: Offline
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
 Website: Umuziwabantu Local Municipality - Status: 200
 Website: Umvoti Local Municipality - Status: 200
+Website: Umzimkhulu Local Municipality - Status: Offline
 Website: Umzimkhulu Local Municipality - Status: 200
-Website: Umzimkhulu Local Municipality - Status: 200
-Website: Umzimvubu Local Municipality - Status: 200
+Website: Umzimvubu Local Municipality - Status: Offline
 Website: Umzinyathi District Municipality - Status: 200
 Website: Umzumbe Local Municipality - Status: 200
 Website: University of Cape Town - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
@@ -431,7 +431,7 @@ Website: Vulekamali - Status: 200
 Website: Walter Sisulu University - Status: Offline
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
-Website: Western Cape Gambling and Racing Board - Status: Offline
+Website: Western Cape Gambling and Racing Board - Status: 200
 Website: Western Cape Government - Status: Offline
 Website: Western Cape Government - Status: 200
 Website: Western Cape Government Library Service - Status: Offline
