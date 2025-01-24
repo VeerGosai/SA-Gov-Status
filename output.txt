@@ -248,7 +248,7 @@ Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
-Website: Mpumalanga Legislature - Status: Offline
+Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
 Website: Mtubatuba Municipality - Status: 200
@@ -288,7 +288,7 @@ Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
-Website: Nyandeni Municipality - Status: Offline
+Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: Offline
 Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
