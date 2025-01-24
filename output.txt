@@ -196,7 +196,7 @@ Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
 Website: KZN Department of Health Services - Status: 200
 Website: KZN Department of Public Works - Status: Offline
-Website: KZN Department of Social Development - Status: 200
+Website: KZN Department of Social Development - Status: Offline
 Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: Offline
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
