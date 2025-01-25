@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: Offline
+Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: 200
+Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -346,11 +346,11 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: Offline
+Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
