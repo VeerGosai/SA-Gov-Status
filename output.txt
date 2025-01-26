@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: Offline
+Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
