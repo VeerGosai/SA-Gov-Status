@@ -42,7 +42,7 @@ Website: Department of Basic Education - Status: Offline
 Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
-Website: Department of Economic Development - Status: Offline
+Website: Department of Economic Development - Status: 200
 Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
@@ -200,7 +200,7 @@ Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
-Website: KZN Education - Status: 200
+Website: KZN Education - Status: Offline
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: 200
+Website: Senqu Municipality - Status: Offline
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
