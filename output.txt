@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: Offline
+Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: Offline
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
