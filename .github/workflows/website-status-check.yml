@@ -2,11 +2,11 @@ name: Check Website Status
 
 on:
   schedule:
-    - cron: '* * * * *'  # Every minute (* * * * *), Every 10 minutes (* */10 * * *), Every 20 minutes (* */20 * * *), Every 30 minutes (* */30 * * *), Every hour (* 0 * * *), Every 2 hours (* 0 */2 * * *), Every 4 hours (* 0 */4 * * *), Every 8 hours (* 0 */8 * * *), Every 24 hours (* 0 0 * * *)
-  workflow_dispatch:  # Allows manual triggering of the workflow
+    - cron: '* * * * *'  # Adjust schedule as needed
+  workflow_dispatch:
 
 permissions:
-  contents: write  # This grants permission to write to the repository contents
+  contents: write
 
 jobs:
   check-status:
@@ -14,16 +14,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'  # Use Node.js 20
+          node-version: '20'
 
       - name: Install dependencies
-        run: |
-          npm install axios
+        run: npm install axios
 
       - name: Create and run check-status.js
         run: |
@@ -35,7 +34,7 @@ jobs:
           echo "const statusPromises = [];" >> check-status.js
           echo "" >> check-status.js
           echo "const checkWebsiteStatus = async (url, title) => {" >> check-status.js
-          echo "    console.log(\`Checking status for: \${title} (\${url})\`);" >> check-status.js  # Log the site being checked
+          echo "    console.log(\`Checking status for: \${title} (\${url})\`);" >> check-status.js
           echo "    try {" >> check-status.js
           echo "        const response = await axios.get(url);" >> check-status.js
           echo "        console.log(\`Website: \${title} - Status: \${response.status}\`);" >> check-status.js
@@ -68,7 +67,7 @@ jobs:
         run: node check-status.js
 
       - name: Upload output.txt
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: website-status-results
           path: output.txt
@@ -87,8 +86,6 @@ jobs:
       - name: Clone 1.txt to 2.txt
         run: |
           cp 1.txt 2.txt || echo "2.txt does not exist yet."
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add 2.txt
           git commit -m "Backup 2.txt"
           git push
@@ -96,8 +93,6 @@ jobs:
       - name: Clone output.txt to 1.txt
         run: |
           cp output.txt 1.txt || echo "1.txt does not exist yet."
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add 1.txt
           git commit -m "Backup 1.txt"
           git push
