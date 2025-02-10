@@ -268,8 +268,8 @@ Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Nelson Mandela Bay (Metro Municipality) - Status: Offline
-Website: Nelson Mandela Bay Municipality - Status: Offline
+Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
+Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
@@ -348,7 +348,7 @@ Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
-Website: South African Government Network Services - Status: Offline
+Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
