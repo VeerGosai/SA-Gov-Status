@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
-Website: Municipal Money - Status: 200
+Website: Municipal Money - Status: Offline
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
@@ -268,8 +268,8 @@ Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
-Website: Nelson Mandela Bay Municipality - Status: 200
+Website: Nelson Mandela Bay (Metro Municipality) - Status: Offline
+Website: Nelson Mandela Bay Municipality - Status: Offline
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
