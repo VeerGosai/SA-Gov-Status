@@ -242,7 +242,7 @@ Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
-Website: Moroka Municipality - Status: 200
+Website: Moroka Municipality - Status: Offline
 Website: Moses Kotane Municipality - Status: 200
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: Offline
+Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
@@ -305,7 +305,7 @@ Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: 200
+Website: Phokwane Municipality - Status: Offline
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
@@ -376,7 +376,7 @@ Website: The Presidency of South Africa - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: Theewaterskloof Municipality - Status: 200
 Website: Thembelihle Municipality - Status: 200
-Website: Thembisile Hani Local Municipality - Status: 200
+Website: Thembisile Hani Local Municipality - Status: Offline
 Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: 200
 Website: Trans Caledon Tunnel Authority - Status: 200
