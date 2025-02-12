@@ -61,7 +61,7 @@ Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
 Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
-Website: Department of Rural Development and Agrarian Reform - Status: Offline
+Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
@@ -98,21 +98,21 @@ Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
 Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
 Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
 Website: Ekurhuleni (Metro Municipality) - Status: 200
-Website: Ekurhuleni Metropolitan Municipality - Status: Offline
+Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
 Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: 200
-Website: Emfuleni Local Municipality - Status: Offline
+Website: Emfuleni Local Municipality - Status: 200
 Website: Endumeni Municipality - Status: 200
 Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
@@ -123,7 +123,7 @@ Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
-Website: Free State Transport and Logistics Management - Status: Offline
+Website: Free State Transport and Logistics Management - Status: 200
 Website: Gamagara Municipality - Status: Offline
 Website: Garden Route District Municipality - Status: 200
 Website: Garden Route District Municipality (alternate domain) - Status: 200
@@ -172,7 +172,7 @@ Website: Johannesburg (Metro Municipality) - Status: Offline
 Website: Kagiso Nomolopol Municipality - Status: 200
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
-Website: Kannaland Municipality - Status: Offline
+Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
@@ -192,7 +192,7 @@ Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
-Website: KZN Department of Education - Status: Offline
+Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
 Website: KZN Department of Health Services - Status: Offline
 Website: KZN Department of Public Works - Status: Offline
@@ -212,7 +212,7 @@ Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
-Website: Limpopo CETA - Status: Offline
+Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
 Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
@@ -276,7 +276,7 @@ Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
-Website: Nongoma Municipality - Status: Offline
+Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
