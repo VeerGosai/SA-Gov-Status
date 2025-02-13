@@ -113,7 +113,7 @@ Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: 200
 Website: Emfuleni Local Municipality - Status: 200
-Website: Endumeni Municipality - Status: Offline
+Website: Endumeni Municipality - Status: 200
 Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
@@ -403,7 +403,7 @@ Website: Umvoti Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimvubu Local Municipality - Status: 200
-Website: Umzinyathi District Municipality - Status: Offline
+Website: Umzinyathi District Municipality - Status: 200
 Website: Umzumbe Local Municipality - Status: 200
 Website: University of Cape Town - Status: 200
 Website: University of Fort Hare - Status: 200
