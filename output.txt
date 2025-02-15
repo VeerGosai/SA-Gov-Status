@@ -49,7 +49,7 @@ Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: Offline
-Website: Department of Higher Education and Training - Status: 200
+Website: Department of Higher Education and Training - Status: Offline
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
