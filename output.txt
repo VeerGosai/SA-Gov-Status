@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -284,7 +284,7 @@ Website: North West Provincial Legislature - Status: 200
 Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
-Website: North-West University - Status: Offline
+Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
