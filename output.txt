@@ -49,7 +49,7 @@ Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: Offline
-Website: Department of Higher Education and Training - Status: 200
+Website: Department of Higher Education and Training - Status: Offline
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
@@ -176,7 +176,7 @@ Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
-Website: Kgatelopele Municipality - Status: 200
+Website: Kgatelopele Municipality - Status: Offline
 Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
