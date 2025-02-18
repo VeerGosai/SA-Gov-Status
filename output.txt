@@ -33,7 +33,7 @@ Website: Cloud Management Portal - Status: Offline
 Website: Community Development Association - Status: Offline
 Website: Crisis and Prevention Response - Status: Offline
 Website: Customer Portal - Status: Offline
-Website: Cybersecurity Hub - Status: Offline
+Website: Cybersecurity Hub - Status: 200
 Website: Limpopo Department of Agriculture and Rural Development - Status: 200
 Website: Department of Agriculture - Status: Offline
 Website: Department of Agriculture - Status: Offline
@@ -131,7 +131,7 @@ Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: 200
-Website: Gauteng Provincial Safety Forum - Status: 200
+Website: Gauteng Provincial Safety Forum - Status: Offline
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
