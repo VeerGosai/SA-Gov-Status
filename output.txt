@@ -115,7 +115,7 @@ Website: Emalahleni Local Municipality (alternate domain) - Status: 200
 Website: Emfuleni Local Municipality - Status: 200
 Website: Endumeni Municipality - Status: 200
 Website: E-Services Portal - Status: 200
-Website: E-Tenders Portal - Status: Offline
+Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
 Website: Frances Baard Municipality - Status: 200
@@ -223,9 +223,9 @@ Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
-Website: Mangosuthu University of Technology - Status: 200
+Website: Mangosuthu University of Technology - Status: Offline
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
