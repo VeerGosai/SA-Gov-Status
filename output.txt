@@ -150,7 +150,7 @@ Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
 Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
-Website: Greater Tzaneen Municipality - Status: 200
+Website: Greater Tzaneen Municipality - Status: Offline
 Website: Hanis Municipality - Status: Offline
 Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: 200
+Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -266,7 +266,7 @@ Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
-Website: Ndwedwe Municipality - Status: 200
+Website: Ndwedwe Municipality - Status: Offline
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
@@ -346,11 +346,11 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: Offline
+Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
@@ -394,7 +394,7 @@ Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
 Website: Umlalazi Local Municipality - Status: 200
-Website: Umngeni Local Municipality - Status: Offline
+Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
