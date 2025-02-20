@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: 200
+Website: Cape Winelands District Municipality - Status: Offline
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -282,7 +282,7 @@ Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: 200
 Website: Northern Cape (Province) - Status: Offline
-Website: Northern Cape Legislature - Status: 200
+Website: Northern Cape Legislature - Status: Offline
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
