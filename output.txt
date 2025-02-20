@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: Offline
+Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -436,7 +436,7 @@ Website: Western Cape Government - Status: Offline
 Website: Western Cape Government - Status: 200
 Website: Western Cape Government Library Service - Status: Offline
 Website: Western Cape Government Schools - Status: Offline
-Website: Western Cape Law Advisors - Status: Offline
+Website: Western Cape Law Advisors - Status: 200
 Website: Western Cape Provincial Parliament - Status: 200
 Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
 Website: Witrand Hospital - Status: 200
