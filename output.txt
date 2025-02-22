@@ -26,7 +26,7 @@ Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
 Website: Chris Hani District Municipality - Status: Offline
-Website: City of Cape Town - Status: 200
+Website: City of Cape Town - Status: Offline
 Website: City of Durban - Status: Offline
 Website: Civil Service Portal - Status: Offline
 Website: Cloud Management Portal - Status: Offline
@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: 200
+Website: Mhlontlo Municipality - Status: Offline
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
