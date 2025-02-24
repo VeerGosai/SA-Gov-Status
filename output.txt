@@ -204,7 +204,7 @@ Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
-Website: KZN Provincial Treasury - Status: Offline
+Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
