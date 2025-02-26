@@ -34,7 +34,7 @@ Website: Community Development Association - Status: Offline
 Website: Crisis and Prevention Response - Status: Offline
 Website: Customer Portal - Status: Offline
 Website: Cybersecurity Hub - Status: 200
-Website: Limpopo Department of Agriculture and Rural Development - Status: 200
+Website: Limpopo Department of Agriculture and Rural Development - Status: Offline
 Website: Department of Agriculture - Status: Offline
 Website: Department of Agriculture - Status: Offline
 Website: Department of Arts and Culture - Status: Offline
@@ -187,7 +187,7 @@ Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: 200
-Website: KwaZulu-Natal Archives - Status: Offline
+Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
