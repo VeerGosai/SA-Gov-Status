@@ -90,7 +90,7 @@ Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
 Website: Eastern Cape Department of Education: Schools - Status: Offline
 Website: Eastern Cape Department of Health - Status: 200
-Website: Eastern Cape Department of Public Works - Status: Offline
+Website: Eastern Cape Department of Public Works - Status: 200
 Website: Eastern Cape Department of Social Development - Status: Offline
 Website: Eastern Cape Department of Transport - Status: 200
 Website: Eastern Cape Legislature - Status: Offline
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: 200
+Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
