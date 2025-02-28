@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: 200
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
@@ -24,7 +24,7 @@ Website: Cape Town (Metro Municipality) - Status: 200
 Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
-Website: Central University of Technology - Status: Offline
+Website: Central University of Technology - Status: 200
 Website: Chris Hani District Municipality - Status: Offline
 Website: City of Cape Town - Status: 200
 Website: City of Durban - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
@@ -240,7 +240,7 @@ Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
-Website: Moqhaka Municipality - Status: 200
+Website: Moqhaka Municipality - Status: Offline
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
@@ -322,7 +322,7 @@ Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
-Website: Richards Bay Municipality - Status: 200
+Website: Richards Bay Municipality - Status: Offline
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: Offline
