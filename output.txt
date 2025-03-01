@@ -187,7 +187,7 @@ Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: 200
-Website: KwaZulu-Natal Archives - Status: 200
+Website: KwaZulu-Natal Archives - Status: Offline
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
@@ -407,7 +407,7 @@ Website: Umzinyathi District Municipality - Status: 200
 Website: Umzumbe Local Municipality - Status: 200
 Website: University of Cape Town - Status: 200
 Website: University of Fort Hare - Status: 200
-Website: University of Johannesburg - Status: Offline
+Website: University of Johannesburg - Status: 200
 Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
 Website: University of Mpumalanga - Status: 200
