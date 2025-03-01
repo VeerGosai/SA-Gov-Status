@@ -2,7 +2,7 @@ name: Check Website Status
 
 on:
   schedule:
-    - cron: '* * * * *'  # Adjust schedule as needed
+    - cron: '0 * * * *'  # Adjust schedule as needed
   workflow_dispatch:
 
 permissions:
