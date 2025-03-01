@@ -43,7 +43,7 @@ Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
 Website: Department of Economic Development - Status: 200
-Website: Department of Employment and Labour - Status: Offline
+Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
@@ -303,7 +303,7 @@ Website: Oudtshoorn Municipality - Status: Offline
 Website: Oudtshoorn Municipality - Status: 200
 Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
-Website: Parliament of South Africa - Status: Offline
+Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
 Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
