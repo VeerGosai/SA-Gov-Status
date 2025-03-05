@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: 200
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: Offline
+Website: Amajuba District Municipality - Status: 200
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
@@ -211,10 +211,10 @@ Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
-Website: Limpopo (Province) - Status: 200
+Website: Limpopo (Province) - Status: Offline
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
-Website: Limpopo Provincial Government - Status: 200
+Website: Limpopo Provincial Government - Status: Offline
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
