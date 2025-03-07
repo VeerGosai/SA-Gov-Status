@@ -259,7 +259,7 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: Offline
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: 200
+Website: National Disaster Management Centre - Status: Offline
 Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
