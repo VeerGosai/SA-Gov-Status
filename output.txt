@@ -107,7 +107,7 @@ Website: Ekhuruleni District Municipality - Status: Offline
 Website: Ekurhuleni (Metro Municipality) - Status: 200
 Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
-Website: Electronic Disclosure - Status: 200
+Website: Electronic Disclosure - Status: Offline
 Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
@@ -135,7 +135,7 @@ Website: Gauteng Provincial Safety Forum - Status: Offline
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
-Website: Government Commerce Portal - Status: Offline
+Website: Government Commerce Portal - Status: 200
 Website: Government Communication and Information System - Status: 200
 Website: Government Employees Medical Scheme - Status: 200
 Website: Government Employees Pension Fund - Status: Offline
@@ -236,15 +236,15 @@ Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
-Website: Mkhondo Municipality - Status: 200
+Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: Offline
+Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
