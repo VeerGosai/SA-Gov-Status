@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -303,7 +303,7 @@ Website: Oudtshoorn Municipality - Status: Offline
 Website: Oudtshoorn Municipality - Status: 200
 Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
-Website: Parliament of South Africa - Status: 200
+Website: Parliament of South Africa - Status: Offline
 Website: Parys Municipality - Status: Offline
 Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: Offline
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: 200
+Website: Rustenburg Municipality - Status: Offline
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
@@ -336,7 +336,7 @@ Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
-Website: Setsoto Municipality - Status: 200
+Website: Setsoto Municipality - Status: Offline
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
