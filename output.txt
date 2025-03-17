@@ -352,7 +352,7 @@ Website: South African Government Network Services - Status: Offline
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
-Website: South African News Agency - Status: Offline
+Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
