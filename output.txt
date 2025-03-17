@@ -176,7 +176,7 @@ Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
-Website: Kgatelopele Municipality - Status: Offline
+Website: Kgatelopele Municipality - Status: 200
 Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
@@ -381,7 +381,7 @@ Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: 200
 Website: Trans Caledon Tunnel Authority - Status: 200
 Website: Transport and Development Authority - Status: 200
-Website: Tsantsabane Local Municipality - Status: Offline
+Website: Tsantsabane Local Municipality - Status: 200
 Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
