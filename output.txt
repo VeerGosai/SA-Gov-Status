@@ -305,7 +305,7 @@ Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: 200
+Website: Phokwane Municipality - Status: Offline
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -436,7 +436,7 @@ Website: Western Cape Government - Status: Offline
 Website: Western Cape Government - Status: 200
 Website: Western Cape Government Library Service - Status: Offline
 Website: Western Cape Government Schools - Status: Offline
-Website: Western Cape Law Advisors - Status: 200
+Website: Western Cape Law Advisors - Status: Offline
 Website: Western Cape Provincial Parliament - Status: 200
 Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
 Website: Witrand Hospital - Status: 200
