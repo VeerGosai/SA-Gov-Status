@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: 200
+Website: Mhlontlo Municipality - Status: Offline
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
@@ -258,7 +258,7 @@ Website: Municipal Infrastructure Support Agent - Status: 200
 Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: Namakwa District Municipality - Status: 200
+Website: Namakwa District Municipality - Status: Offline
 Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
@@ -321,11 +321,11 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
-Website: RSA Retail Bonds - Status: 200
+Website: RSA Retail Bonds - Status: Offline
 Website: RSMO Mapani - Status: Offline
 Website: Rustenburg Municipality - Status: 200
 Website: Safety and Security - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
