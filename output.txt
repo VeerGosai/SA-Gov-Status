@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: 200
+Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -333,8 +333,8 @@ Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
-Website: Sekhukhune District Municipality - Status: Offline
-Website: Sekhukhune District Municipality - Status: Offline
+Website: Sekhukhune District Municipality - Status: 200
+Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
@@ -357,15 +357,15 @@ Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
-Website: SRV Municipality - Status: Offline
-Website: State Diamond Trader - Status: 200
+Website: SRV Municipality - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: 200
 Website: Stellenbosch University - Status: 200
-Website: Steve Tshwete Local Municipality - Status: Offline
-Website: Steve Tshwete Municipality - Status: Offline
+Website: Steve Tshwete Local Municipality - Status: 200
+Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
 Website: Swellendam Municipality - Status: 200
 Website: Taolo Gaetsewe Municipality - Status: 200
