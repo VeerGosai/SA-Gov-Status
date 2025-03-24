@@ -322,7 +322,7 @@ Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: Offline
-Website: Richards Bay Municipality - Status: Offline
+Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: 200
