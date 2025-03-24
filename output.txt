@@ -52,7 +52,7 @@ Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
-Website: Department of International Relations and Cooperation - Status: Offline
+Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
 Website: Department of Military Veterans - Status: Offline
 Website: Department of Mineral Resources - Status: Offline
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -150,7 +150,7 @@ Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
 Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
-Website: Greater Tzaneen Municipality - Status: Offline
+Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
 Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
@@ -210,7 +210,7 @@ Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
-Website: Letsemeng Municipality - Status: Offline
+Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
@@ -239,12 +239,12 @@ Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
-Website: Mopani District Municipality - Status: Offline
+Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -264,7 +264,7 @@ Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
-Website: National Treasury of South Africa - Status: Offline
+Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
@@ -325,7 +325,7 @@ Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
-Website: RSA Retail Bonds - Status: Offline
+Website: RSA Retail Bonds - Status: 200
 Website: RSMO Mapani - Status: Offline
 Website: Rustenburg Municipality - Status: 200
 Website: Safety and Security - Status: Offline
@@ -333,8 +333,8 @@ Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
-Website: Sekhukhune District Municipality - Status: Offline
-Website: Sekhukhune District Municipality - Status: Offline
+Website: Sekhukhune District Municipality - Status: 200
+Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
