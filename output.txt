@@ -200,7 +200,7 @@ Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
-Website: KZN Education - Status: 200
+Website: KZN Education - Status: Offline
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
@@ -315,8 +315,8 @@ Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
-Website: Public Service Commission - Status: 200
-Website: Ramotshere Moiloa Municipality - Status: 200
+Website: Public Service Commission - Status: Offline
+Website: Ramotshere Moiloa Municipality - Status: Offline
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: Offline
 Website: South African Labour Market Information System - Status: Offline
