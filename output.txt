@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: Offline
+Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -158,10 +158,10 @@ Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe Local Municipality - Status: Offline
+Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
-Website: Independent Police Investigative Directorate - Status: Offline
+Website: Independent Police Investigative Directorate - Status: 200
 Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: Offline
+Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -277,7 +277,7 @@ Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
-Website: Non-Profit Organizations - Status: Offline
+Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: 200
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: 200
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: Offline
+Website: Rustenburg Municipality - Status: 200
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
