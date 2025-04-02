@@ -187,7 +187,7 @@ Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: 200
-Website: KwaZulu-Natal Archives - Status: Offline
+Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: Offline
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -255,7 +255,7 @@ Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
-Website: Municipal Money - Status: 200
+Website: Municipal Money - Status: Offline
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
