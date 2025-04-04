@@ -79,7 +79,7 @@ Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
 Website: Digital Technologies - Status: Offline
 Website: Dihlabeng Municipality - Status: 200
-Website: Dikgatlong Municipality - Status: Offline
+Website: Dikgatlong Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
