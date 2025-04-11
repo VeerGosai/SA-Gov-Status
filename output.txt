@@ -249,7 +249,7 @@ Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
-Website: Mpumalanga Provincial Government - Status: 200
+Website: Mpumalanga Provincial Government - Status: Offline
 Website: Msunduzi Municipality - Status: Offline
 Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
