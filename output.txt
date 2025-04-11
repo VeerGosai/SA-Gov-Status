@@ -190,7 +190,7 @@ Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
-Website: KZN Department of Agriculture and Rural Development - Status: Offline
+Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
-Website: Sefako Makgatho Health Sciences University - Status: Offline
+Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
