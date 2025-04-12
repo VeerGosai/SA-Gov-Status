@@ -119,14 +119,14 @@ Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
 Website: Frances Baard Municipality - Status: 200
-Website: Free State (Province) - Status: Offline
+Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
 Website: Free State Transport and Logistics Management - Status: 200
 Website: Gamagara Municipality - Status: Offline
 Website: Garden Route District Municipality - Status: 200
-Website: Garden Route District Municipality (alternate domain) - Status: Offline
+Website: Garden Route District Municipality (alternate domain) - Status: 200
 Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
-Website: Sefako Makgatho Health Sciences University - Status: Offline
+Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: Offline
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: Offline
 Website: Vhembe District Local Municipality - Status: 200
