@@ -150,7 +150,7 @@ Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
 Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
-Website: Greater Tzaneen Municipality - Status: Offline
+Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
 Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
@@ -190,7 +190,7 @@ Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: 200
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
-Website: KZN Department of Agriculture and Rural Development - Status: Offline
+Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
