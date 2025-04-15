@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: 200
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: Offline
+Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
