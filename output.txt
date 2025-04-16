@@ -61,7 +61,7 @@ Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
 Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
-Website: Department of Rural Development and Agrarian Reform - Status: Offline
+Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: Offline
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
