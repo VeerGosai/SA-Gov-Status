@@ -50,7 +50,7 @@ Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: Offline
-Website: Department of Home Affairs - Status: 200
+Website: Department of Home Affairs - Status: Offline
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
@@ -90,7 +90,7 @@ Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
 Website: Eastern Cape Department of Education: Schools - Status: Offline
 Website: Eastern Cape Department of Health - Status: 200
-Website: Eastern Cape Department of Public Works - Status: Offline
+Website: Eastern Cape Department of Public Works - Status: 200
 Website: Eastern Cape Department of Social Development - Status: Offline
 Website: Eastern Cape Department of Transport - Status: 200
 Website: Eastern Cape Legislature - Status: Offline
@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
-Website: Sefako Makgatho Health Sciences University - Status: Offline
+Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
