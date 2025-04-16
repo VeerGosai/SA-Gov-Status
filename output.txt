@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
-Website: Sefako Makgatho Health Sciences University - Status: 200
+Website: Sefako Makgatho Health Sciences University - Status: Offline
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
