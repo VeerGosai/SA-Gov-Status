@@ -59,7 +59,7 @@ Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: 200
 Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
-Website: Department of Public Service and Administration - Status: 200
+Website: Department of Public Service and Administration - Status: Offline
 Website: Department of Public Works - Status: Offline
 Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
@@ -98,7 +98,7 @@ Website: Eastern Cape Office of the Premier - Status: 200
 Website: Eastern Cape Provincial Government - Status: Offline
 Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
-Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: Offline
+Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
 Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
@@ -238,7 +238,7 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: Offline
+Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
@@ -259,10 +259,10 @@ Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
-Website: National Disaster Management Centre - Status: 200
+Website: National Disaster Management Centre - Status: Offline
 Website: National Information System for Provincial Infrastructure - Status: 200
 Website: National Information Systems - Status: Offline
-Website: National Prosecuting Authority - Status: 200
+Website: National Prosecuting Authority - Status: Offline
 Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
@@ -315,13 +315,13 @@ Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
-Website: Public Service Commission - Status: 200
+Website: Public Service Commission - Status: Offline
 Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
