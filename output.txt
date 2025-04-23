@@ -254,7 +254,7 @@ Website: Msunduzi Municipality - Status: Offline
 Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
-Website: Municipal Infrastructure Support Agent - Status: Offline
+Website: Municipal Infrastructure Support Agent - Status: 200
 Website: Municipal Money - Status: 200
 Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
@@ -343,7 +343,7 @@ Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
 Website: Siyathemba Municipality - Status: 200
-Website: Small Business Ministry - Status: 200
+Website: Small Business Ministry - Status: Offline
 Website: Small Medium and Micro Enterprises - Status: 200
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
