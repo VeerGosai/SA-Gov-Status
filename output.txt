@@ -104,8 +104,8 @@ Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
-Website: Ekurhuleni (Metro Municipality) - Status: 200
-Website: Ekurhuleni Metropolitan Municipality - Status: 200
+Website: Ekurhuleni (Metro Municipality) - Status: Offline
+Website: Ekurhuleni Metropolitan Municipality - Status: Offline
 Website: E-Learning Portal - Status: 200
 Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
@@ -236,7 +236,7 @@ Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
-Website: Mkhondo Municipality - Status: Offline
+Website: Mkhondo Municipality - Status: 200
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
