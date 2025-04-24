@@ -183,7 +183,7 @@ Website: Kharahais Municipality - Status: 200
 Website: Knysna Municipality - Status: 200
 Website: Kokstad Municipality - Status: 200
 Website: Kopanong Municipality - Status: 200
-Website: Kouga Municipality - Status: Offline
+Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: Offline
 Website: KwaZulu-Natal (Province) - Status: 200
