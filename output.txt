@@ -1,7 +1,7 @@
 Website: Albert Luthuli Municipality - Status: 200
 Website: Alfred Duma Municipality - Status: 200
 Website: Amahlathi Municipality - Status: 200
-Website: Amajuba District Municipality - Status: 200
+Website: Amajuba District Municipality - Status: Offline
 Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
@@ -104,8 +104,8 @@ Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
-Website: Ekurhuleni (Metro Municipality) - Status: Offline
-Website: Ekurhuleni Metropolitan Municipality - Status: Offline
+Website: Ekurhuleni (Metro Municipality) - Status: 200
+Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
 Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
