@@ -73,7 +73,7 @@ Website: Department of Telecommunications and Postal Services - Status: Offline
 Website: Department of Tourism - Status: 200
 Website: Department of Trade and Industry - Status: Offline
 Website: Department of Transport - Status: Offline
-Website: Department of Water and Sanitation - Status: 200
+Website: Department of Water and Sanitation - Status: Offline
 Website: Department of Women - Status: Offline
 Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: Offline
+Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
