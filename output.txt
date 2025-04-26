@@ -59,7 +59,7 @@ Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: 200
 Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
-Website: Department of Public Service and Administration - Status: 200
+Website: Department of Public Service and Administration - Status: Offline
 Website: Department of Public Works - Status: Offline
 Website: Department of Rural Development and Agrarian Reform - Status: 200
 Website: Department of Rural Development and Land Reform - Status: Offline
