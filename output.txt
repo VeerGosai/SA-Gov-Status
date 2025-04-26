@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -268,13 +268,13 @@ Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
-Website: Nelson Mandela Bay Municipality - Status: 200
+Website: Nelson Mandela Bay (Metro Municipality) - Status: Offline
+Website: Nelson Mandela Bay Municipality - Status: Offline
 Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
-Website: Nkomazi Municipality - Status: 200
+Website: Nkomazi Municipality - Status: Offline
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
@@ -309,7 +309,7 @@ Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
-Website: Pixley Ka Isaka Seme Municipality - Status: 200
+Website: Pixley Ka Isaka Seme Municipality - Status: Offline
 Website: Plettenberg Bay Municipality - Status: Offline
 Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -333,7 +333,7 @@ Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
-Website: Sekhukhune District Municipality - Status: 200
+Website: Sekhukhune District Municipality - Status: Offline
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -420,7 +420,7 @@ Website: University of Venda - Status: 200
 Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
-Website: Vhembe District Local Municipality - Status: 200
+Website: Vhembe District Local Municipality - Status: Offline
 Website: Vhembe District Municipal Council - Status: Offline
 Website: Vhembe District Municipality - Status: 200
 Website: Vhembe District Natural Resources Authority - Status: Offline
