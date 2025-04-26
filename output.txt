@@ -181,7 +181,7 @@ Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
 Website: Knysna Municipality - Status: 200
-Website: Kokstad Municipality - Status: 200
+Website: Kokstad Municipality - Status: Offline
 Website: Kopanong Municipality - Status: 200
 Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
@@ -388,12 +388,12 @@ Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: Offline
 Website: Ubuntu Local Municipality - Status: 200
 Website: Ugu District Municipality - Status: 200
-Website: Ukhahlamba District Municipality - Status: 200
+Website: Ukhahlamba District Municipality - Status: Offline
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
-Website: Umlalazi Local Municipality - Status: 200
+Website: Umlalazi Local Municipality - Status: Offline
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
