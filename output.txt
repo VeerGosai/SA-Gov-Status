@@ -412,7 +412,7 @@ Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
 Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: 200
-Website: University of South Africa - Status: 200
+Website: University of South Africa - Status: Offline
 Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
@@ -428,7 +428,7 @@ Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
 Website: Vulekamali - Status: Offline
-Website: Walter Sisulu University - Status: 200
+Website: Walter Sisulu University - Status: Offline
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
 Website: Western Cape Gambling and Racing Board - Status: Offline
