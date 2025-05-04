@@ -79,8 +79,8 @@ Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
 Website: Digital Technologies - Status: Offline
 Website: Dihlabeng Municipality - Status: 200
-Website: Dikgatlong Municipality - Status: 200
-Website: Ditsobotla Local Municipality - Status: 200
+Website: Dikgatlong Municipality - Status: Offline
+Website: Ditsobotla Local Municipality - Status: Offline
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
@@ -169,7 +169,7 @@ Website: IYM Government Portal - Status: 200
 Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: Offline
-Website: Kagiso Nomolopol Municipality - Status: Offline
+Website: Kagiso Nomolopol Municipality - Status: 200
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
 Website: Kannaland Municipality - Status: 200
@@ -219,7 +219,7 @@ Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
-Website: Magareng Municipality - Status: 200
+Website: Magareng Municipality - Status: Offline
 Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
@@ -342,7 +342,7 @@ Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
-Website: Siyathemba Municipality - Status: 200
+Website: Siyathemba Municipality - Status: Offline
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
@@ -378,7 +378,7 @@ Website: Theewaterskloof Municipality - Status: 200
 Website: Thembelihle Municipality - Status: 200
 Website: Thembisile Hani Local Municipality - Status: 200
 Website: Thembisile Hani Municipality - Status: 200
-Website: Tokologo Local Municipality - Status: 200
+Website: Tokologo Local Municipality - Status: Offline
 Website: Trans Caledon Tunnel Authority - Status: 200
 Website: Transport and Development Authority - Status: 200
 Website: Tsantsabane Local Municipality - Status: 200
