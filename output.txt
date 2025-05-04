@@ -169,7 +169,7 @@ Website: IYM Government Portal - Status: 200
 Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: Offline
-Website: Kagiso Nomolopol Municipality - Status: 200
+Website: Kagiso Nomolopol Municipality - Status: Offline
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
 Website: Kannaland Municipality - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
