@@ -6,7 +6,7 @@ Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
-Website: Biz Portal - Status: 200
+Website: Biz Portal - Status: Offline
 Website: Blueprint Government Portal - Status: 200
 Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
@@ -156,7 +156,7 @@ Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
@@ -327,7 +327,7 @@ Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: 200
 Website: RSMO Mapani - Status: Offline
-Website: Rustenburg Municipality - Status: 200
+Website: Rustenburg Municipality - Status: Offline
 Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
