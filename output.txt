@@ -6,7 +6,7 @@ Website: Amathole District Municipality - Status: Offline
 Website: Bafokeng Municipality - Status: Offline
 Website: Ba-Phalaborwa Municipality - Status: Offline
 Website: Big Five Hlabisa Municipality - Status: 200
-Website: Biz Portal - Status: 200
+Website: Biz Portal - Status: Offline
 Website: Blueprint Government Portal - Status: 200
 Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: 200
+Website: University of Zululand - Status: Offline
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
