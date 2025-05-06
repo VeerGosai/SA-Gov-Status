@@ -53,7 +53,7 @@ Website: Department of Higher Education and Training - Status: Offline
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
-Website: Department of Justice and Constitutional Development - Status: 200
+Website: Department of Justice and Constitutional Development - Status: Offline
 Website: Department of Military Veterans - Status: Offline
 Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: 200
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -238,13 +238,13 @@ Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
-Website: Mogale City Municipality - Status: Offline
+Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
