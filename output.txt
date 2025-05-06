@@ -348,7 +348,7 @@ Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
-Website: South African Government Network Services - Status: 200
+Website: South African Government Network Services - Status: Offline
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
@@ -385,7 +385,7 @@ Website: Tsantsabane Local Municipality - Status: 200
 Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
-Website: Tswelopele Municipality - Status: Offline
+Website: Tswelopele Municipality - Status: 200
 Website: Ubuntu Local Municipality - Status: 200
 Website: Ugu District Municipality - Status: 200
 Website: Ukhahlamba District Municipality - Status: 200
