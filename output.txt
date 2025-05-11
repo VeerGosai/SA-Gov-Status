@@ -260,7 +260,7 @@ Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: National Disaster Management Centre - Status: 200
-Website: National Information System for Provincial Infrastructure - Status: 200
+Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
@@ -277,7 +277,7 @@ Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
-Website: Non-Profit Organizations - Status: 200
+Website: Non-Profit Organizations - Status: Offline
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: 200
@@ -322,7 +322,7 @@ Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
-Website: Richards Bay Municipality - Status: 200
+Website: Richards Bay Municipality - Status: Offline
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
 Website: RSA Retail Bonds - Status: 200
