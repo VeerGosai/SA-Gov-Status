@@ -78,7 +78,7 @@ Website: Department of Women - Status: Offline
 Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
 Website: Digital Technologies - Status: Offline
-Website: Dihlabeng Municipality - Status: Offline
+Website: Dihlabeng Municipality - Status: 200
 Website: Dikgatlong Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
@@ -127,7 +127,7 @@ Website: Free State Transport and Logistics Management - Status: 200
 Website: Gamagara Municipality - Status: Offline
 Website: Garden Route District Municipality - Status: 200
 Website: Garden Route District Municipality (alternate domain) - Status: 200
-Website: Gauteng (Province) - Status: Offline
+Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -332,7 +332,7 @@ Website: Safety and Security - Status: Offline
 Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
-Website: Sefako Makgatho Health Sciences University - Status: Offline
+Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
@@ -381,7 +381,7 @@ Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: 200
 Website: Trans Caledon Tunnel Authority - Status: 200
 Website: Transport and Development Authority - Status: 200
-Website: Tsantsabane Local Municipality - Status: Offline
+Website: Tsantsabane Local Municipality - Status: 200
 Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: 200
