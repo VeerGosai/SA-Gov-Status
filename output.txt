@@ -188,7 +188,7 @@ Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: Offline
 Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: Offline
-Website: KwaZulu-Natal CoGTA - Status: 200
+Website: KwaZulu-Natal CoGTA - Status: Offline
 Website: KwaZulu-Natal Community Safety - Status: 200
 Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -412,7 +412,7 @@ Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
 Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: 200
-Website: University of South Africa - Status: 200
+Website: University of South Africa - Status: Offline
 Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
