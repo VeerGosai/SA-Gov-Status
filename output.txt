@@ -104,8 +104,8 @@ Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
-Website: Ekurhuleni (Metro Municipality) - Status: 200
-Website: Ekurhuleni Metropolitan Municipality - Status: 200
+Website: Ekurhuleni (Metro Municipality) - Status: Offline
+Website: Ekurhuleni Metropolitan Municipality - Status: Offline
 Website: E-Learning Portal - Status: 200
 Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
@@ -156,7 +156,7 @@ Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -277,7 +277,7 @@ Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
-Website: Non-Profit Organizations - Status: 200
+Website: Non-Profit Organizations - Status: Offline
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: Offline
