@@ -386,7 +386,7 @@ Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: 200
-Website: Ubuntu Local Municipality - Status: 200
+Website: Ubuntu Local Municipality - Status: Offline
 Website: Ugu District Municipality - Status: 200
 Website: Ukhahlamba District Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
