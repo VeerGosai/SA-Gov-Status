@@ -226,7 +226,7 @@ Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
 Website: Matatiele Municipality - Status: 200
-Website: Matlosana Municipality - Status: Offline
+Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
