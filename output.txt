@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: Offline
+Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
