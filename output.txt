@@ -190,7 +190,7 @@ Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: Offline
 Website: KwaZulu-Natal CoGTA - Status: 200
 Website: KwaZulu-Natal Community Safety - Status: 200
-Website: KZN Department of Agriculture and Rural Development - Status: Offline
+Website: KZN Department of Agriculture and Rural Development - Status: 200
 Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
