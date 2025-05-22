@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
@@ -277,7 +277,7 @@ Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
-Website: Non-Profit Organizations - Status: Offline
+Website: Non-Profit Organizations - Status: 200
 Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: Offline
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: Offline
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
