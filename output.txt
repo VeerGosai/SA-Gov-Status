@@ -107,7 +107,7 @@ Website: Ekhuruleni District Municipality - Status: Offline
 Website: Ekurhuleni (Metro Municipality) - Status: 200
 Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
-Website: Electronic Disclosure - Status: 200
+Website: Electronic Disclosure - Status: Offline
 Website: Emakhazeni Local Municipality - Status: Offline
 Website: Emakhazeni Municipality - Status: 200
 Website: Emalahleni Local Municipality - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -343,7 +343,7 @@ Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
 Website: Siyathemba Municipality - Status: 200
-Website: Small Business Ministry - Status: 200
+Website: Small Business Ministry - Status: Offline
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
