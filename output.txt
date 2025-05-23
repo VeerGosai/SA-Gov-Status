@@ -343,10 +343,10 @@ Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
 Website: Siyathemba Municipality - Status: 200
-Website: Small Business Ministry - Status: Offline
+Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: 200
+Website: Sol Plaatje University - Status: Offline
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
