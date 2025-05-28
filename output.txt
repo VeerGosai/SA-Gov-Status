@@ -43,14 +43,14 @@ Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: Offline
 Website: Department of Economic Development - Status: 200
-Website: Department of Employment and Labour - Status: Offline
+Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
-Website: Department of Home Affairs - Status: Offline
+Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
@@ -244,8 +244,8 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
-Website: Mpofana Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: 200
+Website: Mpofana Municipality - Status: Offline
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: Offline
