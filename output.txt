@@ -104,8 +104,8 @@ Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
-Website: Ekurhuleni (Metro Municipality) - Status: Offline
-Website: Ekurhuleni Metropolitan Municipality - Status: Offline
+Website: Ekurhuleni (Metro Municipality) - Status: 200
+Website: Ekurhuleni Metropolitan Municipality - Status: 200
 Website: E-Learning Portal - Status: 200
 Website: Electronic Disclosure - Status: 200
 Website: Emakhazeni Local Municipality - Status: Offline
@@ -236,7 +236,7 @@ Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
-Website: Mkhondo Municipality - Status: 200
+Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: Offline
 Website: Mopani District Municipality - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: Offline
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: Offline
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -343,7 +343,7 @@ Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: 200
 Website: Siyathemba Municipality - Status: 200
-Website: Small Business Ministry - Status: Offline
+Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
