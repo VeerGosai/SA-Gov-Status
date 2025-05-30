@@ -78,7 +78,7 @@ Website: Department of Women - Status: Offline
 Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
 Website: Digital Technologies - Status: Offline
-Website: Dihlabeng Municipality - Status: Offline
+Website: Dihlabeng Municipality - Status: 200
 Website: Dikgatlong Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: Offline
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: 200
+Website: Matatiele Municipality - Status: Offline
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
