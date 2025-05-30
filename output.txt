@@ -24,7 +24,7 @@ Website: Cape Town (Metro Municipality) - Status: 200
 Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
-Website: Central University of Technology - Status: Offline
+Website: Central University of Technology - Status: 200
 Website: Chris Hani District Municipality - Status: 200
 Website: City of Cape Town - Status: 200
 Website: City of Durban - Status: Offline
@@ -364,8 +364,8 @@ Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: 200
 Website: Stellenbosch University - Status: 200
-Website: Steve Tshwete Local Municipality - Status: Offline
-Website: Steve Tshwete Municipality - Status: Offline
+Website: Steve Tshwete Local Municipality - Status: 200
+Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
 Website: Swellendam Municipality - Status: 200
 Website: Taolo Gaetsewe Municipality - Status: 200
@@ -417,7 +417,7 @@ Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
 Website: University of Venda - Status: 200
-Website: University of Zululand - Status: Offline
+Website: University of Zululand - Status: 200
 Website: Uthukela District Municipality - Status: Offline
 Website: Vaal University of Technology - Status: 200
 Website: Vhembe District Local Municipality - Status: Offline
