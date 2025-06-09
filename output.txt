@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: 200
+Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -303,7 +303,7 @@ Website: Oudtshoorn Municipality - Status: Offline
 Website: Oudtshoorn Municipality - Status: 200
 Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
-Website: Parliament of South Africa - Status: Offline
+Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
 Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
