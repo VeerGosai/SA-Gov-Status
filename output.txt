@@ -59,7 +59,7 @@ Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: 200
 Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
-Website: Department of Public Service and Administration - Status: Offline
+Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
 Website: Department of Rural Development and Agrarian Reform - Status: Offline
 Website: Department of Rural Development and Land Reform - Status: Offline
@@ -100,7 +100,7 @@ Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
 Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
-Website: Edumbe Municipality - Status: 200
+Website: Edumbe Municipality - Status: Offline
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
@@ -118,7 +118,7 @@ Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
-Website: Frances Baard Municipality - Status: Offline
+Website: Frances Baard Municipality - Status: 200
 Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
@@ -176,7 +176,7 @@ Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
-Website: Kgatelopele Municipality - Status: 200
+Website: Kgatelopele Municipality - Status: Offline
 Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: 200
@@ -208,7 +208,7 @@ Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
-Website: Langeberg Municipality - Status: Offline
+Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -374,7 +374,7 @@ Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: Thabo Mofutsanyana District Municipality - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: The Presidency of South Africa - Status: 200
-Website: Theewaterskloof Municipality - Status: 200
+Website: Theewaterskloof Municipality - Status: Offline
 Website: Thembelihle Municipality - Status: 200
 Website: Thembisile Hani Local Municipality - Status: 200
 Website: Thembisile Hani Municipality - Status: 200
