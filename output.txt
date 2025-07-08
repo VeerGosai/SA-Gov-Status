@@ -16,7 +16,7 @@ Website: Buffalo City (Metro Municipality) - Status: 200
 Website: Buffalo City Metropolitan Municipality - Status: 200
 Website: Buffalo City Municipality - Status: 200
 Website: Bushbuckridge Local Municipality - Status: 200
-Website: Bushbuckridge Municipality - Status: Offline
+Website: Bushbuckridge Municipality - Status: 200
 Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
@@ -208,7 +208,7 @@ Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
-Website: Langeberg Municipality - Status: Offline
+Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
@@ -234,7 +234,7 @@ Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
-Website: Mkhambathini Municipality - Status: Offline
+Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: Offline
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: 200
+Website: Mtubatuba Municipality - Status: Offline
 Website: Municipal Energy and Governance Agency - Status: 200
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -311,7 +311,7 @@ Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
 Website: Pixley Ka Isaka Seme Municipality - Status: 200
 Website: Plettenberg Bay Municipality - Status: Offline
-Website: Polokwane Municipality - Status: Offline
+Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
@@ -393,7 +393,7 @@ Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
-Website: Umlalazi Local Municipality - Status: 200
+Website: Umlalazi Local Municipality - Status: Offline
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
