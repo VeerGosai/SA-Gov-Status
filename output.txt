@@ -225,7 +225,7 @@ Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
-Website: Matatiele Municipality - Status: Offline
+Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
@@ -305,7 +305,7 @@ Website: Overstrand Municipality - Status: 200
 Website: Pan African Municipalities - Status: 200
 Website: Parliament of South Africa - Status: 200
 Website: Parys Municipality - Status: Offline
-Website: Phokwane Municipality - Status: 200
+Website: Phokwane Municipality - Status: Offline
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
@@ -393,7 +393,7 @@ Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
-Website: Umlalazi Local Municipality - Status: Offline
+Website: Umlalazi Local Municipality - Status: 200
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
