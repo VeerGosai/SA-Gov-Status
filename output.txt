@@ -100,7 +100,7 @@ Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
 Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
-Website: Edumbe Municipality - Status: Offline
+Website: Edumbe Municipality - Status: 200
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: 200
 Website: Indaka Municipality - Status: Offline
@@ -224,7 +224,7 @@ Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
-Website: Maphumulo Municipality - Status: Offline
+Website: Maphumulo Municipality - Status: 200
 Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
@@ -243,8 +243,8 @@ Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: Offline
-Website: Mossel Bay Municipality - Status: Offline
+Website: Moses Kotane Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -267,7 +267,7 @@ Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Ndwedwe Municipality - Status: Offline
+Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: Offline
@@ -294,7 +294,7 @@ Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
-Website: Okhahlamba Municipality - Status: Offline
+Website: Okhahlamba Municipality - Status: 200
 Website: Open Source Intelligence System - Status: Offline
 Website: OpenET - Status: Offline
 Website: Operation Vula - Status: Offline
