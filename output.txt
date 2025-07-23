@@ -49,7 +49,7 @@ Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
-Website: Department of Higher Education and Training - Status: 200
+Website: Department of Higher Education and Training - Status: Offline
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: 200
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: 200
+Website: KZN Legislature - Status: Offline
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
@@ -212,7 +212,7 @@ Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
-Website: Limpopo CETA - Status: 200
+Website: Limpopo CETA - Status: Offline
 Website: Limpopo Legislature - Status: 200
 Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
@@ -260,7 +260,7 @@ Website: Musina Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: Namakwa District Municipality - Status: 200
 Website: National Disaster Management Centre - Status: 200
-Website: National Information System for Provincial Infrastructure - Status: 200
+Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
 Website: National Prosecuting Authority - Status: 200
 Website: National Transport Security Information System - Status: Offline
@@ -317,8 +317,8 @@ Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
 Website: Ramotshere Moiloa Municipality - Status: 200
-Website: Rand West City Municipality - Status: Offline
-Website: Rand West City Municipality - Status: Offline
+Website: Rand West City Municipality - Status: 200
+Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
