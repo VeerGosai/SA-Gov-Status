@@ -85,7 +85,7 @@ Website: Dr Abraxas Municipality - Status: 200
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
 Website: Durban University of Technology - Status: 200
-Website: Eastern Cape (Province) - Status: Offline
+Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
 Website: Eastern Cape Department of Education: Schools - Status: Offline
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -244,7 +244,7 @@ Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
 Website: Moses Kotane Municipality - Status: 200
-Website: Mossel Bay Municipality - Status: 200
+Website: Mossel Bay Municipality - Status: Offline
 Website: Mpofana Municipality - Status: Offline
 Website: Mpumalanga (Province) - Status: Offline
 Website: Mpumalanga Department of Education - Status: Offline
@@ -274,7 +274,7 @@ Website: Nelson Mandela University - Status: Offline
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
-Website: Nkomazi Municipality - Status: Offline
+Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
@@ -333,7 +333,7 @@ Website: SARS eFiling - Status: Offline
 Website: Security Operations Centre - Status: Offline
 Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
-Website: Sekhukhune District Municipality - Status: Offline
+Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
