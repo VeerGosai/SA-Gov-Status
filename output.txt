@@ -33,7 +33,7 @@ Website: Cloud Management Portal - Status: Offline
 Website: Community Development Association - Status: Offline
 Website: Crisis and Prevention Response - Status: Offline
 Website: Customer Portal - Status: Offline
-Website: Cybersecurity Hub - Status: 200
+Website: Cybersecurity Hub - Status: Offline
 Website: Limpopo Department of Agriculture and Rural Development - Status: 200
 Website: Department of Agriculture - Status: Offline
 Website: Department of Agriculture - Status: Offline
@@ -51,7 +51,7 @@ Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: Offline
 Website: Department of Home Affairs - Status: 200
-Website: Department of Human Settlements - Status: Offline
+Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
 Website: Department of Military Veterans - Status: Offline
@@ -119,7 +119,7 @@ Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
 Website: Frances Baard Municipality - Status: 200
-Website: Free State (Province) - Status: 200
+Website: Free State (Province) - Status: Offline
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
@@ -127,7 +127,7 @@ Website: Free State Transport and Logistics Management - Status: 200
 Website: Gamagara Municipality - Status: 200
 Website: Garden Route District Municipality - Status: 200
 Website: Garden Route District Municipality (alternate domain) - Status: 200
-Website: Gauteng (Province) - Status: Offline
+Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: 200
@@ -148,7 +148,7 @@ Website: GPGLab Services - Status: Offline
 Website: Greater Giyani Municipality - Status: 200
 Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
-Website: Greater Tzaneen Local Municipality - Status: Offline
+Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
 Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -188,9 +188,9 @@ Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: Offline
 Website: KwaZulu-Natal (Province) - Status: 200
 Website: KwaZulu-Natal Archives - Status: Offline
-Website: KwaZulu-Natal CoGTA - Status: 200
+Website: KwaZulu-Natal CoGTA - Status: Offline
 Website: KwaZulu-Natal Community Safety - Status: Offline
-Website: KZN Department of Agriculture and Rural Development - Status: 200
+Website: KZN Department of Agriculture and Rural Development - Status: Offline
 Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Education - Status: 200
 Website: KZN Department of Health - Status: Offline
@@ -210,7 +210,7 @@ Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
-Website: Letsemeng Municipality - Status: 200
+Website: Letsemeng Municipality - Status: Offline
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
@@ -353,7 +353,7 @@ Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
-Website: South African Police Service - Status: Offline
+Website: South African Police Service - Status: 200
 Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
