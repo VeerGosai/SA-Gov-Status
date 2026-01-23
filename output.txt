@@ -57,7 +57,7 @@ Website: Department of Justice and Constitutional Development - Status: 200
 Website: Department of Military Veterans - Status: Offline
 Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: Offline
-Website: Department of Planning - Status: Offline
+Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
 Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
@@ -224,7 +224,7 @@ Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
-Website: Maphumulo Municipality - Status: Offline
+Website: Maphumulo Municipality - Status: 200
 Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
@@ -294,7 +294,7 @@ Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
 Website: Office of the Status of Women - Status: Offline
-Website: Okhahlamba Municipality - Status: Offline
+Website: Okhahlamba Municipality - Status: 200
 Website: Open Source Intelligence System - Status: Offline
 Website: OpenET - Status: Offline
 Website: Operation Vula - Status: Offline
@@ -319,9 +319,9 @@ Website: Public Service Commission - Status: 200
 Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
-Website: Ratlou Municipality - Status: 200
-Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Ratlou Municipality - Status: Offline
+Website: Raymond Mhlaba Municipality - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
