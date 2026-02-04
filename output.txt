@@ -153,7 +153,7 @@ Website: Greater Tzaneen Municipality - Status: Offline
 Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
 Website: Hantam Municipality - Status: 200
-Website: Harry Gwala District Municipality - Status: 200
+Website: Harry Gwala District Municipality - Status: Offline
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -177,7 +177,7 @@ Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
 Website: Kgatelopele Municipality - Status: 200
-Website: Kgetlengrivier Municipality - Status: Offline
+Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: Offline
 Website: Knysna Municipality - Status: 200
@@ -210,7 +210,7 @@ Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
-Website: Letsemeng Municipality - Status: 200
+Website: Letsemeng Municipality - Status: Offline
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
@@ -243,7 +243,7 @@ Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: 200
+Website: Moses Kotane Municipality - Status: Offline
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
@@ -268,8 +268,8 @@ Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Nelson Mandela Bay (Metro Municipality) - Status: Offline
-Website: Nelson Mandela Bay Municipality - Status: Offline
+Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
+Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: Offline
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: Offline
+Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
