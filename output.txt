@@ -210,7 +210,7 @@ Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
-Website: Letsemeng Municipality - Status: 200
+Website: Letsemeng Municipality - Status: Offline
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
@@ -268,8 +268,8 @@ Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
-Website: Nelson Mandela Bay (Metro Municipality) - Status: Offline
-Website: Nelson Mandela Bay Municipality - Status: Offline
+Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
+Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: Offline
 Website: Ngqushwa Municipality - Status: Offline
 Website: Ngwathe Municipality - Status: Offline
@@ -285,7 +285,7 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: Offline
+Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
