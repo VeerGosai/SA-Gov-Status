@@ -57,7 +57,7 @@ Website: Department of Justice and Constitutional Development - Status: 200
 Website: Department of Military Veterans - Status: Offline
 Website: Department of Mineral Resources - Status: Offline
 Website: Department of Minerals and Energy - Status: Offline
-Website: Department of Planning - Status: Offline
+Website: Department of Planning - Status: 200
 Website: Department of Planning and Environment - Status: Offline
 Website: Department of Public Service and Administration - Status: 200
 Website: Department of Public Works - Status: Offline
@@ -177,7 +177,7 @@ Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
 Website: Kgatelopele Municipality - Status: 200
-Website: Kgetlengrivier Municipality - Status: Offline
+Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
 Website: Kharahais Municipality - Status: Offline
 Website: Knysna Municipality - Status: 200
@@ -285,7 +285,7 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: 200
+Website: Nquthu Municipality - Status: Offline
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
