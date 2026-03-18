@@ -82,7 +82,7 @@ Website: Dihlabeng Municipality - Status: Offline
 Website: Dikgatlong Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: 200
-Website: Dr Kenneth Kaunda District Municipality - Status: Offline
+Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
 Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: 200
+Website: Integrated Justice System - Status: Offline
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -177,9 +177,9 @@ Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
 Website: Kgatelopele Municipality - Status: 200
-Website: Kgetlengrivier Municipality - Status: Offline
+Website: Kgetlengrivier Municipality - Status: 200
 Website: Khaima Municipality - Status: 200
-Website: Kharahais Municipality - Status: Offline
+Website: Kharahais Municipality - Status: 200
 Website: Knysna Municipality - Status: 200
 Website: Kokstad Municipality - Status: 200
 Website: Kopanong Municipality - Status: Offline
@@ -271,14 +271,14 @@ Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: Offline
-Website: Ngqushwa Municipality - Status: Offline
+Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: Offline
 Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
-Website: North West (Province) - Status: Offline
+Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: Offline
 Website: Northern Cape (Province) - Status: Offline
@@ -289,7 +289,7 @@ Website: Nquthu Municipality - Status: Offline
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
-Website: Occupational Health and Safety - Status: Offline
+Website: Occupational Health and Safety - Status: 200
 Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
@@ -321,7 +321,7 @@ Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
-Website: Rhodes University - Status: 200
+Website: Rhodes University - Status: Offline
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
 Website: Richtersveld Municipality - Status: 200
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -428,7 +428,7 @@ Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
 Website: Vulekamali - Status: Offline
-Website: Walter Sisulu University - Status: 200
+Website: Walter Sisulu University - Status: Offline
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
 Website: Western Cape Gambling and Racing Board - Status: Offline
