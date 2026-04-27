@@ -148,7 +148,7 @@ Website: GPGLab Services - Status: Offline
 Website: Greater Giyani Municipality - Status: 200
 Website: Greater Keiskamma Municipality - Status: 200
 Website: Greater Letaba Municipality - Status: 200
-Website: Greater Tzaneen Local Municipality - Status: Offline
+Website: Greater Tzaneen Local Municipality - Status: 200
 Website: Greater Tzaneen Municipality - Status: Offline
 Website: Greater Tzaneen Municipality - Status: 200
 Website: Hanis Municipality - Status: Offline
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -185,7 +185,7 @@ Website: Kokstad Municipality - Status: Offline
 Website: Kopanong Municipality - Status: Offline
 Website: Kouga Municipality - Status: 200
 Website: Kou-Kamma Municipality - Status: 200
-Website: KwaDukuza Municipality - Status: Offline
+Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: Offline
 Website: KwaZulu-Natal Archives - Status: Offline
 Website: KwaZulu-Natal CoGTA - Status: 200
@@ -212,12 +212,12 @@ Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: Offline
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
-Website: Limpopo CETA - Status: Offline
+Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: 200
 Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
-Website: Madibeng Municipality - Status: Offline
+Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
 Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
@@ -285,7 +285,7 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: Offline
+Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
@@ -340,7 +340,7 @@ Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
-Website: Siyancuma Municipality - Status: Offline
+Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: Offline
 Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
@@ -391,7 +391,7 @@ Website: Ugu District Municipality - Status: 200
 Website: Ukhahlamba District Municipality - Status: Offline
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
-Website: Umhlabuyalingana Local Municipality - Status: Offline
+Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
 Website: Umlalazi Local Municipality - Status: Offline
 Website: Umngeni Local Municipality - Status: 200
