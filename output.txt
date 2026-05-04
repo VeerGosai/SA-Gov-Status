@@ -9,7 +9,7 @@ Website: Big Five Hlabisa Municipality - Status: 200
 Website: Biz Portal - Status: Offline
 Website: Blueprint Government Portal - Status: 200
 Website: Bojanala Platinum District Municipality - Status: 200
-Website: Bophirima Municipality - Status: 200
+Website: Bophirima Municipality - Status: Offline
 Website: Breede Valley Municipality - Status: Offline
 Website: Breede Valley Municipality (alternate domain) - Status: Offline
 Website: Buffalo City (Metro Municipality) - Status: 200
@@ -157,12 +157,12 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -336,7 +336,7 @@ Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
-Website: Setsoto Municipality - Status: Offline
+Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: 200
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -375,7 +375,7 @@ Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: The Presidency of South Africa - Status: 200
 Website: The Presidency of South Africa - Status: 200
 Website: Theewaterskloof Municipality - Status: 200
-Website: Thembelihle Municipality - Status: Offline
+Website: Thembelihle Municipality - Status: 200
 Website: Thembisile Hani Local Municipality - Status: 200
 Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: Offline
@@ -399,7 +399,7 @@ Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
 Website: Umuziwabantu Local Municipality - Status: 200
-Website: Umvoti Local Municipality - Status: 200
+Website: Umvoti Local Municipality - Status: Offline
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimvubu Local Municipality - Status: 200
