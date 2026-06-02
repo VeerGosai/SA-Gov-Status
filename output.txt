@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: 200
+Website: Cape Winelands District Municipality - Status: Offline
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -47,11 +47,11 @@ Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
-Website: Department of Health - Status: 200
+Website: Department of Health - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
-Website: Department of Home Affairs - Status: 200
-Website: Department of Human Settlements - Status: Offline
+Website: Department of Home Affairs - Status: Offline
+Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
 Website: Department of Military Veterans - Status: Offline
@@ -90,7 +90,7 @@ Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
 Website: Eastern Cape Department of Education: Schools - Status: Offline
 Website: Eastern Cape Department of Health - Status: 200
-Website: Eastern Cape Department of Public Works - Status: 200
+Website: Eastern Cape Department of Public Works - Status: Offline
 Website: Eastern Cape Department of Social Development - Status: 200
 Website: Eastern Cape Department of Transport - Status: 200
 Website: Eastern Cape Legislature - Status: Offline
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: 200
+Website: Mbombela Municipality - Status: Offline
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -262,7 +262,7 @@ Website: Namakwa District Municipality - Status: 200
 Website: National Disaster Management Centre - Status: 200
 Website: National Information System for Provincial Infrastructure - Status: Offline
 Website: National Information Systems - Status: Offline
-Website: National Prosecuting Authority - Status: 200
+Website: National Prosecuting Authority - Status: Offline
 Website: National Transport Security Information System - Status: Offline
 Website: National Treasury of South Africa - Status: 200
 Website: Ndlambe Municipality - Status: 200
@@ -285,11 +285,11 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: Offline
+Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
-Website: Occupational Health and Safety - Status: 200
+Website: Occupational Health and Safety - Status: Offline
 Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
 Website: Office of the Public Service Commission - Status: Offline
@@ -394,7 +394,7 @@ Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
 Website: Umlalazi Local Municipality - Status: 200
-Website: Umngeni Local Municipality - Status: Offline
+Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
@@ -428,7 +428,7 @@ Website: Victor Khanyile Local Municipality - Status: Offline
 Website: Virtual Government - Status: Offline
 Website: Vukuzenzele - Status: 200
 Website: Vulekamali - Status: Offline
-Website: Walter Sisulu University - Status: 200
+Website: Walter Sisulu University - Status: Offline
 Website: Waste Management System - Status: Offline
 Website: Western Cape (Province) - Status: 200
 Website: Western Cape Gambling and Racing Board - Status: Offline
