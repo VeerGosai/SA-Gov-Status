@@ -89,7 +89,7 @@ Website: Eastern Cape (Province) - Status: Offline
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
 Website: Eastern Cape Department of Education: Schools - Status: Offline
-Website: Eastern Cape Department of Health - Status: 200
+Website: Eastern Cape Department of Health - Status: Offline
 Website: Eastern Cape Department of Public Works - Status: 200
 Website: Eastern Cape Department of Social Development - Status: 200
 Website: Eastern Cape Department of Transport - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
@@ -172,7 +172,7 @@ Website: Johannesburg (Metro Municipality) - Status: Offline
 Website: Kagiso Nomolopol Municipality - Status: Offline
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
-Website: Kannaland Municipality - Status: 200
+Website: Kannaland Municipality - Status: Offline
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
@@ -206,7 +206,7 @@ Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
-Website: Laingsburg Municipality - Status: 200
+Website: Laingsburg Municipality - Status: Offline
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: Offline
@@ -270,7 +270,7 @@ Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
-Website: Nelson Mandela University - Status: Offline
+Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
