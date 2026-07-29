@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: 200
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: Offline
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: Offline
+Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
@@ -221,7 +221,7 @@ Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
 Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
-Website: Mandeni Municipality - Status: 200
+Website: Mandeni Municipality - Status: Offline
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
 Website: Maphumulo Municipality - Status: 200
@@ -236,7 +236,7 @@ Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
-Website: Mkhondo Municipality - Status: 200
+Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
 Website: Mopani District Municipality - Status: 200
@@ -278,7 +278,7 @@ Website: Nkomazi Municipality - Status: 200
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
-Website: North West (Province) - Status: Offline
+Website: North West (Province) - Status: 200
 Website: North West Department of Education and Sports Development - Status: Offline
 Website: North West Provincial Legislature - Status: Offline
 Website: Northern Cape (Province) - Status: Offline
@@ -320,7 +320,7 @@ Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
-Website: Raymond Mhlaba Municipality - Status: Offline
+Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: 200
 Website: Richmond Municipality - Status: 200
@@ -348,7 +348,7 @@ Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
 Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
-Website: South African Government Network Services - Status: Offline
+Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
 Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
@@ -387,7 +387,7 @@ Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: 200
 Website: Ubuntu Local Municipality - Status: 200
-Website: Ugu District Municipality - Status: 200
+Website: Ugu District Municipality - Status: Offline
 Website: Ukhahlamba District Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
@@ -404,7 +404,7 @@ Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimvubu Local Municipality - Status: 200
 Website: Umzinyathi District Municipality - Status: 200
-Website: Umzumbe Local Municipality - Status: 200
+Website: Umzumbe Local Municipality - Status: Offline
 Website: University of Cape Town - Status: 200
 Website: University of Fort Hare - Status: 200
 Website: University of Johannesburg - Status: Offline
