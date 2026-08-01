@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: Offline
+Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -43,7 +43,7 @@ Website: Department of Communications - Status: Offline
 Website: Department of Cooperative Governance and Traditional Affairs - Status: Offline
 Website: Department of Correctional Services - Status: 200
 Website: Department of Economic Development - Status: 200
-Website: Department of Employment and Labour - Status: Offline
+Website: Department of Employment and Labour - Status: 200
 Website: Department of Energy - Status: Offline
 Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: 200
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: Offline
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
@@ -213,7 +213,7 @@ Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
-Website: Limpopo Legislature - Status: 200
+Website: Limpopo Legislature - Status: Offline
 Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
@@ -317,8 +317,8 @@ Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
 Website: Ramotshere Moiloa Municipality - Status: 200
-Website: Rand West City Municipality - Status: 200
-Website: Rand West City Municipality - Status: 200
+Website: Rand West City Municipality - Status: Offline
+Website: Rand West City Municipality - Status: Offline
 Website: Ratlou Municipality - Status: 200
 Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: Offline
+Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -389,7 +389,7 @@ Website: Tswelopele Municipality - Status: 200
 Website: Ubuntu Local Municipality - Status: 200
 Website: Ugu District Municipality - Status: 200
 Website: Ukhahlamba District Municipality - Status: 200
-Website: Ulundi Local Municipality - Status: 200
+Website: Ulundi Local Municipality - Status: Offline
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
 Website: Umkhanyakude District Municipality - Status: 200
