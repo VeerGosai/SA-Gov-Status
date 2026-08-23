@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -172,7 +172,7 @@ Website: Johannesburg (Metro Municipality) - Status: 200
 Website: Kagiso Nomolopol Municipality - Status: Offline
 Website: Kaigarib Municipality - Status: 200
 Website: Kamiesberg Municipality - Status: 200
-Website: Kannaland Municipality - Status: Offline
+Website: Kannaland Municipality - Status: 200
 Website: Karoo Hoogland Municipality - Status: 200
 Website: Kaunda District Municipality - Status: 200
 Website: Kenneth Kaunda District Municipality - Status: Offline
@@ -184,7 +184,7 @@ Website: Knysna Municipality - Status: 200
 Website: Kokstad Municipality - Status: 200
 Website: Kopanong Municipality - Status: Offline
 Website: Kouga Municipality - Status: 200
-Website: Kou-Kamma Municipality - Status: Offline
+Website: Kou-Kamma Municipality - Status: 200
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: Offline
 Website: KwaZulu-Natal Archives - Status: Offline
@@ -206,7 +206,7 @@ Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: 200
 Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
-Website: Laingsburg Municipality - Status: Offline
+Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
@@ -230,7 +230,7 @@ Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
 Website: Mbhashe Municipality - Status: 200
 Website: Mbizana Municipality - Status: Offline
-Website: Mbombela Municipality - Status: Offline
+Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
 Website: Mhlontlo Municipality - Status: 200
@@ -336,7 +336,7 @@ Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
-Website: Setsoto Municipality - Status: Offline
+Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: Offline
+Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: Offline
+Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -399,7 +399,7 @@ Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
 Website: Umuziwabantu Local Municipality - Status: 200
-Website: Umvoti Local Municipality - Status: 200
+Website: Umvoti Local Municipality - Status: Offline
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimvubu Local Municipality - Status: 200
@@ -412,7 +412,7 @@ Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
 Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: Offline
-Website: University of South Africa - Status: Offline
+Website: University of South Africa - Status: 200
 Website: University of the Free State - Status: 200
 Website: University of the Western Cape - Status: 200
 Website: University of the Witwatersrand - Status: 200
