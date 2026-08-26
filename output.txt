@@ -65,7 +65,7 @@ Website: Department of Rural Development and Agrarian Reform - Status: Offline
 Website: Department of Rural Development and Land Reform - Status: Offline
 Website: Department of Science and Innovation - Status: Offline
 Website: Department of Science and Technology - Status: Offline
-Website: Department of Social Development - Status: Offline
+Website: Department of Social Development - Status: 200
 Website: Department of Social Development: Mpumalanga - Status: 200
 Website: Department of Sport - Status: Offline
 Website: Department of Sports - Status: Offline
@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: 200
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: Offline
+Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
