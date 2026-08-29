@@ -184,7 +184,7 @@ Website: Knysna Municipality - Status: 200
 Website: Kokstad Municipality - Status: 200
 Website: Kopanong Municipality - Status: Offline
 Website: Kouga Municipality - Status: 200
-Website: Kou-Kamma Municipality - Status: 200
+Website: Kou-Kamma Municipality - Status: Offline
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: Offline
 Website: KwaZulu-Natal Archives - Status: Offline
@@ -336,7 +336,7 @@ Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
-Website: Setsoto Municipality - Status: 200
+Website: Setsoto Municipality - Status: Offline
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
@@ -346,11 +346,11 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
@@ -386,13 +386,13 @@ Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
 Website: Tswaing Local Municipality - Status: 200
 Website: Tswelopele Municipality - Status: 200
-Website: Ubuntu Local Municipality - Status: 200
+Website: Ubuntu Local Municipality - Status: Offline
 Website: Ugu District Municipality - Status: 200
 Website: Ukhahlamba District Municipality - Status: 200
 Website: Ulundi Local Municipality - Status: 200
 Website: Umfolozi Local Municipality - Status: Offline
 Website: Umhlabuyalingana Local Municipality - Status: 200
-Website: Umkhanyakude District Municipality - Status: Offline
+Website: Umkhanyakude District Municipality - Status: 200
 Website: Umlalazi Local Municipality - Status: 200
 Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
