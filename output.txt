@@ -162,11 +162,11 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
-Website: Joe Gqabi District Municipality - Status: Offline
+Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: 200
 Website: Kagiso Nomolopol Municipality - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: Offline
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: Offline
+Website: South African Local Government Association - Status: 200
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -363,7 +363,7 @@ Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
 Website: Stellenbosch Municipality - Status: Offline
-Website: Stellenbosch University - Status: 200
+Website: Stellenbosch University - Status: Offline
 Website: Steve Tshwete Local Municipality - Status: 200
 Website: Steve Tshwete Municipality - Status: 200
 Website: Stop Gender-Based Violence - Status: Offline
@@ -398,7 +398,7 @@ Website: Umngeni Local Municipality - Status: 200
 Website: Umshwathi Local Municipality - Status: 200
 Website: Umsinga Local Municipality - Status: 200
 Website: Umtshezi Local Municipality - Status: Offline
-Website: Umuziwabantu Local Municipality - Status: 200
+Website: Umuziwabantu Local Municipality - Status: Offline
 Website: Umvoti Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
 Website: Umzimkhulu Local Municipality - Status: 200
@@ -439,7 +439,7 @@ Website: Western Cape Government Schools - Status: Offline
 Website: Western Cape Law Advisors - Status: 200
 Website: Western Cape Provincial Parliament - Status: 200
 Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
-Website: Witrand Hospital - Status: Offline
+Website: Witrand Hospital - Status: 200
 Website: Witrand Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: 200
 Website: Witzenberg Local Municipality - Status: Offline
