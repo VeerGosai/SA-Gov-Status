@@ -84,7 +84,7 @@ Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
-Website: Durban University of Technology - Status: 200
+Website: Durban University of Technology - Status: Offline
 Website: Eastern Cape (Province) - Status: 200
 Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: Offline
@@ -163,7 +163,7 @@ Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
 Website: Integrated Justice System - Status: Offline
-Website: Intsikayethu Municipality - Status: 200
+Website: Intsikayethu Municipality - Status: Offline
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
 Website: Joe Gqabi District Municipality - Status: 200
@@ -274,7 +274,7 @@ Website: Nelson Mandela University - Status: 200
 Website: Ngqushwa Municipality - Status: Offline
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
-Website: Nkomazi Municipality - Status: 200
+Website: Nkomazi Municipality - Status: Offline
 Website: NMMDM - Status: 200
 Website: Nongoma Municipality - Status: 200
 Website: Non-Profit Organizations - Status: 200
@@ -430,10 +430,10 @@ Website: Vukuzenzele - Status: 200
 Website: Vulekamali - Status: Offline
 Website: Walter Sisulu University - Status: 200
 Website: Waste Management System - Status: Offline
-Website: Western Cape (Province) - Status: 200
+Website: Western Cape (Province) - Status: Offline
 Website: Western Cape Gambling and Racing Board - Status: Offline
 Website: Western Cape Government - Status: Offline
-Website: Western Cape Government - Status: 200
+Website: Western Cape Government - Status: Offline
 Website: Western Cape Government Library Service - Status: Offline
 Website: Western Cape Government Schools - Status: Offline
 Website: Western Cape Law Advisors - Status: 200
