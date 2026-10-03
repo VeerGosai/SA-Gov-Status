@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: Offline
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: Offline
+Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: 200
 Website: KZN Provincial Treasury - Status: 200
@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: Offline
+Website: Mtubatuba Municipality - Status: 200
 Website: Municipal Energy and Governance Agency - Status: Offline
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -309,7 +309,7 @@ Website: Phokwane Municipality - Status: 200
 Website: Phumelela Municipality - Status: 200
 Website: Phumelela Municipality - Status: Offline
 Website: Pixley Ka Isaka Seme District Municipality - Status: 200
-Website: Pixley Ka Isaka Seme Municipality - Status: Offline
+Website: Pixley Ka Isaka Seme Municipality - Status: 200
 Website: Plettenberg Bay Municipality - Status: Offline
 Website: Polokwane Municipality - Status: 200
 Website: Post Office - Status: Offline
