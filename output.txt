@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: 200
+Website: Mtubatuba Municipality - Status: Offline
 Website: Municipal Energy and Governance Agency - Status: Offline
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -285,7 +285,7 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: 200
+Website: Nquthu Municipality - Status: Offline
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: Offline
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
