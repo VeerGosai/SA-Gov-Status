@@ -50,7 +50,7 @@ Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
-Website: Department of Home Affairs - Status: Offline
+Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
@@ -119,7 +119,7 @@ Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
 Website: Frances Baard Municipality - Status: 200
-Website: Free State (Province) - Status: Offline
+Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
@@ -199,9 +199,9 @@ Website: KZN Department of Public Works - Status: Offline
 Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: Offline
 Website: KZN Department of Transport - Status: Offline
-Website: KZN Department of Works - Status: Offline
+Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: 200
+Website: KZN Legislature - Status: Offline
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: 200
 Website: KZN Provincial Treasury - Status: 200
@@ -210,7 +210,7 @@ Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
-Website: Letsemeng Municipality - Status: Offline
+Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
 Website: Limpopo Legislature - Status: Offline
@@ -288,7 +288,7 @@ Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
-Website: Nyandeni Municipality - Status: Offline
+Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: Offline
 Website: Oceanographic Research - Status: Offline
 Website: Office of the Inspector-General of Intelligence - Status: Offline
@@ -346,7 +346,7 @@ Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
-Website: Sol Plaatje University - Status: Offline
+Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: 200
 Website: South African Labour Market Information System - Status: Offline
@@ -361,7 +361,7 @@ Website: SRV Municipality - Status: 200
 Website: State Diamond Trader - Status: 200
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
-Website: Statistics South Africa - Status: 200
+Website: Statistics South Africa - Status: Offline
 Website: Stellenbosch Municipality - Status: Offline
 Website: Stellenbosch University - Status: 200
 Website: Steve Tshwete Local Municipality - Status: 200
@@ -442,6 +442,6 @@ Website: Winnie Madikizela-Mandela Local Municipality - Status: 200
 Website: Witrand Hospital - Status: 200
 Website: Witrand Local Municipality - Status: Offline
 Website: Witzenberg Local Municipality - Status: 200
-Website: Witzenberg Local Municipality - Status: Offline
+Website: Witzenberg Local Municipality - Status: 200
 Website: ZF Mgcawu District Municipality - Status: Offline
 Website: ZF Mgcawu District Municipality - Status: 200
