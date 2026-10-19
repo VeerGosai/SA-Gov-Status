@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: Offline
+Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -50,7 +50,7 @@ Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
 Website: Department of Higher Education and Training - Status: 200
-Website: Department of Home Affairs - Status: Offline
+Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
 Website: Department of Justice and Constitutional Development - Status: 200
@@ -114,11 +114,11 @@ Website: Emalahleni Local Municipality - Status: 200
 Website: Emalahleni Local Municipality (alternate domain) - Status: 200
 Website: Emfuleni Local Municipality - Status: Offline
 Website: Endumeni Municipality - Status: 200
-Website: E-Services Portal - Status: Offline
+Website: E-Services Portal - Status: 200
 Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
-Website: Frances Baard Municipality - Status: 200
+Website: Frances Baard Municipality - Status: Offline
 Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
@@ -157,7 +157,7 @@ Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
 Website: Ilembe District Municipality - Status: 200
-Website: Ilembe District Municipality - Status: 200
+Website: Ilembe District Municipality - Status: Offline
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
@@ -196,10 +196,10 @@ Website: KZN Department of Education - Status: Offline
 Website: KZN Department of Health - Status: Offline
 Website: KZN Department of Health Services - Status: 200
 Website: KZN Department of Public Works - Status: Offline
-Website: KZN Department of Social Development - Status: Offline
+Website: KZN Department of Social Development - Status: 200
 Website: KZN Department of Sport and Recreation - Status: Offline
 Website: KZN Department of Transport - Status: Offline
-Website: KZN Department of Works - Status: Offline
+Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
@@ -320,7 +320,7 @@ Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
-Website: Raymond Mhlaba Municipality - Status: 200
+Website: Raymond Mhlaba Municipality - Status: Offline
 Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: Offline
 Website: Richmond Municipality - Status: 200
@@ -380,7 +380,7 @@ Website: Thembisile Hani Local Municipality - Status: 200
 Website: Thembisile Hani Municipality - Status: 200
 Website: Tokologo Local Municipality - Status: Offline
 Website: Trans Caledon Tunnel Authority - Status: 200
-Website: Transport and Development Authority - Status: Offline
+Website: Transport and Development Authority - Status: 200
 Website: Tsantsabane Local Municipality - Status: 200
 Website: Tshwane (Metro Municipality) - Status: Offline
 Website: Tshwane University of Technology - Status: 200
