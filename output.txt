@@ -49,7 +49,7 @@ Website: Department of Environmental Affairs - Status: Offline
 Website: Department of Environmental Affairs and Tourism - Status: Offline
 Website: Department of Health - Status: 200
 Website: Department of Health - Status: 200
-Website: Department of Higher Education and Training - Status: Offline
+Website: Department of Higher Education and Training - Status: 200
 Website: Department of Home Affairs - Status: 200
 Website: Department of Human Settlements - Status: 200
 Website: Department of International Relations and Cooperation - Status: 200
@@ -79,8 +79,8 @@ Website: Deputy Public Defender Judge - Status: Offline
 Website: Digital Nomad Association Board - Status: Offline
 Website: Digital Technologies - Status: Offline
 Website: Dihlabeng Municipality - Status: Offline
-Website: Dikgatlong Municipality - Status: Offline
-Website: Ditsobotla Local Municipality - Status: Offline
+Website: Dikgatlong Municipality - Status: 200
+Website: Ditsobotla Local Municipality - Status: 200
 Website: Dr Abraxas Municipality - Status: 200
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
@@ -100,7 +100,7 @@ Website: Eastern Cape Provincial Legislature - Status: 200
 Website: Eastern Cape Provincial Treasury - Status: 200
 Website: Eastern Cape Socio-Economic Rights and Accountability Centre - Status: 200
 Website: Eden District Municipality - Status: Offline
-Website: Edumbe Municipality - Status: 200
+Website: Edumbe Municipality - Status: Offline
 Website: Ehlanzeni District Municipality - Status: 200
 Website: Ehlanzeni Local Municipality - Status: Offline
 Website: Ekhuruleni District Municipality - Status: Offline
@@ -162,7 +162,7 @@ Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
 Website: Indaka Municipality - Status: Offline
 Website: Independent Police Investigative Directorate - Status: Offline
-Website: Integrated Justice System - Status: Offline
+Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
@@ -204,7 +204,7 @@ Website: KZN Education - Status: 200
 Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: 200
-Website: KZN Provincial Treasury - Status: 200
+Website: KZN Provincial Treasury - Status: Offline
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
 Website: Land and Water Resources - Status: 200
@@ -219,7 +219,7 @@ Website: Limpopo Provincial Treasury - Status: 200
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
-Website: Magareng Municipality - Status: Offline
+Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
@@ -270,7 +270,7 @@ Website: Ndwedwe Municipality - Status: 200
 Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
-Website: Nelson Mandela University - Status: 200
+Website: Nelson Mandela University - Status: Offline
 Website: Ngqushwa Municipality - Status: 200
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
@@ -285,7 +285,7 @@ Website: Northern Cape (Province) - Status: Offline
 Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
-Website: Nquthu Municipality - Status: Offline
+Website: Nquthu Municipality - Status: 200
 Website: Ntabankulu Municipality - Status: 200
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
@@ -316,11 +316,11 @@ Website: Post Office - Status: Offline
 Website: Potchefstroom Hospital - Status: 200
 Website: Public Investment Corporation - Status: 200
 Website: Public Service Commission - Status: 200
-Website: Ramotshere Moiloa Municipality - Status: Offline
+Website: Ramotshere Moiloa Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Rand West City Municipality - Status: 200
 Website: Ratlou Municipality - Status: 200
-Website: Raymond Mhlaba Municipality - Status: Offline
+Website: Raymond Mhlaba Municipality - Status: 200
 Website: Rhodes University - Status: 200
 Website: Richards Bay Municipality - Status: Offline
 Website: Richmond Municipality - Status: 200
@@ -335,14 +335,14 @@ Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: Offline
-Website: Siyathemba Municipality - Status: Offline
+Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
@@ -372,8 +372,8 @@ Website: Taolo Gaetsewe Municipality - Status: 200
 Website: TDA Cape Town - Status: 200
 Website: Thabo Mofutsanyana District Municipality - Status: Offline
 Website: Thabo Mofutsanyana District Municipality - Status: 200
-Website: The Presidency of South Africa - Status: 200
-Website: The Presidency of South Africa - Status: 200
+Website: The Presidency of South Africa - Status: Offline
+Website: The Presidency of South Africa - Status: Offline
 Website: Theewaterskloof Municipality - Status: 200
 Website: Thembelihle Municipality - Status: 200
 Website: Thembisile Hani Local Municipality - Status: 200
@@ -410,7 +410,7 @@ Website: University of Fort Hare - Status: 200
 Website: University of Johannesburg - Status: Offline
 Website: University of KwaZulu-Natal - Status: 200
 Website: University of Limpopo - Status: 200
-Website: University of Mpumalanga - Status: Offline
+Website: University of Mpumalanga - Status: 200
 Website: University of Pretoria - Status: Offline
 Website: University of South Africa - Status: 200
 Website: University of the Free State - Status: 200
