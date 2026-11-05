@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: 200
+Website: Cape Winelands District Municipality - Status: Offline
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -86,7 +86,7 @@ Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
 Website: Durban University of Technology - Status: 200
 Website: Eastern Cape (Province) - Status: 200
-Website: Eastern Cape CoGTA - Status: Offline
+Website: Eastern Cape CoGTA - Status: 200
 Website: Eastern Cape Department of Education - Status: 200
 Website: Eastern Cape Department of Education: Schools - Status: Offline
 Website: Eastern Cape Department of Health - Status: Offline
@@ -119,7 +119,7 @@ Website: E-Tenders Portal - Status: 200
 Website: eThekwini (Metro Municipality) - Status: Offline
 Website: Financial Intelligence Centre - Status: 200
 Website: Frances Baard Municipality - Status: 200
-Website: Free State (Province) - Status: 200
+Website: Free State (Province) - Status: Offline
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
@@ -131,7 +131,7 @@ Website: Gauteng (Province) - Status: 200
 Website: Gauteng Province - Status: 200
 Website: Gauteng Provincial Government - Status: Offline
 Website: Gauteng Provincial Legislature - Status: Offline
-Website: Gauteng Provincial Safety Forum - Status: 200
+Website: Gauteng Provincial Safety Forum - Status: Offline
 Website: Gert Sibande District Municipality - Status: Offline
 Website: Go Durban - Status: Offline
 Website: Govan Mbeki Municipality - Status: 200
