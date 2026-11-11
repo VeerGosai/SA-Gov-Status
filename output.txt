@@ -21,7 +21,7 @@ Website: Camdeboo Municipality - Status: Offline
 Website: Cape Agulhas Municipality - Status: 200
 Website: Cape Peninsula University of Technology - Status: Offline
 Website: Cape Town (Metro Municipality) - Status: 200
-Website: Cape Winelands District Municipality - Status: Offline
+Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
@@ -123,7 +123,7 @@ Website: Free State (Province) - Status: 200
 Website: Free State Department of Health - Status: Offline
 Website: Free State Library Services - Status: Offline
 Website: Free State Social Development - Status: Offline
-Website: Free State Transport and Logistics Management - Status: Offline
+Website: Free State Transport and Logistics Management - Status: 200
 Website: Gamagara Municipality - Status: 200
 Website: Garden Route District Municipality - Status: 200
 Website: Garden Route District Municipality (alternate domain) - Status: 200
@@ -184,7 +184,7 @@ Website: Knysna Municipality - Status: 200
 Website: Kokstad Municipality - Status: 200
 Website: Kopanong Municipality - Status: Offline
 Website: Kouga Municipality - Status: 200
-Website: Kou-Kamma Municipality - Status: 200
+Website: Kou-Kamma Municipality - Status: Offline
 Website: KwaDukuza Municipality - Status: 200
 Website: KwaZulu-Natal (Province) - Status: Offline
 Website: KwaZulu-Natal Archives - Status: Offline
@@ -213,7 +213,7 @@ Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
 Website: Limpopo (Province) - Status: 200
 Website: Limpopo CETA - Status: 200
-Website: Limpopo Legislature - Status: 200
+Website: Limpopo Legislature - Status: Offline
 Website: Limpopo Provincial Government - Status: 200
 Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
@@ -239,11 +239,11 @@ Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
 Website: Mnquma Municipality - Status: 200
 Website: Mogale City Municipality - Status: 200
-Website: Mopani District Municipality - Status: Offline
+Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: Offline
+Website: Moses Kotane Municipality - Status: 200
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
@@ -336,7 +336,7 @@ Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Senqu Municipality - Status: 200
-Website: Setsoto Municipality - Status: 200
+Website: Setsoto Municipality - Status: Offline
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
@@ -350,7 +350,7 @@ Website: Sol Plaatje University - Status: 200
 Website: South African Border Control - Status: Offline
 Website: South African Government Network Services - Status: Offline
 Website: South African Labour Market Information System - Status: Offline
-Website: South African Local Government Association - Status: 200
+Website: South African Local Government Association - Status: Offline
 Website: South African Music Council - Status: Offline
 Website: South African News Agency - Status: 200
 Website: South African Police Service - Status: Offline
@@ -358,7 +358,7 @@ Website: South African Revenue Service - Status: 200
 Website: South African Social Security Agency - Status: Offline
 Website: Speed Test - Status: Offline
 Website: SRV Municipality - Status: 200
-Website: State Diamond Trader - Status: 200
+Website: State Diamond Trader - Status: Offline
 Website: State of the Nation Address - Status: Offline
 Website: State Security Agency - Status: Offline
 Website: Statistics South Africa - Status: 200
