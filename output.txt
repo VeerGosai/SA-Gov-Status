@@ -12,9 +12,9 @@ Website: Bojanala Platinum District Municipality - Status: 200
 Website: Bophirima Municipality - Status: 200
 Website: Breede Valley Municipality - Status: Offline
 Website: Breede Valley Municipality (alternate domain) - Status: Offline
-Website: Buffalo City (Metro Municipality) - Status: 200
+Website: Buffalo City (Metro Municipality) - Status: Offline
 Website: Buffalo City Metropolitan Municipality - Status: Offline
-Website: Buffalo City Municipality - Status: 200
+Website: Buffalo City Municipality - Status: Offline
 Website: Bushbuckridge Local Municipality - Status: Offline
 Website: Bushbuckridge Municipality - Status: 200
 Website: Camdeboo Municipality - Status: Offline
@@ -25,7 +25,7 @@ Website: Cape Winelands District Municipality - Status: 200
 Website: Cederberg Municipality - Status: Offline
 Website: Central Filming Initiative - Status: Offline
 Website: Central University of Technology - Status: 200
-Website: Chris Hani District Municipality - Status: 200
+Website: Chris Hani District Municipality - Status: Offline
 Website: City of Cape Town - Status: 200
 Website: City of Durban - Status: Offline
 Website: Civil Service Portal - Status: 200
@@ -70,7 +70,7 @@ Website: Department of Social Development: Mpumalanga - Status: 200
 Website: Department of Sport - Status: Offline
 Website: Department of Sports - Status: Offline
 Website: Department of Telecommunications and Postal Services - Status: Offline
-Website: Department of Tourism - Status: 200
+Website: Department of Tourism - Status: Offline
 Website: Department of Trade and Industry - Status: Offline
 Website: Department of Transport - Status: Offline
 Website: Department of Water and Sanitation - Status: Offline
@@ -81,7 +81,7 @@ Website: Digital Technologies - Status: Offline
 Website: Dihlabeng Municipality - Status: Offline
 Website: Dikgatlong Municipality - Status: 200
 Website: Ditsobotla Local Municipality - Status: 200
-Website: Dr Abraxas Municipality - Status: 200
+Website: Dr Abraxas Municipality - Status: Offline
 Website: Dr Kenneth Kaunda District Municipality - Status: 200
 Website: Drakenstein Municipality - Status: 200
 Website: Durban University of Technology - Status: 200
@@ -166,7 +166,7 @@ Website: Integrated Justice System - Status: 200
 Website: Intsikayethu Municipality - Status: 200
 Website: iParticipate Portal - Status: Offline
 Website: IYM Government Portal - Status: 200
-Website: Joe Gqabi District Municipality - Status: Offline
+Website: Joe Gqabi District Municipality - Status: 200
 Website: Joe Morolong Municipality - Status: Offline
 Website: Johannesburg (Metro Municipality) - Status: 200
 Website: Kagiso Nomolopol Municipality - Status: Offline
@@ -207,7 +207,7 @@ Website: KZN Office of the Premier - Status: 200
 Website: KZN Provincial Treasury - Status: 200
 Website: KZN Social Security Health Fund - Status: Offline
 Website: Laingsburg Municipality - Status: 200
-Website: Land and Water Resources - Status: Offline
+Website: Land and Water Resources - Status: 200
 Website: Langeberg Municipality - Status: 200
 Website: Lekwa Municipality - Status: 200
 Website: Letsemeng Municipality - Status: 200
@@ -228,7 +228,7 @@ Website: Maphumulo Municipality - Status: 200
 Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
-Website: Mbhashe Municipality - Status: 200
+Website: Mbhashe Municipality - Status: Offline
 Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
@@ -243,7 +243,7 @@ Website: Mopani District Municipality - Status: 200
 Website: Moqhaka Municipality - Status: 200
 Website: Moretele Municipality - Status: 200
 Website: Moroka Municipality - Status: 200
-Website: Moses Kotane Municipality - Status: 200
+Website: Moses Kotane Municipality - Status: Offline
 Website: Mossel Bay Municipality - Status: 200
 Website: Mpofana Municipality - Status: 200
 Website: Mpumalanga (Province) - Status: Offline
@@ -251,7 +251,7 @@ Website: Mpumalanga Department of Education - Status: Offline
 Website: Mpumalanga Legislature - Status: 200
 Website: Mpumalanga Provincial Government - Status: 200
 Website: Msunduzi Municipality - Status: Offline
-Website: Mtubatuba Municipality - Status: 200
+Website: Mtubatuba Municipality - Status: Offline
 Website: Municipal Energy and Governance Agency - Status: Offline
 Website: Municipal Infrastructure Project Management Information System - Status: 200
 Website: Municipal Infrastructure Support Agent - Status: 200
@@ -271,7 +271,7 @@ Website: Ndwedwe Municipality - Status: 200
 Website: Nelson Mandela Bay (Metro Municipality) - Status: 200
 Website: Nelson Mandela Bay Municipality - Status: 200
 Website: Nelson Mandela University - Status: 200
-Website: Ngqushwa Municipality - Status: 200
+Website: Ngqushwa Municipality - Status: Offline
 Website: Ngwathe Municipality - Status: Offline
 Website: Nkangala District Municipality - Status: 200
 Website: Nkomazi Municipality - Status: 200
@@ -286,7 +286,7 @@ Website: Northern Cape Legislature - Status: 200
 Website: Northern Cape Provincial Government - Status: Offline
 Website: North-West University - Status: 200
 Website: Nquthu Municipality - Status: 200
-Website: Ntabankulu Municipality - Status: 200
+Website: Ntabankulu Municipality - Status: Offline
 Website: Ntiri Hisano - Status: Offline
 Website: Nyandeni Municipality - Status: 200
 Website: Occupational Health and Safety - Status: Offline
@@ -335,7 +335,7 @@ Website: Sedibeng District Municipality - Status: 200
 Website: Sefako Makgatho Health Sciences University - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
 Website: Sekhukhune District Municipality - Status: 200
-Website: Senqu Municipality - Status: Offline
+Website: Senqu Municipality - Status: 200
 Website: Setsoto Municipality - Status: 200
 Website: Sisonke District Municipality - Status: Offline
 Website: SITA EDD - Status: Offline
