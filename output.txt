@@ -156,7 +156,7 @@ Website: Hantam Municipality - Status: 200
 Website: Harry Gwala District Municipality - Status: 200
 Website: Hessequa Municipality - Status: 200
 Website: Human Capital Management - Status: Offline
-Website: Ilembe District Municipality - Status: 200
+Website: Ilembe District Municipality - Status: Offline
 Website: Ilembe District Municipality - Status: 200
 Website: Ilembe Local Municipality - Status: 200
 Website: Impendle Municipality - Status: Offline
@@ -201,7 +201,7 @@ Website: KZN Department of Sport and Recreation - Status: Offline
 Website: KZN Department of Transport - Status: Offline
 Website: KZN Department of Works - Status: 200
 Website: KZN Education - Status: 200
-Website: KZN Legislature - Status: Offline
+Website: KZN Legislature - Status: 200
 Website: KZN Nerve Centre - Status: Offline
 Website: KZN Office of the Premier - Status: Offline
 Website: KZN Provincial Treasury - Status: 200
@@ -219,12 +219,12 @@ Website: Limpopo Provincial Treasury - Status: Offline
 Website: LOGIS - Status: Offline
 Website: Madibeng Municipality - Status: 200
 Website: Mafube Municipality - Status: Offline
-Website: Magareng Municipality - Status: Offline
+Website: Magareng Municipality - Status: 200
 Website: Mahikeng Municipality - Status: 200
 Website: Mandeni Municipality - Status: 200
 Website: Mangaung (Metro Municipality) - Status: 200
 Website: Mangosuthu University of Technology - Status: 200
-Website: Maphumulo Municipality - Status: 200
+Website: Maphumulo Municipality - Status: Offline
 Website: Matatiele Municipality - Status: 200
 Website: Matlosana Municipality - Status: 200
 Website: Matzikama Municipality - Status: Offline
@@ -233,7 +233,7 @@ Website: Mbizana Municipality - Status: Offline
 Website: Mbombela Municipality - Status: 200
 Website: Metsimaholo Municipality - Status: 200
 Website: MFNET - Status: Offline
-Website: Mhlontlo Municipality - Status: 200
+Website: Mhlontlo Municipality - Status: Offline
 Website: Mkhambathini Municipality - Status: 200
 Website: Mkhondo Local Municipality - Status: 200
 Website: Mkhondo Municipality - Status: Offline
@@ -342,7 +342,7 @@ Website: SITA EDD - Status: Offline
 Website: SITA OC - Status: Offline
 Website: Siyancuma Municipality - Status: 200
 Website: Siyanda Municipality - Status: Offline
-Website: Siyathemba Municipality - Status: Offline
+Website: Siyathemba Municipality - Status: 200
 Website: Small Business Ministry - Status: 200
 Website: Small Medium and Micro Enterprises - Status: Offline
 Website: Social Development - Status: Offline
